@@ -6,7 +6,8 @@ title: dubeltowo
 Lecę, czyli przemieszczam się w powietrzu, samolotem czyli aeroplanem. Niedaleko czyli opodal rozgrywa się czyli toczy
 dziwna czyli rzadko spotykana historia czyli bieg wydarzeń. Środkowy czyli centralny fotel zajmuje czyli okupuje blondynka
 czyli złotowłosa.
-Z wśiekłości czyli nieopanowanej złości niemal płacze, czyli jest bliska łez. Tymczasem na miejscach skrajnych, czyli
+
+Z wściekłości czyli nieopanowanej złości niemal płacze, czyli jest bliska łez. Tymczasem na miejscach skrajnych, czyli
 symetrycznych względem blondynki, krępy czyli niewysoki i mocno zbudowany mężczyzna czyli facet oraz prowincjonalna kobiecina
 czyli baba ze wsi prowadzą niezobowiązujący czyli potwornie nudny dialog czyli rozmowę zupełnie czyli absolutnie nie przejmując
 się czyli olewając rozwścieczoną czyli doprowadzoną do skrajności panienkę czyli damę.
