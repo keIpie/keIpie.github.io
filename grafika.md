@@ -9,7 +9,7 @@ graficzne inicjatywy
 ### co tu będzie
 
 - Camille przy barze
-- doktor Rieux patrzym przez okno
+- doktor Rieux patrzy przez okno
 
 ### Contact me
 
