@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running2!
+title: Sprawozdawczo
 ---
 
-tatrasad afydfke bwh, hwefjhw fkbfw ejknjknfnfjk _config.yml file in the root of your repository (shown below).
+Samolot Warszawa-Tel Aviv. Wsiada dwoje pasażerów. Filigranowa blondynka ma długie proste włosy i nerwowe ruchy.
+Mężczyzna krępej budowy zamyślony patrzy w dal. Zanim zajmą miejsca, wymieniają kilka zdań szeptem. Mężczyzna siada przy oknie.
+Tymczasem miejsce od strony przejścia zajmuje starsza kobieta o prowincjonalnej powierzchowności, ale miłym uśmiechu.
+Od tego momentu aż do wylądowania samolotu, mężczyzna rozmawia z nią na niezobowiązujące tematy. Blondynka, siedząca po środku,
+uczestniczy w dyskucji przez pierwsze pięć minut. Następnie wydyma usta i przyjmuje obrażoną i gniewną minę, która nie schodzi
+z jej twarzy do końca lotu.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Widzę ich znou przy odbiorze bagażu. Mężczyzna zaciska usta, blondynka płacze.
