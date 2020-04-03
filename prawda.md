@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: coztoprawda
 title: Cóż to jest prawda?
 permalink: /prawda/
 ---
