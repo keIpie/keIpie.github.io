@@ -7,6 +7,7 @@ permalink: /grafika/
 graficzne inicjatywy
 
 ### co tu będzie
+
 - Camille przy barze
 - doktor Rieux patrzym przez okno
 
