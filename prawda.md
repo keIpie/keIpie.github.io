@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Odżywki
-permalink: /odzywki/
+title: Cóż to jest prawda?
+permalink: /prawda/
 ---
 
 Some information about you!
