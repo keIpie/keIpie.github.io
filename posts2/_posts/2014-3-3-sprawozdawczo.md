@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprawozdawczo
+title: sprawozdawczo
 ---
 
 Samolot Warszawa-Tel Aviv. Wsiada dwoje pasażerów. Filigranowa blondynka ma długie proste włosy i nerwowe ruchy.

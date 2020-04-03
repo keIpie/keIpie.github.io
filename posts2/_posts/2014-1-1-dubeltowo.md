@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running2!
+title: dubeltowo
 ---
 
 Lecę, czyli przemieszczam się w powietrzu, samolotem czyli aeroplanem. Niedaleko czyli opodal rozgrywa się czyli toczy
@@ -13,4 +13,4 @@ niezobowiązujący czyli potwornie nudny dialog czyli rozmowę zupełnie czyli a
 rozwścieczoną czyli doprowadzoną do skrajności panienkę czyli damę.
 
 Czekając, czyli pozwalając na upływ czasu, na bagaż czyli moją walizkę zauważam czyli dostrzegam ich znowu czyli jeszcze raz.
-Ona czyli kobieta wybucha czyli robi awanturę. On czyli mężczyzna zaciska czyli mocno zwiera wargi czyli usta. 
+Ona czyli kobieta wybucha czyli robi awanturę. On czyli mężczyzna zaciska czyli mocno zwiera wargi czyli usta.
