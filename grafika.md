@@ -10,7 +10,7 @@ graficzne inicjatywy
 
 - Camille przy barze
 
-<video src="{{ site.baseurl }}/images/camille.mp4" width="320" height="200" controls preload>
+<video src="{{ site.baseurl }}/images/camille.mp4" width="320" height="200" controls preload></video>
 
 - doktor Rieux patrzy przez okno
 
