@@ -12,6 +12,6 @@ ma twarz prowincjonalną! - siedząca po drugiej stronie naszej bohaterki! Czemu
 zamieniają się miejscami? Dziewczyna zaraz eksploduje, zaraz trysną łzy! Dlaczego
 nic nie mówi?!
 
-W sali dobioru bagażu widzę ich znowu! Taka drobna, a jak krzyczy! Uwierzycie, że
+W sali odbioru bagażu widzę ich znowu! Taka drobna, a jak krzyczy! Uwierzycie, że
 to ona miała wykupione miejsce przy oknie? Chociaż... chwila! On kategorycznie
-zaprzecza! Cóż to, cóż to jest prawda? 
+zaprzecza! Cóż to, cóż to jest prawda?
