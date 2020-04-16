@@ -11,4 +11,4 @@ Od tego momentu aż do wylądowania samolotu, mężczyzna rozmawia z nią na nie
 uczestniczy w dyskucji przez pierwsze pięć minut. Następnie wydyma usta i przyjmuje obrażoną i gniewną minę, która nie schodzi
 z jej twarzy do końca lotu.
 
-Widzę ich znou przy odbiorze bagażu. Mężczyzna zaciska usta, blondynka płacze.
+Widzę ich znowu przy odbiorze bagażu. Mężczyzna zaciska usta, blondynka płacze.
