@@ -3,7 +3,7 @@ layout: post
 title: onirycznie
 ---
 
-Promień słońca rozświetla oblicze złotowłosej panienki. W tym mglistym blasku
+Promień słońca rozświetla oblicze złotowłosej. W tym mglistym blasku
 nie sposób mieć pewności, ale zdaje mi się, że po jej policzku spływa łza...
 
 Dookoła wzmaga się szum, w którego obojętności smutek blondynki rośnie, wybrzmiewa,
