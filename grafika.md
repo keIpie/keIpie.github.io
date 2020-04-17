@@ -4,9 +4,9 @@ title: grafika
 permalink: /grafika/
 ---
 
-graficzne inicjatywy
+mój świat twój świat
 
-### co tu będzie
+### a mon seul desir
 
 - Camille przy barze
 
@@ -16,7 +16,6 @@ graficzne inicjatywy
 
 - doktor Rieux patrzy przez okno
 
-
-### Contact me
+### napisz
 
 [aleksandra.horubala@gmail.com](mailto:aleksandra.horubala@gmail.com)
