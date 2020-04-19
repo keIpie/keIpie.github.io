@@ -2,16 +2,26 @@
 layout: default
 ---
 
-<h1> krypto </h1>
-<p><b> postkwantówka i nieprzemienne sprawy</b></p>
 <h3>
-    <a href="{{ site.baseurl }}/krypto">postkwantówka</a> &nbsp; &nbsp;
+    <a href="{{ site.baseurl }}/krypto">obfuskacja</a> &nbsp; &nbsp;
+    <a href="{{ site.baseurl }}/postkwantowka">postkwantówka</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/warkocze">warkocze</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/pgrupowe">pierścienie grupowe</a>
 </h3>
 
+<h1> obfuskacja </h1>
+<p><b> znane schematy, ataki i implementacje </b></p>
+<ul>
+    <li><b><a href="https://sites.google.com/view/iostate-of-the-art">iostate of the art</a></b></li>
+    <li><b><a href="https://malb.io/are-graded-encoding-schemes-broken-yet.html">strona Martina Albrechta</a></b></li>
+    <li><b><a href="https://simons.berkeley.edu/talks/advanced-lattice-based-cryptography-fhe-abe-etc-0">prezentacja o GGH15 i LWE-based iO - styczeń 2020</a></b></li>
+    <li><b><a href="https://github.com/5GenCrypto/circ-obfuscation">github 5Gen</a></b></li>
+    <li><b><a href="https://github.com/amaloz/obfuscation">github Alex Malozemoff</a></b></li>
+    <li><b><a href="https://github.com/shaih/BPobfus">implementacja GGH15 Shai Halevi</a></b></li>
+</ul>
+
 <div class="posts">
-  {% for post in site.categories.pq %}
+  {% for post in site.categories.obf %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
