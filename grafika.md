@@ -57,10 +57,10 @@ mój świat twój świat
 
 ####  encepence
 
-<img src="{{ site.baseurl }}/images/encepence/donpedro.jpg" alt="donpedro" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/encepence/trilab.jpg" alt="trilab" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/encepence/orzel.jpg" alt="orzel" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/encepence/tritor.jpg" alt="trirot" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/encepence/donpedro.jpg" alt="donpedro" style="width: 170px;" />
 
 <audio
   id="audio"
