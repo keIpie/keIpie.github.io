@@ -6,7 +6,8 @@ permalink: /grafika/
 
 mój świat twój świat
 
-### a mon seul desir
+### projekty
+
 - Camille przy barze
 
 <img src="{{ site.baseurl }}/images/camille.gif" onclick="toggle()" alt="Camille" style="width: 350px;"/>
