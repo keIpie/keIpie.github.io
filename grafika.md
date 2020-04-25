@@ -47,9 +47,9 @@ mój świat twój świat
 
 - krypto kubki
 
-<img src="{{ site.baseurl }}/images/kubki/adam_c.png" alt="adam" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/aneta_c.png" alt="aneta" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/daniel_c.png" alt="daniel" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/kubki/adam_c.png" onclick="toggleadam()" alt="adam" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/kubki/aneta_c.png" onclick="toggleaneta()" alt="aneta" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/kubki/daniel_c.png" onclick="toggledaniel()" alt="daniel" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/dorota_c.png" onclick="toggledorota()" alt="dorota" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/krzysiek_c.png" onclick="togglek()" alt="krzysiek" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/michal_c.png" onclick="togglem()" alt="michal" style="width: 170px;" />
@@ -57,6 +57,27 @@ mój świat twój świat
 <audio
   id="audio"
   src="{{ site.baseurl }}/audio/ringoffireburdon.mp3">
+  Your browser does not support the
+  <code>audio</code> element.
+</audio>
+
+<audio
+  id="audioadam"
+  src="{{ site.baseurl }}/audio/atlantyda.mp3">
+  Your browser does not support the
+  <code>audio</code> element.
+</audio>
+
+<audio
+  id="audioaneta"
+  src="{{ site.baseurl }}/audio/herkules.mp3">
+  Your browser does not support the
+  <code>audio</code> element.
+</audio>
+
+<audio
+  id="audiodaniel"
+  src="{{ site.baseurl }}/audio/onemorecup.mp3">
   Your browser does not support the
   <code>audio</code> element.
 </audio>
@@ -92,12 +113,39 @@ mój świat twój świat
       document.getElementById('audio').play()      
     }
     play = !play
+  }
+  var toggleadam = function () {
+    if (play) {
+      document.getElementById('audioadam').pause()
+    } else {
+      document.getElementById('audioadam').currentTime = 44
+      document.getElementById('audioadam').play()      
+    }
+    play = !play
+  }
+  var toggleaneta = function () {
+    if (play) {
+      document.getElementById('audioaneta').pause()
+    } else {
+      document.getElementById('audioaneta').currentTime = 21
+      document.getElementById('audioaneta').play()      
+    }
+    play = !play
+  }
+  var toggledaniel = function () {
+    if (play) {
+      document.getElementById('audiodaniel').pause()
+    } else {
+      document.getElementById('audiodaniel').currentTime = 65
+      document.getElementById('audiodaniel').play()      
+    }
+    play = !play
   }  
   var toggledorota = function () {
     if (play) {
       document.getElementById('audiodorota').pause()
     } else {
-      document.getElementById('audiodorota').currentTime = 7
+      document.getElementById('audiodorota').currentTime = 8
       document.getElementById('audiodorota').play()      
     }
     play = !play
