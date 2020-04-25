@@ -8,14 +8,14 @@ mój świat twój świat
 
 ### projekty
 
-- Camille przy barze
+#### Camille przy barze
 
 <img src="{{ site.baseurl }}/images/camille.gif" onclick="toggle()" alt="Camille" style="width: 350px;"/>
 <img src="{{ site.baseurl }}/images/camille2.gif" alt="Camille2" style="width: 350px;"/>
 
-- doktor Rieux patrzy przez okno
+####  doktor Rieux patrzy przez okno
 
-- siatkarskie koszulki
+####  siatkarskie koszulki
 
 <img
   src="{{ site.baseurl }}/images/siatka/s_attacker_c.jpg"
@@ -46,7 +46,7 @@ mój świat twój świat
   onmouseout="this.src='{{ site.baseurl }}/images/siatka/s_libero_c.jpg';"
 />
 
-- krypto kubki
+####  krypto kubki
 
 <img src="{{ site.baseurl }}/images/kubki/adam_c.png" onclick="toggleadam()" alt="adam" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/aneta_c.png" onclick="toggleaneta()" alt="aneta" style="width: 170px;" />
@@ -54,6 +54,14 @@ mój świat twój świat
 <img src="{{ site.baseurl }}/images/kubki/dorota_c.png" onclick="toggledorota()" alt="dorota" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/krzysiek_c.png" onclick="togglek()" alt="krzysiek" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/michal_c.png" onclick="togglem()" alt="michal" style="width: 170px;" />
+
+####  encepence
+
+<img src="{{ site.baseurl }}/images/encepence/donpedro.jpg" alt="donpedro" style="width: 140px;" />
+<img src="{{ site.baseurl }}/images/encepence/trilab.jpg" alt="trilab" style="width: 140px;" />
+<img src="{{ site.baseurl }}/images/encepence/orzel.jpg" alt="orzel" style="width: 140px;" />
+<img src="{{ site.baseurl }}/images/encepence/tritor.jpg" alt="trirot" style="width: 140px;" />
+<img src="{{ site.baseurl }}/images/encepence/osmiornica.jpg" alt="osmiornica" style="width: 140px;" />
 
 <audio
   id="audio"

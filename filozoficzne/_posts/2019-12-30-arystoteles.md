@@ -3,8 +3,8 @@ layout: post
 title: arystoteles
 ---
 
-powiedzieć, że istnieje, o czymś, czego nie ma, jest fałszem
+możność i akt - prawda, fałsz, wiedza, niewiedza;
+pisać w czasie teraźniejszym
 
-powiedzieć o tym, co jest, że jest, a o tym, czego nie ma, że go nie ma, jest prawdą
 
-arystoteles arystoteles arystoteles
+arystoteles metafizyka hermeneutyka
