@@ -6,7 +6,7 @@ permalink: /grafika/
 
 mój świat twój świat
 
-### projekty
+### szkice
 
 #### Camille przy barze
 
@@ -14,6 +14,8 @@ mój świat twój świat
 <img src="{{ site.baseurl }}/images/camille2.gif" alt="Camille2" style="width: 350px;"/>
 
 ####  doktor Rieux patrzy przez okno
+
+<img src="{{ site.baseurl }}/images/rieux.GIF" alt="rieux" style="width: 500px;"/>
 
 ####  siatkarskie koszulki
 
