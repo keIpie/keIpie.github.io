@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<p style="text-align:right;"><a href="{{ site.baseurl }}/krypto"> polski </a></p>
+
+<h3>
+    <a href="{{ site.baseurl }}/krypto">obfuscation</a> &nbsp; &nbsp;
+    <a href="{{ site.baseurl }}/postkwantowka">postquantum</a> &nbsp; &nbsp;
+    <a href="{{ site.baseurl }}/warkocze">braids</a> &nbsp; &nbsp;
+    <a href="{{ site.baseurl }}/pgrupowe">group rings</a> &nbsp; &nbsp;
+    <a href="{{ site.baseurl }}/pop">pop</a>
+</h3>
+
+<h1> obfuscation </h1>
+<p><b> known schemes, attacks and implementations </b></p>
+<ul>
+    <li><b><a href="https://sites.google.com/view/iostate-of-the-art" target="_blank">iostate of the art</a></b></li>
+    <li><b><a href="https://malb.io/are-graded-encoding-schemes-broken-yet.html" target="_blank">Martina Albrecht webpage</a></b></li>
+    <li><b><a href="https://simons.berkeley.edu/talks/advanced-lattice-based-cryptography-fhe-abe-etc-0" target="_blank">speech on GGH15 and LWE-based iO - open problems - january 2020</a></b></li>
+    <li><b><a href="https://github.com/5GenCrypto/circ-obfuscation" target="_blank">github 5Gen</a></b></li>
+    <li><b><a href="https://github.com/amaloz/obfuscation" target="_blank">github Alex Malozemoff</a></b></li>
+    <li><b><a href="https://github.com/shaih/BPobfus" target="_blank">implementation GGH15 Shai Halevi</a></b></li>
+    <li><b><a href="https://whibox.cyber-crypt.com/dashboard" target="_blank">WhibOx 2019</a></b></li>
+</ul>
+
+<div class="posts">
+  {% for post in site.categories.obf-eng %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
