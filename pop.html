@@ -10,8 +10,14 @@ layout: default
     <a href="{{ site.baseurl }}/pop">pop</a>
 </h3>
 
+<h1> nauka krypto </h1>
+<p><b> co czytać, co implementować: </b></p>
+<ul>
+    <li><b><a href="https://cryptopals.com/" target="_blank">cryptopals - wyzwania do implementacji</a></b></li>
+</ul>
+
 <div class="posts">
-  {% for post in site.categories.bn %}
+  {% for post in site.categories.popular %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
