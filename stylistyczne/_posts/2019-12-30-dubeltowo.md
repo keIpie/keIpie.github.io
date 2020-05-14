@@ -8,7 +8,7 @@ dziwna, czyli rzadko spotykana historia, czyli bieg wydarzeń.
 
 Środkowy, czyli centralny fotel zajmuje, czyli okupuje blondynka, czyli złotowłosa. Z wściekłości, czyli nieopanowanej złości
 niemal płacze, czyli jest bliska łez. Tymczasem na miejscach skrajnych, czyli symetrycznych względem blondynki, krępy, czyli
-niewysoki i mocno zbudowany mężczyzna, czyli facet oraz prowincjonalna kobiecina, czyli baba ze wsi prowadzą niezobowiązujący,
+niewysoki i mocno zbudowany mężczyzna, czyli facet oraz prowincjonalna kobiecina, czyli baba z Marymontu prowadzą niezobowiązujący,
 czyli potwornie nudny dialog, czyli rozmowę zupełnie, czyli absolutnie nie przejmując się, czyli olewając rozwścieczoną, czyli
 doprowadzoną do skrajności panienkę, czyli damę.
 
