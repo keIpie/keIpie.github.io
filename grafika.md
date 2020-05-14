@@ -4,9 +4,9 @@ title: grafika
 permalink: /grafika/
 ---
 
-mój świat twój świat
+szkice szkice
 
-### szkice
+### momenty
 
 #### Camille przy barze
 
