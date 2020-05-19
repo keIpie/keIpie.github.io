@@ -2,6 +2,7 @@
 layout: post
 title: zdumiewająco
 ---
+O panie co tu sie zdarzylo!!! Niesamowitosci!!!
 
 Kto pojmie co się stało w tym samolocie? Oto mężczyzna i kobieta! Oto dramat!
 Cóż oni do siebie szepczą? Niewiarygodne! On siada przy oknie, a ona po środku!
