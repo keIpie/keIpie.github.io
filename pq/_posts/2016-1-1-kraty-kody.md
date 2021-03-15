@@ -47,6 +47,10 @@ euklidesowej mogą różnić się na *wszystkich pozycjach* (w wybranej bazie mi
 
 ### błędy
 
+klasycznie kody były używane do korekcji błędów podczas transmisji. w kryptografii postkwantowej zarówno krat jak i kodów używa się
+do szyfrowania wiadomości. zaszyfrowanie wiadomości polega na zakodowani jej w postaći peœnego słowa/wektora kodu/kraty, po czym dodania błędu,
+którego nie można skorygować nie mając pewnej ważnej informacji, znanej tylko uprawnionemu użytkownikowi.
+
 ### q-kraty
 
 każdemu kodowi liniowemu można jednozacznie przyporządkować kratę. kodom będącym podprzestrzeniami $\mathbb{Z}_q^n$
