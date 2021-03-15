@@ -3,16 +3,21 @@ layout: post
 title: Kraty, kody, q-kraty
 ---
 
-kraty a kody liniowe - czym to się różni...
-
-### kraty
-
-kraty to $\mathbb{Z}$-moduły, czyli odpowiedniki przestrzeni liniowych nad pierścieniem $\mathbb{Z}$
+kraty a kody liniowe - w czym są podobne, czym się różnią...
 
 ### kody
 
 kody liniowe to $k$-wymiarowe podprzestrzenie przestrzeni liniowych na ciałami skończonymi $\mathbb{Z}_q^n$.
-takie kody nazywane są też kodami q-arnymi.
+takie kody nazywane są też kodami q-arnymi. kody liniowe zadawane są przez macierz generującą $B \in \mathbb{Z}_q^{n \times k}$:
+
+$$ C(B) = \{ Bx ~|~ x \in \mathbb{Z}_q^n \}. $$
+
+### kraty
+
+kraty to $\mathbb{Z}$-moduły, czyli odpowiedniki przestrzeni liniowych nad pierścieniem $\mathbb{Z}$. ich elementy są całkowitoliczbowymi
+kombinacja $n$ liniowo niezależnych wektorów z $\mathbb{R}^n$ tworzących bazę kraty $B$:
+
+$$ L(B) = \{ Bx ~|~ x \in \mathbb{Z}^n \}. $$
 
 ### odległości między elementami
 
