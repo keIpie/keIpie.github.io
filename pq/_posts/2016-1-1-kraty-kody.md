@@ -15,5 +15,5 @@ kody liniowe to $k$-wymiarowe podprzestrzenie przestrzeni liniowych na ciałami 
 ### q-kraty
 
 każdemu kodowi liniowemu można jednozacznie przyporządkować kratę. kodom będącym podprzestrzeniami $\mathbb{Z}_q^n$
-odpowiadają tak zwane q-kraty, czyli kraty $L$, dla których $q\mathbb{Z} \subseteq L$. z warunku tego wynika, że
-wektor $x \in \mathhb{Z}$ należy do q-arnej kraty $L_q$ wtedy i tylko wtedy, gdy $x \pmod{q}$ również do niej należy. 
+odpowiadają tak zwane kraty q-arne, czyli kraty $L$, dla których $q\mathbb{Z} \subseteq L$. z warunku tego wynika, że
+wektor $x \in \mathhb{Z}$ należy do q-arnej kraty $L_q$ wtedy i tylko wtedy, gdy $x \pmod{q}$ również należy do $L_q$. 
