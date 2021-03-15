@@ -49,7 +49,15 @@ euklidesowej mogą różnić się na *wszystkich pozycjach* (w wybranej bazie mi
 
 klasycznie kody były używane do korekcji błędów podczas transmisji. w kryptografii postkwantowej zarówno krat jak i kodów używa się
 do szyfrowania wiadomości. zaszyfrowanie wiadomości polega na zakodowani jej w postaći peœnego słowa/wektora kodu/kraty, po czym dodania błędu,
-którego nie można skorygować nie mając pewnej ważnej informacji, znanej tylko uprawnionemu użytkownikowi.
+którego nie można skorygować nie mając pewnej ważnej informacji, znanej tylko uprawnionemu użytkownikowi. po dodaniu błędu otrzymujemy szyfrogram,
+który nie należy do kodu/kraty.
+
+w systemach kodowych szyfrogram $c$ jest pewnym wektorem z przestrzeni $\mathbb{Z}_q^n$, nie należącym do podprzestrzeni kodu. skorygować błąd
+może jedynie osoba posiadająca tajne parametry kodu.
+
+w systemach kratowych szyfrogram $c$ jest pewnym wektorem z przestrzni $\mathbb{R}^n$. do wektora kraty dodawany jest wektor błędu, o małej długości
+w porównaniu z długością najkrótszego wektora kraty. nie znając krótkich wektorów kraty, obliczeniowo trudnym problemem jest znalezienie
+wektora należącego do kraty, którego odległość euklidesowa od $c$ jest najmniejsza (problem *znalezienia najbliższego wektora*).
 
 ### q-kraty
 
