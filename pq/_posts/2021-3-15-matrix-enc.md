@@ -22,6 +22,7 @@ Ishai i Kushilevitz w pracy "Private Simultaneous Message Protocols with Applica
 
 **Lemat** Niech $A$ i $A'$ będą macierzami nad ciałem skończonym $GF(q)$ tego samego rzędu $r$. Istnieją odwracalne macierze
 $R$ i $P$, które spełaniają:
+
 $$ A' = R \cdot A \cdot P. $$  
 
 **Dowód**
