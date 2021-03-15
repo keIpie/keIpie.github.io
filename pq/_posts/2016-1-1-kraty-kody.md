@@ -16,7 +16,12 @@ takie kody nazywane są też kodami q-arnymi.
 
 ### odległości między elementami
 
-w kodach odległość między słowami
+w kodach odległość między słowami definiujemy jako odległość Hamminga, zliczającą liczbę pozycji, na których dwa słowa
+kodowe mają różne wartości. minimalną odległością Hamminga kodu nazywamy najmniejszą liczbę pozycji na których różnią się
+dwa słowa z zadanego kodu. tworząc kod korekcyjny chcemy, aby minimalna odległość była jak największa - wtedy możemy wykryć
+i poprawić więcej błędów, które mogły pojawić się podczas transmisji wiadomości drogą radiową.
+
+w kratach długość wektorów i odległość między wektorami obliczamy przy pomocy metryki euklidesowej.
 
 ### q-kraty
 
@@ -55,7 +60,7 @@ $$ L_q^{\perp}(H) = \{ x \in \mathbb{Z}^m ~|~ H x = 0 \pmod{q} \}. $$
 każdemu elementowi $x \in \mathbb{R}^n$ możemy przyporządkować przekształcenie iloczynu skalarnego z $x$: $f_x(y)=x \cdot y$, będące homomorfizmem.
 kratą dualną do kraty $L$ nazywamy kratę $L^*$, składającą się z homomorfizmów z kraty $L$ w zbiór liczb całkowitych z dodawaniem:
 
-$$ L^* = Hom(L,\mathbb{Z}) = \{ x \in \mathbb{R}^n ~|~ x \cdot y \in \mathbb{Z} ~~~ \forall y \in L \}$$
+$$ L^* = Hom(L,\mathbb{Z}) = \{ x \in \mathbb{R}^n ~|~ x \cdot y \in \mathbb{Z} ~~~ \forall y \in L \}. $$
 
 kodem dualnym nazywamy kod generowany przez macierz kontroli parzystości. można pokazać, że:
 
