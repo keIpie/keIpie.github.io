@@ -26,8 +26,15 @@ w odróżnieniu od kodów q-arnych, do q-arnych krat należą nie tylko wektory 
 możemy rozważać euklidesową odległość.
 
 przykładowa krata q-arna o bazie $B \in \mathbb{Z}^{n \times m}$ ma postać:
-$$ L_q(B) = \{ y \in \mathbb{Z}^m ~|~ y = B \cdot s \pmod{q}~~for~some~s \in \mathbb{Z}^n~\} = B \mathbb{Z}^n + q\mathbb{Z}^m$$
+$$ L_q(B) = \{ y \in \mathbb{Z}^m ~|~ y = B s \pmod{q}~~for~some~s \in \mathbb{Z}^n~\} = B \mathbb{Z}^n + q\mathbb{Z}^m$$
 
 odpowiada ona kodowi liniowemu o macierzy generującej $B \in \mathbb{Z}_q^{n \times m}$
 
 ### kontrola parzystości
+
+w teori kodowania ważną rolę odgrywają macierze kontroli parzystości. dzięki nim sprawdzamy, czy dane słowo należy do kodu.
+
+analogiczną rolę będą pełniły kraty kontroli parzystości, które można zdefiniować dla krat q-arnych (i odpowiadają macierzom
+kontroli parzystości dla kodów):
+
+$$ L_q^{\perp}(B) = \{ x \in \mathbb{Z}^m ~|~ B x = 0 \pmod{q} } $$
