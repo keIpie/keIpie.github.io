@@ -10,14 +10,24 @@ kraty a kody liniowe - w czym są podobne, czym się różnią...
 kody liniowe to $k$-wymiarowe podprzestrzenie przestrzeni liniowych na ciałami skończonymi $\mathbb{Z}_q^n$.
 takie kody nazywane są też kodami q-arnymi. kody liniowe zadawane są przez macierz generującą $B \in \mathbb{Z}_q^{n \times k}$:
 
-$$ C(B) = \{ Bx ~|~ x \in \mathbb{Z}_q^n \}. $$
+$$ C(B) = \{ Bx \in \mathbb{Z}_q^n ~|~ x \in \mathbb{Z}_q^k \}. $$
 
 ### kraty
 
 kraty to $\mathbb{Z}$-moduły, czyli odpowiedniki przestrzeni liniowych nad pierścieniem $\mathbb{Z}$. ich elementy są całkowitoliczbowymi
 kombinacja $n$ liniowo niezależnych wektorów z $\mathbb{R}^n$ tworzących bazę kraty $B$:
 
-$$ L(B) = \{ Bx ~|~ x \in \mathbb{Z}^n \}. $$
+$$ L(B) = \{ Bx \in \mathbb{Z}^n ~|~ x \in \mathbb{Z}^n \}. $$
+
+### jeden kod/krata różne macierze/bazy
+
+ta sama przestrzeń słów kodowych odpowiada wielu różnym kodom, które są zadane przez różne macierze generujące. kody które mają ten sam zbiór słów
+kodowych nazywamy *równoważnymi*. zbiór słów kodowych jest ten sam, ale różny jest sposób w jaki przyporządkowujemy je wiadomościom, które możemy
+permutować w dowolny sposób. dwa kody są równoważne, jeżeli ich macierze generujące $B,~B' \in \mathbb{Z}_q^{n \times k}$ są sobie równe z dokładnością do
+przemnożenia przez macierz odwracalną wymiarów $k \times k$.
+
+ta sama krata ma wiele różnych baz. bazy $B$ i $B'$ zadają tę samą kratę, jeżeli jedną można przekształcić w druga przy pomocy mnożenia
+przez macierz unimodularną (pełnego rzędu i o wyznaczniku $\pm 1$).
 
 ### odległości między elementami
 
@@ -34,6 +44,8 @@ ortogonalizację wektorów bazowych w celu znalezienia najkróteszego wektora kr
 
 zauważmy, że odległość euklidesowa między słowami kodowymi o odległości Hamminga 1 może być dowolnie duża, a wektory kraty o bardzo małej odległości
 euklidesowej mogą różnić się na *wszystkich pozycjach* (w wybranej bazie mieć wszystkie współczynniki różne).
+
+### błędy
 
 ### q-kraty
 
