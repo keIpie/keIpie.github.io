@@ -17,11 +17,15 @@ takie kody nazywane są też kodami q-arnymi.
 ### odległości między elementami
 
 w kodach odległość między słowami definiujemy jako odległość Hamminga, zliczającą liczbę pozycji, na których dwa słowa
-kodowe mają różne wartości. minimalną odległością Hamminga kodu nazywamy najmniejszą liczbę pozycji na których różnią się
+kodowe mają różne wartości. minimalną odległością Hamminga kodu, oznaczaną symbolem $d$, nazywamy najmniejszą liczbę pozycji na których różnią się
 dwa słowa z zadanego kodu. tworząc kod korekcyjny chcemy, aby minimalna odległość była jak największa - wtedy możemy wykryć
 i poprawić więcej błędów, które mogły pojawić się podczas transmisji wiadomości drogą radiową.
 
-w kratach długość wektorów i odległość między wektorami obliczamy przy pomocy metryki euklidesowej.
+w kratach długość wektorów i odległość między wektorami obliczamy przy pomocy metryki euklidesowej. minimalną odległość między
+dwoma wektorami kraty zadaje najkrótszy wektor kraty, oznaczalny jako $\lambda_1$. bazę kraty stanowi zbiór $n$ liniowo niezależnych
+wektorów o dowolnej długości, a pozostałe elementy są ich kombinacjami liniowymi. dla krat dużych wymiarów znalezienie
+najkrótszego wektora jest zadaniem obliczeniowo trudnym. najlepsze znane algorytmy (algorytm LLL, algorytm BKZ) wykonują uogólnioną
+ortogonalizację wektorów bazowych w celu znalezienia najkróteszego wektora kraty (lub choćby wektora, którego długość jest bliska najkrótszej).
 
 ### q-kraty
 
