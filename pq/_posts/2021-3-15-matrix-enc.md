@@ -3,7 +3,9 @@ layout: post
 title: Macierze a szyfrowanie
 ---
 
-jak i po co szyfrować macierze. klaszyczna kryptografia zajmuje się szyfrowaniem wiadomości.
+jak i po co szyfrować macierze.
+
+klaszyczna kryptografia zajmuje się szyfrowaniem wiadomości.
 do tego celu zazwyczaj używa algebry przemiennej, teorii liczb i rachunku prawdopodobieństwa,
 formułując obliczeniowo trudne problemy, na których opiera się bezpieczeństwo kryptosystemów.
 wiadomości są kodowane w wybranych strukturach algebraicznych, a następnie szyfrowane poprzez
