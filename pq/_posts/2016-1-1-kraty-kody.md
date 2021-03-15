@@ -33,8 +33,15 @@ odpowiada ona kodowi liniowemu o macierzy generującej $B \in \mathbb{Z}_q^{n \t
 ### kontrola parzystości
 
 w teori kodowania ważną rolę odgrywają macierze kontroli parzystości. dzięki nim sprawdzamy, czy dane słowo należy do kodu.
+można zdefiniowqać krótki ciąg dokładny:
 
-analogiczną rolę będą pełniły kraty kontroli parzystości, które można zdefiniować dla krat q-arnych (i odpowiadają macierzom
+$$ 0 \rightarrow \mathbb{Z}_q^k \stackrel{B}{\rightarrow} \mathbb{Z}_q^n \stackrel{B}{\rightarrow} \mathbb{Z}_q^{n-k} \rightarrow 0, $$
+
+dla którego kolejnych przekształceń obraz wcześniejszego jest jądrem kolejnego. Słowa kodowe $C \subseteq \mathbb{Z}_q^n$ tworzą obraz
+przy mnożeniu przez $B$ (powstały jako iloczyny wiadomości przez macierz generującą $B$) i są jądrem przy mnożeniu przez macierz kontroli
+parzystości $H$ (iloczyn słowa kodowego i macierzy $H$ jest zerem wtedy i tylko wtedy kiedy słowo należy do kodu).
+
+analogiczną rolę będą pełniły kraty kontroli parzystości, które można zdefiniować dla krat q-arnych (a odpowiadają macierzom
 kontroli parzystości dla kodów):
 
-$$ L_q^{\perp}(B) = \{ x \in \mathbb{Z}^m ~|~ B x = 0 \pmod{q} } $$
+$$ L_q^{\perp}(H) = \{ x \in \mathbb{Z}^m ~|~ H x = 0 \pmod{q} }. $$
