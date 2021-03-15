@@ -20,15 +20,17 @@ w postaci iloczynu macierzy (choć często bardzo wielu).
 
 Ishai i Kushilevitz w pracy "Private Simultaneous Message Protocols with Applications" zdefiniowali następujący lemat.
 
-_Lemat_ Niech $A$ i $A'$ będą macierzami nad ciałem skończonym $GF(q)$ tego samego rzędu $r$. Istnieją odwracalne macierze
+**Lemat** Niech $A$ i $A'$ będą macierzami nad ciałem skończonym $GF(q)$ tego samego rzędu $r$. Istnieją odwracalne macierze
 $R$ i $P$, które spełaniają:
 $$ A' = R \cdot A \cdot P. $$  
 
-_Dowód_
+**Dowód**
 
 Z powyższegto lematu wynika, że rozkład $R \cdot A \cdot P$ jest nieodróznialny od losowego.
 
-_Lemat 2_ Rozkład $R \cdot A \cdot P$, gdie $R$ i $P$ są jednostajnie losowymi, niezależnymi macierzami odwracalnymi
+**Lemat 2** Rozkład $R \cdot A \cdot P$, gdie $R$ i $P$ są jednostajnie losowymi, niezależnymi macierzami odwracalnymi
 zależy jedyhnie od rzedu macierzy $A$.
+
+**Dowód**
 
 ### jak szyfrować macierze nad pierścieniem
