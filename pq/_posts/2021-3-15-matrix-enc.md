@@ -18,4 +18,10 @@ w postaci iloczynu macierzy (choć często bardzo wielu).
 
 ### jak szyfrować macierze nad ciałem
 
+Ishai i Kushilevitz w pracy "Private Simultaneous Message Protocols with Applications" zdefiniowali następujący lemat.
+
+_Lemat_ Niech $A$ i $A'$ będą macierzami nad ciałem skończonym $GF(q)$ tego samego rzędu $r$. Istnieją odwracalne macierze
+$R$ i $P$, które spełaniają:
+$$ A' = R \cdot A \cdot P. $$  
+
 ### jak szyfrować macierze nad pierścieniem
