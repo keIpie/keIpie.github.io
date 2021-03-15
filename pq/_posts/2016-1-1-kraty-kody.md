@@ -3,6 +3,7 @@ layout: post
 title: Kraty, kody, q-kraty
 ---
 
+kraty a kody liniowe - czym to się różni...
 
 ### kraty
 
@@ -17,7 +18,7 @@ takie kody nazywane są też kodami q-arnymi.
 
 każdemu kodowi liniowemu można jednozacznie przyporządkować kratę. kodom będącym podprzestrzeniami $\mathbb{Z}_q^n$
 odpowiadają tak zwane kraty q-arne, czyli kraty $L$, dla których $q\mathbb{Z}^n \subseteq L$. z warunku tego wynika, że
-wektor $x \in \mathhb{Z}$ należy do q-arnej kraty $L_q$ wtedy i tylko wtedy, gdy $x \pmod{q}$ również należy do $L_q$.
+wektor $x \in \mathbb{Z}$ należy do q-arnej kraty $L_q$ wtedy i tylko wtedy, gdy $x \pmod{q}$ również należy do $L_q$.
 
 w zastosowaniach kryptograficznych można myśleć, że krat q-arne do podgrupy $\mathbb{Z}_q^n$.
 
