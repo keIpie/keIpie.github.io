@@ -33,11 +33,11 @@ z powyższegto lematu wynika, że rozkład $R \cdot A \cdot P$ jest nieodróznia
 
 **lemat 2**
 
-Rozkład $R \cdot A \cdot P$, gdzie $R$ i $P$ są jednostajnie losowymi, niezależnymi macierzami odwracalnymi
-zależy jedyhnie od rzedu macierzy $A$.
+rozkład $R \cdot A \cdot P$, gdzie $R$ i $P$ są jednostajnie losowymi, niezależnymi macierzami odwracalnymi
+zależy jedynie od rzedu macierzy $A$.
 
 **dowód**
 
 ### jak szyfrować macierze nad pierścieniem
 
-nad pierścieniem jest trudniej, ponieważ nie możemy zdefiniować rzędu macierzy. 
+nad pierścieniem jest trudniej, ponieważ nie możemy zdefiniować rzędu macierzy.
