@@ -8,14 +8,14 @@ kraty a kody liniowe - w czym są podobne, czym się różnią...
 ### kody
 
 kody liniowe to $k$-wymiarowe podprzestrzenie przestrzeni liniowych na ciałami skończonymi $\mathbb{Z}_q^n$.
-tego typu kody nazywane są też kodami q-arnymi. zadawane są przez macierz generującą $B \in \mathbb{Z}_q^{n \times k}$:
+tego typu kody nazywane są też kodami q-arnymi. zadawane są przez *macierz generującą* $B \in \mathbb{Z}_q^{n \times k}$:
 
 $$ C(B) = \{ Bx \in \mathbb{Z}_q^n ~|~ x \in \mathbb{Z}_q^k \}. $$
 
 ### kraty
 
 kraty to $\mathbb{Z}$-moduły, czyli odpowiedniki przestrzeni liniowych nad pierścieniem $\mathbb{Z}$. ich elementy są całkowitoliczbowymi
-kombinacja $n$ liniowo niezależnych wektorów z $\mathbb{R}^n$ tworzących bazę kraty $B$:
+kombinacjami $n$ liniowo niezależnych wektorów z $\mathbb{R}^n$ tworzących tak zwaną *bazę* kraty $B$:
 
 $$ L(B) = \{ Bx \in \mathbb{Z}^n ~|~ x \in \mathbb{Z}^n \}. $$
 
@@ -59,7 +59,7 @@ w odróżnieniu od kodów q-arnych, do q-arnych krat należą nie tylko wektory 
 możemy rozważać euklidesową odległość.
 
 przykładowa krata q-arna o bazie $B \in \mathbb{Z}^{n \times m}$ ma postać:
-$$ L_q(B) = \{ y \in \mathbb{Z}^m ~|~ y = B s \pmod{q}~~for~some~s \in \mathbb{Z}^n~\} = B \mathbb{Z}^n + q\mathbb{Z}^m$$
+$$ L_q(B) = \{ y \in \mathbb{Z}^m ~|~ y = B s \pmod{q}~~dla~pewnego~~s \in \mathbb{Z}^n~\} = B \mathbb{Z}^n + q\mathbb{Z}^m$$
 
 odpowiada ona kodowi liniowemu o macierzy generującej $B \in \mathbb{Z}_q^{n \times m}$
 
