@@ -24,4 +24,11 @@ _Lemat_ Niech $A$ i $A'$ będą macierzami nad ciałem skończonym $GF(q)$ tego 
 $R$ i $P$, które spełaniają:
 $$ A' = R \cdot A \cdot P. $$  
 
+_Dowód_
+
+Z powyższegto lematu wynika, że rozkład $R \cdot A \cdot P$ jest nieodróznialny od losowego.
+
+_Lemat 2_ Rozkład $R \cdot A \cdot P$, gdie $R$ i $P$ są jednostajnie losowymi, niezależnymi macierzami odwracalnymi
+zależy jedyhnie od rzedu macierzy $A$.
+
 ### jak szyfrować macierze nad pierścieniem
