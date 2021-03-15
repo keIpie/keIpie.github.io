@@ -8,7 +8,7 @@ kraty a kody liniowe - w czym są podobne, czym się różnią...
 ### kody
 
 kody liniowe to $k$-wymiarowe podprzestrzenie przestrzeni liniowych na ciałami skończonymi $\mathbb{Z}_q^n$.
-takie kody nazywane są też kodami q-arnymi. kody liniowe zadawane są przez macierz generującą $B \in \mathbb{Z}_q^{n \times k}$:
+tego typu kody nazywane są też kodami q-arnymi. kody liniowe zadawane są przez macierz generującą $B \in \mathbb{Z}_q^{n \times k}$:
 
 $$ C(B) = \{ Bx \in \mathbb{Z}_q^n ~|~ x \in \mathbb{Z}_q^k \}. $$
 
