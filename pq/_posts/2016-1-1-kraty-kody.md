@@ -48,12 +48,12 @@ euklidesowej mogą różnić się na *wszystkich pozycjach* (w wybranej bazie mi
 ### błędy
 
 klasycznie kody były używane do korekcji błędów podczas transmisji. w kryptografii postkwantowej zarówno krat jak i kodów używa się
-do szyfrowania wiadomości. zaszyfrowanie wiadomości polega na zakodowani jej w postaći peœnego słowa/wektora kodu/kraty, po czym dodania błędu,
+do szyfrowania wiadomości. zaszyfrowanie wiadomości polega na zakodowaniu jej w postaći pewnego słowa/wektora kodu/kraty, po czym dodania błędu,
 którego nie można skorygować nie mając pewnej ważnej informacji, znanej tylko uprawnionemu użytkownikowi. po dodaniu błędu otrzymujemy szyfrogram,
 który nie należy do kodu/kraty.
 
 w systemach kodowych szyfrogram $c$ jest pewnym wektorem z przestrzeni $\mathbb{Z}_q^n$, nie należącym do podprzestrzeni kodu. skorygować błąd
-może jedynie osoba posiadająca tajne parametry kodu.
+może jedynie osoba posiadająca parametry kodu. usuwanie błędów i dekodowanie słów kodu, którego się nie zna jest problemem obliczeniowo trudnym. 
 
 w systemach kratowych szyfrogram $c$ jest pewnym wektorem z przestrzni $\mathbb{R}^n$. do wektora kraty dodawany jest wektor błędu, o małej długości
 w porównaniu z długością najkrótszego wektora kraty. nie znając krótkich wektorów kraty, obliczeniowo trudnym problemem jest znalezienie
@@ -65,7 +65,7 @@ każdemu kodowi liniowemu można jednozacznie przyporządkować kratę. kodom b�
 odpowiadają tak zwane kraty q-arne, czyli kraty $L$, dla których $q\mathbb{Z}^n \subseteq L$. z warunku tego wynika, że
 wektor $x \in \mathbb{Z}$ należy do q-arnej kraty $L_q$ wtedy i tylko wtedy, gdy $x \pmod{q}$ również należy do $L_q$.
 
-w zastosowaniach kryptograficznych można myśleć, że krat q-arne do podgrupy $\mathbb{Z}_q^n$.
+w zastosowaniach kryptograficznych można myśleć, że kraty q-arne do podgrupy $\mathbb{Z}_q^n$.
 
 w odróżnieniu od kodów q-arnych, do q-arnych krat należą nie tylko wektory $x \pmod{q}$, ale też $x$. dzięki temu
 możemy rozważać euklidesową odległość.
@@ -77,7 +77,7 @@ odpowiada ona kodowi liniowemu o macierzy generującej $B \in \mathbb{Z}_q^{n \t
 
 ### kontrola parzystości
 
-w teori kodowania ważną rolę odgrywają macierze kontroli parzystości. dzięki nim sprawdzamy, czy dane słowo należy do kodu.
+w teorii kodowania ważną rolę odgrywają macierze kontroli parzystości. dzięki nim sprawdzamy, czy dane słowo należy do kodu.
 można zdefiniowqać krótki ciąg dokładny:
 
 $$ 0 \rightarrow \mathbb{Z}_q^k \stackrel{B}{\rightarrow} \mathbb{Z}_q^n \stackrel{H}{\rightarrow} \mathbb{Z}_q^{n-k} \rightarrow 0, $$
