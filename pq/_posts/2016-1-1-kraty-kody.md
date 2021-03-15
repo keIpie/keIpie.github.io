@@ -14,6 +14,10 @@ kraty to $\mathbb{Z}$-moduły, czyli odpowiedniki przestrzeni liniowych nad pier
 kody liniowe to $k$-wymiarowe podprzestrzenie przestrzeni liniowych na ciałami skończonymi $\mathbb{Z}_q^n$.
 takie kody nazywane są też kodami q-arnymi.
 
+### odległości między elementami
+
+w kodach odległość między słowami
+
 ### q-kraty
 
 każdemu kodowi liniowemu można jednozacznie przyporządkować kratę. kodom będącym podprzestrzeniami $\mathbb{Z}_q^n$
@@ -51,4 +55,8 @@ $$ L_q^{\perp}(H) = \{ x \in \mathbb{Z}^m ~|~ H x = 0 \pmod{q} \}. $$
 każdemu elementowi $x \in \mathbb{R}^n$ możemy przyporządkować przekształcenie iloczynu skalarnego z $x$: $f_x(y)=x \cdot y$, będące homomorfizmem.
 kratą dualną do kraty $L$ nazywamy kratę $L^*$, składającą się z homomorfizmów z kraty $L$ w zbiór liczb całkowitych z dodawaniem:
 
-$$ L^* = Hom(L,\mathbb{Z}) = \{ x \in \mathbb{R}^n ~|~ x \cdot y \in \mathbb{Z} \forall y \in L \}$$ 
+$$ L^* = Hom(L,\mathbb{Z}) = \{ x \in \mathbb{R}^n ~|~ x \cdot y \in \mathbb{Z} ~~~ \forall y \in L \}$$
+
+kodem dualnym nazywamy kod generowany przez macierz kontroli parzystości. można pokazać, że:
+
+$$ C^* = \{ x \in \mathbb{Z}_q^n ~|~ x \cdot y = 0 ~~~ \forall y \in C \}.$$
