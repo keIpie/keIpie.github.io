@@ -28,12 +28,12 @@ i poprawić więcej błędów, które mogły pojawić się podczas transmisji wi
 wykryć (d-1) błędów, a naprawić $\lfloor \frac{d-1}{2} \rfloor$ błędów.
 
 w kratach długość wektorów i odległość między wektorami obliczamy przy pomocy metryki euklidesowej. minimalną odległość między
-dwoma wektorami kraty zadaje najkrótszy wektor kraty, oznaczalny jako $\lambda_1$. bazę kraty stanowi zbiór $n$ liniowo niezależnych
-wektorów o dowolnej długości, a pozostałe elementy są ich kombinacjami liniowymi. dla krat dużych wymiarów znalezienie
+dwoma wektorami kraty zadaje najkrótszy wektor kraty, oznaczalny jako $\lambda_1$. dla krat dużych wymiarów znalezienie
 najkrótszego wektora jest zadaniem obliczeniowo trudnym. najlepsze znane algorytmy (algorytm LLL, algorytm BKZ) wykonują uogólnioną
 ortogonalizację wektorów bazowych w celu znalezienia najkróteszego wektora kraty (lub choćby wektora, którego długość jest bliska najkrótszej).
 
-zauważmy, że odległość euklidesowa między słowami kodowymi o odległości Hamminga 1 może być dowolnie duża.
+zauważmy, że odległość euklidesowa między słowami kodowymi o odległości Hamminga 1 może być dowolnie duża, a wektory kraty o bardzo małej odległości
+euklidesowej mogą różnić się na *wszystkich pozycjach* (w wybranej bazie mieć wszystkie współczynniki różne).
 
 ### q-kraty
 
