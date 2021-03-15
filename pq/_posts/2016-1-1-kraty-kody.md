@@ -24,6 +24,9 @@ w zastosowaniach kryptograficznych można myśleć, że krat q-arne do podgrupy 
 w odróżnieniu od kodów q-arnych, do q-arnych krat należą nie tylko wektory $x \pmod{q}$, ale też $x$. dzięki temu
 możemy rozważać euklidesową odległość.
 
-przykładowa krata q-arna o bazie B ma postać:
+przykładowa krata q-arna o bazie $B \in \mathbb{Z}^{n \times m}$ ma postać:
+$$ L_q(B) = \{ y \in \mathbb{Z}^m ~|~ y = B \cdot s \pmod{q}~~for~some~s \in \mathbb{Z}^n~\} $$
 
-$$ L_q(B) = \{ y \in \mathbb{Z}^m ~|~ y = B \cdot s \pmod{q}~~for~some~s\in\mathbb{Z}^n~\}$$
+odpowiada ona kodowi liniowemu o macierzy generującej $B \in \mathbb{Z}_q^{n \times m}$
+
+### kontrola parzystości
