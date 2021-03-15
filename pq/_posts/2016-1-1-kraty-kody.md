@@ -44,4 +44,6 @@ parzystości $H$ (iloczyn słowa kodowego i macierzy $H$ jest zerem wtedy i tylk
 analogiczną rolę będą pełniły kraty kontroli parzystości, które można zdefiniować dla krat q-arnych (a odpowiadają macierzom
 kontroli parzystości dla kodów):
 
-$$ L_q^*(H) = \{ x \in \mathbb{Z}^m ~|~ H x = 0 \pmod{q} }. $$
+$$ L_q^{\perp}(H) = \{ x \in \mathbb{Z}^m ~|~ H x = 0 \pmod{q} \}. $$
+
+### kraty i kody dualne
