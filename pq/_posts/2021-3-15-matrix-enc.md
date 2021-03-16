@@ -21,13 +21,26 @@ w postaci iloczynu macierzy (choć często bardzo wielu).
 Ishai i Kushilevitz w pracy "Private Simultaneous Message Protocols with Applications" zdefiniowali następujący lemat.
 
 **lemat**
-
 niech $A$ i $A'$ będą macierzami nad ciałem skończonym $GF(q)$ tego samego rzędu $r$. istnieją odwracalne macierze
 $R$ i $P$, które spełaniają:
 
-$$ A' = R \cdot A \cdot P. $$  
+$$ A = R \cdot A' \cdot P. $$  
 
 **dowód**
+za pomocą elementarnych operacji można sprowadzić $A'$ do postaci blokowe:
+
+$$ C = \begin{bmatrix} I_r & 0 \\ 0 & 0 \end{bmatrix}. $$
+
+Elementarne operacje są liniowe i można je zapisać w postaci macierzy $R_1$ i $P_1$ spełniających:
+
+$$ C = R_1 A' P_1. $$
+
+Analogicznie do postaci $C$ można sprowadzić macierz $A$, która jest tego samego rzędu $r$. Istnieją zatem
+maciere $R_2$ i $P_2$, spełniające:
+
+$$ C = R_2 A P_2. $$
+
+Przyrównując otrzymane równania otrzymujemy tezę dla macierzy $R = R_2^{-1}R_1$ oraz $P=P_1 P_2^{-1}$.
 
 z powyższegto lematu wynika, że rozkład $R \cdot A \cdot P$ jest nieodróznialny od losowego.
 
