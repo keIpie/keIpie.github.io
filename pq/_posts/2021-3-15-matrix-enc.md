@@ -27,7 +27,7 @@ $R$ i $P$, które spełaniają:
 $$ A = R \cdot A' \cdot P. $$  
 
 **dowód**
-za pomocą elementarnych operacji można sprowadzić $A'$ do postaci blokowe:
+za pomocą elementarnych operacji można sprowadzić $A'$ do postaci blokowej:
 
 $$ C = \begin{bmatrix} I_r & 0 \\ 0 & 0 \end{bmatrix}. $$
 
