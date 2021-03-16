@@ -49,8 +49,8 @@ zależy jedynie od rzedu macierzy $A$.
 
 **dowód** niech A i A' bedę ustalonymi macierzami tego samego rzędu $r$. Dla każdej macierzy $Q$ zdefiniujmy dwa rozkłady:
 
-$$ S_Q = \{ (R,P) | RAP = Q \} $$
-$$ S_Q' = \{ (R',P') | R'A'P' = Q \} $$
+$$ S_Q = \{ (R,P) | RAP = Q \}, $$
+$$ S_Q' = \{ (R',P') | R'A'P' = Q \}. $$
 
 z lematu 1 wynika, że istnieją pewne macierze $R_0$ i $P_0$ takie, że $A = R_0 A' P_0$. stąd
 
@@ -59,6 +59,10 @@ $$ RAP = R(R_0 A' P_0)P = (R R_0) A' (P_0 P).$$
 Przekształcenie $(R,P) \rightarrow (R R_0, P_0 P)$ jest różnowartościowe z $S_Q$ w $S_Q'$, podobnie przekształcenie odwrotne
 $(R',P') \rightarrow (R' R_0^{-1}, P_0^{-1} P')$ jest różnowartościowe z $S_Q'$ w $S_Q$. w konsekwencji $|S_Q| = |S_Q'|$.
 ponieważ każda para $(R,P)$ wybierana jest z takim samym prawdopodobieństwem, rozkłady RAP i RA'P są jednakowe.
+
+Ishai i Kushilevitz analizowali też serię eksperymentów, gdzie poza szyfrowaniem maicerzy przez wymnażanie z dwóch stron
+przez macierze odwracalne do iloczynu dodaje się też mały błąd. analizowany protokół polegał na dodaniu zaszyfrowanych macierzy,
+a błędy były tak dobrane, żeby sumowały się do zera. autorzy udawadniają dobre statystyczne własności szyfrowania.
 
 ### jak szyfrować macierze nad pierścieniem
 
