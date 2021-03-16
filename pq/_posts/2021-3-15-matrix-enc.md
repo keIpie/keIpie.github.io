@@ -49,9 +49,9 @@ zależy jedynie od rzedu macierzy $A$.
 
 **dowód** niech A i A' bedę ustalonymi macierzami tego samego rzędu $r$. Dla każdej macierzy $Q$ zdefiniujmy dwa rozkłady:
 
-$$ S_Q = \{ (R,P) ~|~ RAP = Q \}, $$
+$$ S_Q = \{ (R,P) | RAP = Q \}, $$
 
-$$ S_Q' = \{ (R',P')~|~ R'A'P' = Q \}. $$
+$$ S_Q' = \{ (R',P') | R'A'P' = Q \}. $$
 
 z lematu 1 wynika, że istnieją pewne macierze $R_0$ i $P_0$ takie, że $A = R_0 A' P_0$. stąd
 
