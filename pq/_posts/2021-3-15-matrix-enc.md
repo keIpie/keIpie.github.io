@@ -20,7 +20,7 @@ w postaci iloczynu macierzy (choć często bardzo wielu).
 
 Ishai i Kushilevitz w pracy "Private Simultaneous Message Protocols with Applications" zdefiniowali następujący lemat.
 
-**lemat**
+**lemat 1**
 niech $A$ i $A'$ będą macierzami nad ciałem skończonym $GF(q)$ tego samego rzędu $r$. istnieją odwracalne macierze
 $R$ i $P$, które spełaniają:
 
@@ -47,10 +47,18 @@ z powyższegto lematu wynika, że rozkład $R \cdot A \cdot P$ jest nieodróznia
 **lemat 2** rozkład $R \cdot A \cdot P$, gdzie $R$ i $P$ są jednostajnie losowymi, niezależnymi macierzami odwracalnymi
 zależy jedynie od rzedu macierzy $A$.
 
-**dowód** Niech A i A' bedę ustalonymi macierzami tego samego rzędu $r$. Dla każdej macierzy $Q$ zdefiniujmy dwa rozkłady:
+**dowód** niech A i A' bedę ustalonymi macierzami tego samego rzędu $r$. Dla każdej macierzy $Q$ zdefiniujmy dwa rozkłady:
 
 $$ S_Q = \{ (R,P) | RAP = Q \} $$
-$$ S'_Q = \{ (R',P') | R'A'P' = Q \} $$
+$$ S_Q' = \{ (R',P') | R'A'P' = Q \} $$
+
+z lematu 1 wynika, że istnieją pewne macierze $R_0$ i $P_0$ takie, że $A = R_0 A' P_0$. stąd
+
+$$ RAP = R(R_0 A' P_0)P = (R R_0) A' (P_0 P).$$
+
+Przekształcenie $(R,P) \rightarrow (R R_0, P_0 P)$ jest różnowartościowe z $S_Q$ w $S_Q'$, podobnie przekształcenie odwrotne
+$(R',P') \rightarrow (R' R_0^{-1}, P_0^{-1} P')$ jest różnowartościowe z $S_Q'$ w $S_Q$. w konsekwencji $|S_Q| = |S_Q'|$.
+ponieważ każda para $(R,P)$ wybierana jest z takim samym prawdopodobieństwem, rozkłady RAP i RA'P są jednakowe.
 
 ### jak szyfrować macierze nad pierścieniem
 
