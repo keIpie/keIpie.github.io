@@ -31,12 +31,12 @@ za pomocą elementarnych operacji można sprowadzić $A'$ do postaci blokowe:
 
 $$ C = \begin{bmatrix} I_r & 0 \\ 0 & 0 \end{bmatrix}. $$
 
-Elementarne operacje są liniowe i można je zapisać w postaci macierzy $R_1$ i $P_1$ spełniających:
+Elementarne operacje są liniowe i można je zapisać w postaci odwracalnych macierzy $R_1$ i $P_1$ spełniających:
 
 $$ C = R_1 A' P_1. $$
 
 Analogicznie do postaci $C$ można sprowadzić macierz $A$, która jest tego samego rzędu $r$. Istnieją zatem
-maciere $R_2$ i $P_2$, spełniające:
+odwracalne maciere $R_2$ i $P_2$, spełniające:
 
 $$ C = R_2 A P_2. $$
 
@@ -44,12 +44,13 @@ Przyrównując otrzymane równania otrzymujemy tezę dla macierzy $R = R_2^{-1}R
 
 z powyższegto lematu wynika, że rozkład $R \cdot A \cdot P$ jest nieodróznialny od losowego.
 
-**lemat 2**
-
-rozkład $R \cdot A \cdot P$, gdzie $R$ i $P$ są jednostajnie losowymi, niezależnymi macierzami odwracalnymi
+**lemat 2** rozkład $R \cdot A \cdot P$, gdzie $R$ i $P$ są jednostajnie losowymi, niezależnymi macierzami odwracalnymi
 zależy jedynie od rzedu macierzy $A$.
 
-**dowód**
+**dowód** Niech A i A' bedę ustalonymi macierzami tego samego rzędu $r$. Dla każdej macierzy $Q$ zdefiniujmy dwa rozkłady:
+
+$$ S_Q = \{ (R,P) | RAP = Q \} $$
+$$ S'_Q = \{ (R',P') | R'A'P' = Q \} $$
 
 ### jak szyfrować macierze nad pierścieniem
 
