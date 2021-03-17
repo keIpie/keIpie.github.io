@@ -19,8 +19,8 @@ szkice szkice
 
 ####  Le Jeune Homme et la Mort
 
-<img src="{{ site.baseurl }}/images/bary_cf.gif" alt="barycf" style="width: 500px;"/>
 <img src="{{ site.baseurl }}/images/bary_bw.gif" alt="barybw" style="width: 500px;"/>
+<img src="{{ site.baseurl }}/images/bary_cf.gif" alt="barycf" style="width: 500px;"/>
 
 ####  siatkarskie koszulki
 
