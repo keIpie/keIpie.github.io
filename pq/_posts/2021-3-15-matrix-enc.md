@@ -61,7 +61,7 @@ przekształcenie $(R,P) \rightarrow (R R_0, P_0 P)$ jest różnowartościowe z $
 $(R',P') \rightarrow (R' R_0^{-1}, P_0^{-1} P')$ jest różnowartościowe z $S_Q'$ w $S_Q$. w konsekwencji $|S_Q| = |S_Q'|$.
 ponieważ każda para $(R,P)$ wybierana jest z takim samym prawdopodobieństwem, rozkłady RAP i RA'P są jednakowe.
 
-Ishai i Kushilevitz analizowali też serię eksperymentów, gdzie poza szyfrowaniem maicerzy przez wymnażanie z dwóch stron
+Ishai i Kushilevitz analizowali też serię eksperymentów, gdzie poza szyfrowaniem macierzy przez wymnażanie z dwóch stron
 przez macierze odwracalne do iloczynu dodaje się też mały błąd. analizowany protokół polegał na dodaniu zaszyfrowanych macierzy,
 a błędy były tak dobrane, żeby sumowały się do zera. autorzy udawadniają dobre statystyczne własności szyfrowania.
 
