@@ -13,9 +13,9 @@ szkice szkice
 <img src="{{ site.baseurl }}/images/camille.gif" onclick="toggle()" alt="Camille" style="width: 350px;"/>
 <img src="{{ site.baseurl }}/images/camille2.gif" alt="Camille2" style="width: 350px;"/>
 
-####  doktor Rieux patrzy przez okno
-
-<img src="{{ site.baseurl }}/images/rieux.GIF" alt="rieux" style="width: 500px;"/>
+<> ####  doktor Rieux patrzy przez okno
+<>
+<> <img src="{{ site.baseurl }}/images/rieux.GIF" alt="rieux" style="width: 500px;"/>
 
 ####  siatkarskie koszulki
 
