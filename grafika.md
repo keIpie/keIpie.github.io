@@ -17,6 +17,11 @@ szkice szkice
 
 <img src="{{ site.baseurl }}/images/rieux_short.gif" alt="rieux" style="width: 500px;"/>
 
+####  Baryshnikov
+
+<img src="{{ site.baseurl }}/images/bary_cf.gif" alt="barycf" style="width: 500px;"/>
+<img src="{{ site.baseurl }}/images/bary_bw.gif" alt="barybw" style="width: 500px;"/>
+
 ####  siatkarskie koszulki
 
 <img
