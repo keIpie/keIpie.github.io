@@ -18,7 +18,7 @@ w postaci iloczynu macierzy (choć często bardzo wielu).
 
 ### jak szyfrować macierze nad ciałem
 
-Ishai i Kushilevitz w pracy "Private Simultaneous Message Protocols with Applications" zdefiniowali następujący lemat.
+aby określić statystyczne własności iloczynów macierzy Ishai i Kushilevitz dowiedzą następujące lematy [1].
 
 **lemat 1**
 niech $A$ i $A'$ będą macierzami nad ciałem skończonym $GF(q)$ tego samego rzędu $r$. istnieją odwracalne macierze
@@ -31,16 +31,16 @@ za pomocą elementarnych operacji można sprowadzić $A'$ do postaci blokowej:
 
 $$ C = \begin{bmatrix} I_r & 0 \\ 0 & 0 \end{bmatrix}. $$
 
-Elementarne operacje są liniowe i można je zapisać w postaci odwracalnych macierzy $R_1$ i $P_1$ spełniających:
+elementarne operacje są liniowe i można je zapisać w postaci odwracalnych macierzy $R_1$ i $P_1$ spełniających:
 
 $$ C = R_1 A' P_1. $$
 
-Analogicznie do postaci $C$ można sprowadzić macierz $A$, która jest tego samego rzędu $r$. Istnieją zatem
+analogicznie do postaci $C$ można sprowadzić macierz $A$, która jest tego samego rzędu $r$. Istnieją zatem
 odwracalne maciere $R_2$ i $P_2$, spełniające:
 
 $$ C = R_2 A P_2. $$
 
-Przyrównując otrzymane równania otrzymujemy tezę dla macierzy $R = R_2^{-1}R_1$ oraz $P=P_1 P_2^{-1}$.
+przyrównując otrzymane równania otrzymujemy tezę dla macierzy $R = R_2^{-1}R_1$ oraz $P=P_1 P_2^{-1}$.
 
 z powyższegto lematu wynika, że rozkład $R \cdot A \cdot P$ jest nieodróznialny od losowego.
 
@@ -57,7 +57,7 @@ z lematu 1 wynika, że istnieją pewne macierze $R_0$ i $P_0$ takie, że $A = R_
 
 $$ RAP = R(R_0 A' P_0)P = (R R_0) A' (P_0 P).$$
 
-Przekształcenie $(R,P) \rightarrow (R R_0, P_0 P)$ jest różnowartościowe z $S_Q$ w $S_Q'$, podobnie przekształcenie odwrotne
+przekształcenie $(R,P) \rightarrow (R R_0, P_0 P)$ jest różnowartościowe z $S_Q$ w $S_Q'$, podobnie przekształcenie odwrotne
 $(R',P') \rightarrow (R' R_0^{-1}, P_0^{-1} P')$ jest różnowartościowe z $S_Q'$ w $S_Q$. w konsekwencji $|S_Q| = |S_Q'|$.
 ponieważ każda para $(R,P)$ wybierana jest z takim samym prawdopodobieństwem, rozkłady RAP i RA'P są jednakowe.
 
@@ -68,3 +68,7 @@ a błędy były tak dobrane, żeby sumowały się do zera. autorzy udawadniają 
 ### jak szyfrować macierze nad pierścieniem
 
 nad pierścieniem jest trudniej, ponieważ nie możemy zdefiniować rzędu macierzy.
+
+### literatura
+
+[1] "Private Simultaneous Message Protocols with Applications" - Ishai, Kushilevitz
