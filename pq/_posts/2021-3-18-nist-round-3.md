@@ -28,6 +28,8 @@ CRYSTALS używa kratowego problemu LWE w kratach modułowych (M-LWE). Kraty modu
 algebraicznej niż kraty ideałowe (używane w problemie R-LWE), ale zachowują efektywnością większą od ogólnych
 krat (z definicji problemu LWE).
 
+Wybrana struktura algebraiczna to pierścień modulo wielomian cyklotomiczny: $\mathbb{Z}_q[x]/(x^{256}+1)$.
+
 ### [NTRU](https://ntru.org/) - KRATY
 
 NTRU używa kratowego problemu NTRU w kratach cyklicznych.
