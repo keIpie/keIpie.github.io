@@ -11,6 +11,10 @@ które zostały zakwalifikowane do rundy 3 konkursu.
 McEliece to kryptosystem oparty na liniowych binarnych kodach Goppy i trudności
 problemu dokodowania w obecności odpowiednio wielu błędów.
 
+Kody algebraiczno-geometryczne (AG-kody), nazywane też kodami Goppy, to ogólny typ kodów liniowychis
+konstruowanych przy użyciu krzywej algebraicznej $X$ nad ciałem skończonym $\mathbb{F}_q$. W kryptografii
+często używane są binarne kody Goppy, które mają szczególne matematyczne własności.
+
 ### [CRYSTALS-KYBER](https://pq-crystals.org/) - KRATY
 
 CRYSTALS używa kratowego problemu LWE kratach modułowych (M-LWE).
