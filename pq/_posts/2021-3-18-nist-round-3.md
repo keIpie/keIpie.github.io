@@ -17,6 +17,11 @@ Kody algebraiczno-geometryczne (AG-kody), nazywane też kodami Goppy, to ogólny
 konstruowanych przy użyciu krzywej algebraicznej $X$ nad ciałem skończonym $\mathbb{F}_q$. W kryptografii
 często używane są binarne kody Goppy, które mają lepsze własności korekcyjne od kodów nad pozostałymi ciałami.
 
+Idea systemu polega na wybraniu (n,k)-kodu o macierzy generującej $G$, który umożliwia korekcję $t$ błędów,
+a następnie przedstawieniu go w zaszyfrowanej postaci $SGP$, jako pewien losowy $(n,k)$-kod korekcyjny.
+Znając macierz $SGP$ można zakodować wiadomość i dodać błąd, zakłócający słowo kodowe na $t$ współrzędnych.
+Jedynie osoba znająca prywatne macierze $S,P$ będzie w stanie skorygować błędy (umie wykorzystać własności kodu $G$).
+
 ### [CRYSTALS-KYBER](https://pq-crystals.org/) - KRATY
 
 CRYSTALS używa kratowego problemu LWE w kratach modułowych (M-LWE).
