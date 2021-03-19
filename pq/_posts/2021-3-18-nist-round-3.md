@@ -24,7 +24,9 @@ Jedynie osoba znająca prywatne macierze $S,P$ będzie w stanie skorygować bł�
 
 ### [CRYSTALS-KYBER](https://pq-crystals.org/) - KRATY
 
-CRYSTALS używa kratowego problemu LWE w kratach modułowych (M-LWE).
+CRYSTALS używa kratowego problemu LWE w kratach modułowych (M-LWE). Kraty modułowe mają mniej struktury
+algebraicznej niż kraty ideałowe (używane w problemie R-LWE), ale zachowują efektywnością większą od ogólnych
+krat (z definicji problemu LWE).
 
 ### [NTRU](https://ntru.org/) - KRATY
 
