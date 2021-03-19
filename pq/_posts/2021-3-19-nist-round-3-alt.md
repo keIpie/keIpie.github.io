@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NIST PQ - alternatywni kandydaci na PKE - runda 3
+title: NIST PQ - alternatywni PKE - runda 3
 ---
 
 ### BIKE
