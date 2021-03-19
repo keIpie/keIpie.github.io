@@ -13,7 +13,7 @@ problemu dokodowania w obecności odpowiednio wielu błędów.
 
 Kody algebraiczno-geometryczne (AG-kody), nazywane też kodami Goppy, to ogólny typ kodów liniowychis
 konstruowanych przy użyciu krzywej algebraicznej $X$ nad ciałem skończonym $\mathbb{F}_q$. W kryptografii
-często używane są binarne kody Goppy, które mają szczególne matematyczne własności.
+często używane są binarne kody Goppy, które mają lepsze własności korekcyjne od kodów nad pozostałymi ciałami.
 
 ### [CRYSTALS-KYBER](https://pq-crystals.org/) - KRATY
 
