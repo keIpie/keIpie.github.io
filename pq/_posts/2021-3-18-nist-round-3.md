@@ -4,7 +4,9 @@ title: NIST PQ - kandydaci na PKE - runda 3
 ---
 
 Szyfry kandydującde na standard na postkwantowy schemat wymiany klucza (PKE),
-które zostały zakwalifikowane do rundy 3 konkursu.
+które zostały zakwalifikowane do finałowej rundy 3 konkursu organizowanego przez NIST.
+Do finału przeszedł jeden kandydat wykorzystujący problemy kodowe i trzech kandydatów
+opartych na problemach w kratach teorio-liczbowych.
 
 ### [Classic McEliece](https://classic.mceliece.org/) - KODY
 
