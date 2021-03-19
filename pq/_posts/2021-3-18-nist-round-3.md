@@ -17,7 +17,7 @@ często używane są binarne kody Goppy, które mają lepsze własności korekcy
 
 ### [CRYSTALS-KYBER](https://pq-crystals.org/) - KRATY
 
-CRYSTALS używa kratowego problemu LWE kratach modułowych (M-LWE).
+CRYSTALS używa kratowego problemu LWE w kratach modułowych (M-LWE).
 
 ### [NTRU](https://ntru.org/) - KRATY
 
