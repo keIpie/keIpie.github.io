@@ -13,6 +13,6 @@ ataków ograniczających bezpieczeństwo lub efektywność podstawowych kandydat
 
 ### HQC
 
-### NTRU Prime
+### [NTRU Prime](https://ntruprime.cr.yp.to/)
 
 ### SIKE
