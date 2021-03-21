@@ -55,7 +55,7 @@ $$ L(M) = \{ \sigma(x)~|~x \in M \} \subset \mathbb{C}^{kd}.$$
 Tak zdefiniowana krata $L(M)$ jest klasyczną kratą nad $\mathbb{Z}$ o bazie: $(\sigma(b_1), \sigma(xb_1), \ldots, \sigma(x^{d-1}b_k))$.
 
 W kryptografii rozważa się zazwyczaj kraty modułowe o wymiarach $k<10$ oraz $500\leqslant kd \leqslant 1500$.
-Wybrana w KYBER struktura algebraiczna to pierścień: $R=\mathbb{Z}_q[x]/(x^{256}+1)$.
+Wybrana w KYBER struktura algebraiczna to pierścień: $R=\mathbb{Z}_q[x]/(x^{256}+1)$ (d=256) and $k=2,3$ lub 4 w zależności od wersji algorytmu.
 
 ### [NTRU](https://ntru.org/) - KRATY
 
