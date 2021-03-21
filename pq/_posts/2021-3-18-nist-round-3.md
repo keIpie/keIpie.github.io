@@ -28,7 +28,34 @@ CRYSTALS używa kratowego problemu LWE w kratach modułowych (M-LWE). Kraty modu
 algebraicznej niż kraty ideałowe (używane w problemie R-LWE), ale zachowują efektywnością większą od ogólnych
 krat (z definicji problemu LWE).
 
-Wybrana struktura algebraiczna to pierścień modulo wielomian cyklotomiczny: $\mathbb{Z}_q[x]/(x^{256}+1)$.
+Na kraty modułowe można patrzeć jak na kraty nie nad $\mathbb{Z}$, ale nad $R=\matbhbb{Z}/P(x)$, dla pewnego
+nierozkładalnego nad Q wielomianu $P(x)$ stopnia $d$. Ciałem, w którym będziemy chcieli badać normy i odległości
+będize $K=\matbhbb{Q}/P(x)$ (zamiast $\mathbb{Q}$). Rozważamy następujący moduł:
+
+$$ M = \{ Bx | x \in R^k \}$$
+
+gdze $B\in K^{k \times k}$ jest odwracalną macierzą, będącą odpowiednikiem bazy kraty. Aby badać normy wektorów
+musimy dodać geometrię na tej strukturze algebraicznej. Do tego celu używamy zanurzenia kanonicznego. Niech
+$\alpha_1,\ldots,\alpha_d$ będą zespolonymi pierwiastkami wielomianu $P(x)$. Zanurzeniem kanonicznym nazywamy przekształcenie:
+
+$$ \sigma: K \rightarrow \mathbb{C}^d$$
+
+$$ x \rightarrow (x(\alpha_1),\ldots,x(\alpha_d))$$
+
+oraz zanurzenie:
+
+$$ \sigma: K^k \rightarrow \mathbb{C}^{kd}$$
+
+$$ (x_1,\ldots,x_k) \rightarrow (\sigma(x_1),\ldots,\sigma(x_k)).$$
+
+Kratę modułową definiujemy formalnie jako:
+
+$$ L(M) = \{ \sigma(x) | x \in M \} \subset \mathbb{C}^{kd}.$$
+
+Tak zdefiniowana krata $L(M)$ jest klasyczną kratą nad $\mathbb{Z}$ o bazie: $(\sigma(b_1), \sigma(xb_1), \ldots, \sigma(x^{d-1}b_k))$.
+
+W kryptografii rozważa się zazwyczaj kraty modułowe o wymiarach $k<10$ oraz $500\leqslant kd \leqslant 1500$.
+Wybrana w KYBER struktura algebraiczna to pierścień: $R=\mathbb{Z}_q[x]/(x^{256}+1)$.
 
 ### [NTRU](https://ntru.org/) - KRATY
 
