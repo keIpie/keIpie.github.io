@@ -28,9 +28,9 @@ CRYSTALS używa kratowego problemu LWE w kratach modułowych (M-LWE). Kraty modu
 algebraicznej niż kraty ideałowe (używane w problemie R-LWE), ale zachowują efektywnością większą od ogólnych
 krat (z definicji problemu LWE).
 
-Na kraty modułowe można patrzeć jak na kraty nie nad $\mathbb{Z}$, ale nad $R=\matbhbb{Z}/P(x)$, dla pewnego
+Na kraty modułowe można patrzeć jak na kraty nie nad $\mathbb{Z}$, ale nad $R=\mathbb{Z}/P(x)$, dla pewnego
 nierozkładalnego nad Q wielomianu $P(x)$ stopnia $d$. Ciałem, w którym będziemy chcieli badać normy i odległości
-będize $K=\matbhbb{Q}/P(x)$ (zamiast $\mathbb{Q}$). Rozważamy następujący moduł:
+będize $K=\mathbb{Q}/P(x)$ (zamiast $\mathbb{Q}$). Rozważamy następujący moduł:
 
 $$ M = \{ Bx | x \in R^k \}$$
 
