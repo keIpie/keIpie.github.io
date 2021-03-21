@@ -32,7 +32,7 @@ Na kraty modułowe można patrzeć jak na kraty nie nad $\mathbb{Z}$, ale nad $R
 nierozkładalnego nad Q wielomianu $P(x)$ stopnia $d$. Ciałem, w którym będziemy chcieli badać normy i odległości
 będize $K=\mathbb{Q}/P(x)$ (zamiast $\mathbb{Q}$). Rozważamy następujący moduł:
 
-$$ M = \{ Bx | x \in R^k \}$$
+$$ M = \{ Bx~|~x \in R^k \}$$
 
 gdze $B\in K^{k \times k}$ jest odwracalną macierzą, będącą odpowiednikiem bazy kraty. Aby badać normy wektorów
 musimy dodać geometrię na tej strukturze algebraicznej. Do tego celu używamy zanurzenia kanonicznego. Niech
@@ -50,7 +50,7 @@ $$ (x_1,\ldots,x_k) \rightarrow (\sigma(x_1),\ldots,\sigma(x_k)).$$
 
 Kratę modułową definiujemy formalnie jako:
 
-$$ L(M) = \{ \sigma(x) | x \in M \} \subset \mathbb{C}^{kd}.$$
+$$ L(M) = \{ \sigma(x)~|~x \in M \} \subset \mathbb{C}^{kd}.$$
 
 Tak zdefiniowana krata $L(M)$ jest klasyczną kratą nad $\mathbb{Z}$ o bazie: $(\sigma(b_1), \sigma(xb_1), \ldots, \sigma(x^{d-1}b_k))$.
 
