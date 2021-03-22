@@ -67,8 +67,10 @@ NTRU używa kratowego problemu NTRU w kratach cyklicznych. Więcej na temat [NTR
 SABER używa kratowego problemu LWR - learning with rounding - uczenia w obecności zaokrągleń. W często stosowanym problemie kratowym LWE -
 learning with errors - uczenia w obecności błędów, chodzi o nieodróżnialność rozkładów $(a,as+e)$ oraz $(a,b)$ dla losowych
 $a,b \in \mathbb{Z}_q$ oraz błędu $e$ losowanego z rozkładu $\chi$. Problem LWR zastepuje dodawanie małych losowych wartości z $\mathbb {Z}_q$
-(błędów) deterministycznym zaokrąglaniem. Zaokrąglanie polega na stwierdzeniu do którego z $q/p$ przedziałów kolejnych liczb należy dana liczba.
+(błędów) deterministycznym zaokrąglaniem. Zaokrąglanie $\lfloor \cdot \rfloor_p$ polega na stwierdzeniu do którego z $q/p$ przedziałów kolejnych liczb należy dana liczba.
 Autorzy [pracy](https://eprint.iacr.org/2011/401.pdf) pokazali, że dla odpowiednio dużego stosunku $q/p$ i odpowiedniego rozkładu błędów
 (w którym błędy są ponad-wielomianowo mniejsze stosunku) następujące rozkłady są nierozróżnialne:
 
 $$ (A,\lfloor As \rfloor_p) \stackrel{stat.}{\approx} (A, \lfloor As + e\rfloor_p) \stackrel{comp.}{\approx} (A, \lfloor b \rfloor_p)$$
+
+Druga aproksymacja wynika z trudności problemu LWE.
