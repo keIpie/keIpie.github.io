@@ -55,12 +55,14 @@ $$ L(M) = \{ \sigma(x)~|~x \in M \} \subset \mathbb{C}^{kd}.$$
 Tak zdefiniowana krata $L(M)$ jest klasyczną kratą nad $\mathbb{Z}$ o bazie: $(\sigma(b_1), \sigma(xb_1), \ldots, \sigma(x^{d-1}b_k))$.
 
 W kryptografii rozważa się zazwyczaj kraty modułowe o wymiarach $k<10$ oraz $500\leqslant kd \leqslant 1500$.
-Wybrana w KYBER struktura algebraiczna to pierścień: $R=\mathbb{Z}_q[x]/(x^{256}+1)$ (d=256) and $k=2,3$ lub 4 w zależności od wersji algorytmu.
+Wybrana w KYBER struktura algebraiczna to pierścień: $R=\mathbb{Z}_{3329}[x]/(x^{256}+1)$ (d=256) and $k=2,3$ lub 4 w zależności od wersji
+algorytmu.
 
 ### [NTRU](https://ntru.org/) - KRATY
 
-NTRU używa kratowego problemu NTRU w kratach cyklicznych.
+NTRU używa kratowego problemu NTRU w kratach cyklicznych. Więcej na temat [NTRU](https://keipie.github.io/ntru/).
 
 ### [SABER](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) - KRATY
 
-SABER używa kratowego problem LWR - learning with rounding.
+SABER używa kratowego problemu LWR - learning with rounding. W problemie LWE chodzi o nieodróżnialność rozkładów
+$(a,as+e)$ oraz $(a,b)$ dla losowych $a,b \in \mathbb{Z}_p$ oraz błędu $e$ losowanego z rozkładu $\chi$.
