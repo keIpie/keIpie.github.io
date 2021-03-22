@@ -7,12 +7,12 @@ Poza podstawowymi kandydatami, wciąż brane są pod uwagę rozwiązania alterna
 w inny sposób definiują bezpieczeństwo. Mają być brane pod uwagę w razie złamania lub odkrycia
 ataków ograniczających bezpieczeństwo lub efektywność podstawowych kandydatów.
 
-### BIKE
+### [BIKE](http://bikesuite.org/)
 
-### FrodoKEM
+### [FrodoKEM](http://frodokem.org)
 
-### HQC
+### [HQC](http://pqc-hqc.org)
 
 ### [NTRU Prime](https://ntruprime.cr.yp.to/)
 
-### SIKE
+### [SIKE](http://sike.org/)
