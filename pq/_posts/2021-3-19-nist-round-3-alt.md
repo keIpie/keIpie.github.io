@@ -35,7 +35,7 @@ schemat przeszedł do 3 rundy jako kandydat alternatywny.
 
 ### [SIKE](http://sike.org/) - IZOGENIE
 
-Algorytm używa pseudo-losowych ścieżek przez grafy supersingualrnych izogenii.
+Algorytm do wymiany klucza używa pseudo-losowych ścieżek przez grafy supersingualrnych izogenii.
 Tego typu grafy są ekspendarami, czyli mają mało krawędzi, a każdy podzbiór wierzchołków ma dużo sąsiadów.
 Wierzchołki grafów supersinu izogenii reprezentują supersingularne krzywe eliptyczne nad ciałami skończonymi,
 a krawędzie grafów - izogenie między tymi krzywymi.
