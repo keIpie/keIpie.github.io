@@ -139,7 +139,7 @@ pierścień $R_L$ nie jest dziedziną ideałów głównych (bo $\mathbb{Z}$ nie 
 które nie są główne np. $\langle 2,x \rangle$). stąd nie mówimy o generatorach krat cyklicznych. ich baza ma jednak szczególną konstrukcję.
 załóżmy, że krata $L(B)$ odpowiada ideałowi $I \subseteq R_L$ wtedy:
 
-$$ B = \{ g \pmod{x^n-1} ~|~ g \in I \}$$
+$$ B = \{ g \pmod{x^n-1} ~|~ g \in I \}.$$
 
 ciekawostka: niektóre nowe schematy kodowe, używają kodów quasi-cyklicznych, w których jeżeli słowo odpowiadające wielomianowi $c(x)$
 należy do kodu, to również musi należeć słowo odpowiadające wielomianowi $x^b \cdot c(x) \pmod{x^n-1}$. dla $b=1$ mamy dokładnie kod cykliczny.
@@ -150,3 +150,5 @@ kraty/kody cykliczne są szczególnym przypadkiem krat/kodów ideałowych, odpow
 $\mathbb{Z}_q[x]/f(x)$ dla wybranych wielomianóœ $f(x)$. z definicji na kraty i kody można patrzeć jak na grupy addytywne.
 dzięki dodatkowej strukturze ideału, umożliwiamy mnożenie elementów należących do kraty/kody przez siebie (wcześniej mogliśmy tylko przez skalary).
 pozwala to konstruować zaawansowane systemy kryptograficzne, pozwalające wykonywać działania na zaszyfrowanych elementach.
+
+#### dekodowanie
