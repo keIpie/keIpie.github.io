@@ -135,7 +135,8 @@ wynika stąd, że dla każdego kodu istnieje element $g$, generujący wszystkie 
 wielomianu $(x^n-1)$. jeżeli stopień wielomianu generującego $g$ wynosi $d$, to generuje on kod wymiaru $n-d$. kodem nierozkładalnym nazywamy
 kod, który odpowiada nierozkładalnemu ideałowi (który z kolei powstał przy użyciu nierozkładalnego wielomianu).
 
-
+pierścień $R_L$ nie jest dziedziną ideałów głównych (bo \mathbb{Z} nie jest ciałem i ma elementy nieodwracalne np. $2$, w konsekwencji ma ideały
+które nie są główne np. $\lange 2,x \rangle$).
 
 kraty/kody cykliczne są szczególnym przypadkiem krat/kodów ideałowych, odpowiadających ideałom w pierścieniach $\mathbb{Z}[x]/f(x)$ oraz
 $\mathbb{Z}_q[x]/f(x)$ dla wybranych wielomianóœ $f(x)$. z definicji na kraty i kody można patrzeć jak na grupy addytywne.
