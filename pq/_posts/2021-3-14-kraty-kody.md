@@ -35,8 +35,8 @@ kodowych nazywamy *równoważnymi*. zbiór słów kodowych jest ten sam, ale ró
 permutować w dowolny sposób. dwa kody są równoważne, jeżeli ich macierze generujące $B,~B' \in \mathbb{Z}_q^{n \times k}$ są sobie równe z dokładnością do
 przemnożenia przez macierz odwracalną wymiarów $k \times k$.
 
-w kryptografii najczęściej rozważamy kraty pełnego wymiaru. ta sama krata ma wiele różnych baz. bazy $B, B' \in \mathbb{Z}^{n \times n}$ zadają tę samą kratę,
-jeżeli jedną można przekształcić w druga przy pomocy mnożenia przez macierz unimodularną (odwracalną i o wyznaczniku $\pm 1$).
+ta sama krata ma wiele różnych baz. bazy $B, B' \in \mathbb{Z}^{n \times n}$ zadają tę samą kratę, jeżeli jedną można przekształcić w druga przy
+pomocy mnożenia przez macierz unimodularną (odwracalną i o wyznaczniku $\pm 1$).
 
 ### odległości między elementami
 
