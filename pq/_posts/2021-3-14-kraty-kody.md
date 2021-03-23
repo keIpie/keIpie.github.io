@@ -16,12 +16,17 @@ tego typu kody nazywane są też kodami q-arnymi. zadawane są przez *macierz ge
 
 $$ C(B) = \{ Bx \in \mathbb{Z}_q^n ~|~ x \in \mathbb{Z}_q^k \}. $$
 
+zawsze $k<n$, co oznacza, że przestrzeń wiadomości jest mniejsza od przestrzeni słów kodowych - ta nadmiarowość pozwala
+na korekcję błędów.
+
 ### kraty
 
 kraty to $\mathbb{Z}$-moduły, czyli odpowiedniki przestrzeni liniowych nad pierścieniem $\mathbb{Z}$. ich elementy są całkowitoliczbowymi
-kombinacjami $n$ liniowo niezależnych wektorów z $\mathbb{R}^n$ tworzących tak zwaną *bazę* kraty $B$:
+kombinacjami $k$ liniowo niezależnych wektorów z $\mathbb{R}^n$ tworzących tak zwaną *bazę* kraty $B \in \mathbb{Q}^{k \times n}$:
 
-$$ L(B) = \{ Bx \in \mathbb{Z}^n ~|~ x \in \mathbb{Z}^n \}. $$
+$$ L(B) = \{ Bx \in \mathbb{Z}^n ~|~ x \in \mathbb{Z}^k \}. $$
+
+często rozważa sie kraty pełnych wymiarów, dla których $k=n$.
 
 ### jeden kod/krata różne macierze/bazy
 
