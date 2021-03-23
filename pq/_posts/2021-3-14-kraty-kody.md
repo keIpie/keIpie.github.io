@@ -22,13 +22,13 @@ na korekcję błędów.
 ### kraty
 
 kraty to $\mathbb{Z}$-moduły, czyli odpowiedniki przestrzeni liniowych nad pierścieniem $\mathbb{Z}$. ich elementy są całkowitoliczbowymi
-kombinacjami $k$ liniowo niezależnych wektorów z $\mathbb{R}^n$ tworzących tak zwaną *bazę* kraty $B \in \mathbb{Q}^{k \times n}$:
+kombinacjami $k$ liniowo niezależnych wektorów z $\mathbb{R}^n$ tworzących tak zwaną *bazę* kraty $B \in \mathbb{Z}^{k \times n}$:
 
 $$ L(B) = \{ Bx \in \mathbb{Z}^n ~|~ x \in \mathbb{Z}^k \}. $$
 
 często rozważa sie kraty pełnych wymiarów, dla których $k=n$.
 
-### jeden kod/krata różne macierze/bazy
+### jeden kod/krata, różne macierze/bazy
 
 ta sama przestrzeń słów kodowych odpowiada wielu różnym kodom, które są zadane przez różne macierze generujące. kody które mają ten sam zbiór słów
 kodowych nazywamy *równoważnymi*. zbiór słów kodowych jest ten sam, ale różny jest sposób w jaki przyporządkowujemy je wiadomościom, które możemy
