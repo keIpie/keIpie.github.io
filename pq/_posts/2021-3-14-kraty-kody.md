@@ -136,4 +136,4 @@ dzięki dodatkowej strukturze ideału, umożliwiamy mnożenie elementów należ�
 pozwala to konstruować zaawansowane systemy kryptograficzne, pozwalające wykonywać działania na zaszyfrowanych elementach.
 
 ciekawostka: niektóre nowe schematy kodowe, używają kodów quasi-cyklicznych, w których jeżeli słowo odpowiadające wielomianowi $c(x)$
-należy do kodu, to również musi należeć słowo odpowiadające wielomianowi $x^b \cdot c(x) \pmod(x^n-1)$. dla $b=1$ mamy dokładnie kod cykliczny.
+należy do kodu, to również musi należeć słowo odpowiadające wielomianowi $x^b \cdot c(x) \pmod{x^n-1}$. dla $b=1$ mamy dokładnie kod cykliczny.
