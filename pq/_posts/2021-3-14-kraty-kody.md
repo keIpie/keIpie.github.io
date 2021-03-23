@@ -118,7 +118,7 @@ kraty/kody cykliczne, to takie struktury, w których jeżeli wektor/słowo o udt
 należy do kraty/kodu, to jego cykliczna rotacja $(c_n,c_1\ldots, c_{n-1})$ również.
 
 jeżeli wektorom/słowom krat/kodów przyporządkujemy wielomiany o współczynnikach zadanych przez ich współrzędne, to rotacja cykliczna
-słowa odpowiada mnożeniu wielomianu przez element $x$ modulo wielomian cykliczny $(x^n-1)$. 
+słowa odpowiada mnożeniu wielomianu przez element $x$ modulo wielomian cykliczny $(x^n-1)$.
 zarówno kraty jak i kody cykliczne odpowiadają ideałom w pierścienieach ilorazowych. kody cykliczne odpowiadają ideałom w pierścieniu
 ilorazowym $R_{kod} = \mathbb{Z}_q[x]/(x^n-1)$. kraty cykliczne odpowiadają ideałom w pierścieniu ilorazowym $R_{krata} = \mathbb{Z}[x]/(x^n-1)$.
 zauważmy od razu, że pierścień $R_{kod}$ jest zarazem ideałem w pierścieniu ilorazowym $R_{krata}$ generowanym przez liczbę pierwszą $q$.
@@ -127,3 +127,7 @@ pierścień $R_{kod}$ jest pierścieniem ideałów głównych, stąd każdy kod 
 dla każdego kodu istnieje element $g$, generujący wszystkie pozostałe słowa kodowe. dodatkowo element $g$ musi być dzielnikiem
 wielomianu $(x^n-1)$. jeżeli stopień wielomianu generującego $g$ wynosi $d$, to generuje on kod wymiaru $n-d$. kodem nierozkładalnym nazywamy
 kod, który odpowiada nierozkładalnemu ideałowi (który z kolei powstał przy użyciu nierozkładalnego wielomianu).
+
+
+ciekawostka: niektóre nowe schematy kodowe, używają kodów quasi-cyklicznych, w których jeżeli słowo odpowiadające wielomianowi $c(x)$
+należy do kodu, to również musi należeć słowo odpowiadające wielomianowi $x^b \cdot c(x) \pmod(x^n-1)$. dla $b=1$ mamy dokładnie kod cykliczny.
