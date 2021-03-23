@@ -138,10 +138,12 @@ kod, który odpowiada nierozkładalnemu ideałowi (który z kolei powstał przy 
 pierścień $R_L$ nie jest dziedziną ideałów głównych (bo \mathbb{Z} nie jest ciałem i ma elementy nieodwracalne np. $2$, w konsekwencji ma ideały
 które nie są główne np. $\lange 2,x \rangle$).
 
+ciekawostka: niektóre nowe schematy kodowe, używają kodów quasi-cyklicznych, w których jeżeli słowo odpowiadające wielomianowi $c(x)$
+należy do kodu, to również musi należeć słowo odpowiadające wielomianowi $x^b \cdot c(x) \pmod{x^n-1}$. dla $b=1$ mamy dokładnie kod cykliczny.
+
+#### kraty/kody ideałowe
+
 kraty/kody cykliczne są szczególnym przypadkiem krat/kodów ideałowych, odpowiadających ideałom w pierścieniach $\mathbb{Z}[x]/f(x)$ oraz
 $\mathbb{Z}_q[x]/f(x)$ dla wybranych wielomianóœ $f(x)$. z definicji na kraty i kody można patrzeć jak na grupy addytywne.
 dzięki dodatkowej strukturze ideału, umożliwiamy mnożenie elementów należących do kraty/kody przez siebie (wcześniej mogliśmy tylko przez skalary).
 pozwala to konstruować zaawansowane systemy kryptograficzne, pozwalające wykonywać działania na zaszyfrowanych elementach.
-
-ciekawostka: niektóre nowe schematy kodowe, używają kodów quasi-cyklicznych, w których jeżeli słowo odpowiadające wielomianowi $c(x)$
-należy do kodu, to również musi należeć słowo odpowiadające wielomianowi $x^b \cdot c(x) \pmod{x^n-1}$. dla $b=1$ mamy dokładnie kod cykliczny.
