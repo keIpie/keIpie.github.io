@@ -22,7 +22,7 @@ Zauważmy, że chcąc użyć problemu LWE do szyfrowania, znajdziemy się w sytu
 Przez to użycie problemu LWE do szyfrowanie nie jest efektywne. Złożoność zmieniejszy wykorzystanie struktury pierścienia i zastąpienie iloczynu
 skalarnego, użytego do konstrukcji par $(a,t)$, mnożeniem w pierścieniu.
 
-Niech $\varphi$ będzie wielomianem nierozkładalnym nad $\mathbb{Z}[x]$. Niech $s(x)$ będzie ustalonym wielomianem z pierścienia $\mathbb{Z}_q[x]/\varphi(x)$
+Niech $\varphi(x)$ będzie wielomianem nierozkładalnym nad $\mathbb{Z}[x]$. Niech $s(x)$ będzie ustalonym wielomianem z pierścienia $\mathbb{Z}_q[x]/\varphi(x)$
 o małych współczynnikach. Niech
 
 - $a_i(x)$ zbiór losowych wielomianów z $\mathbb{Z}_q[x]/\varphi(x)$,
