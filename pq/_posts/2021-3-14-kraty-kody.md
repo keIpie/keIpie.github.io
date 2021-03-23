@@ -80,6 +80,7 @@ w odróżnieniu od kodów q-arnych, do q-arnych krat należą nie tylko wektory 
 możemy rozważać euklidesową odległość.
 
 przykładowa krata q-arna o bazie $B \in \mathbb{Z}^{n \times m}$ ma postać:
+
 $$ L_q(B) = \{ y \in \mathbb{Z}^m ~|~ y = B s \pmod{q}~~dla~pewnego~~s \in \mathbb{Z}^n~\} = B \mathbb{Z}^n + q\mathbb{Z}^m$$
 
 odpowiada ona kodowi liniowemu o macierzy generującej $B \in \mathbb{Z}_q^{n \times m}$
