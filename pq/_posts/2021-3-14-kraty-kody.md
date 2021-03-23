@@ -129,5 +129,11 @@ wielomianu $(x^n-1)$. jeżeli stopień wielomianu generującego $g$ wynosi $d$, 
 kod, który odpowiada nierozkładalnemu ideałowi (który z kolei powstał przy użyciu nierozkładalnego wielomianu).
 
 
+
+kraty/kody cykliczne są szczególnym przypadkiem krat/kodów ideałowych, odpowiadających ideałom w pierścieniach $\mathbb{Z}[x]/f(x)$ oraz
+$\mathbb{Z}_q[x]/f(x)$ dla wybranych wielomianóœ $f(x)$. z definicji na kraty i kody można patrzeć jak na grupy addytywne.
+dzięki dodatkowej strukturze ideału, umożliwiamy mnożenie elementów należących do kraty/kody przez siebie (wcześniej mogliśmy tylko przez skalary).
+pozwala to konstruować zaawansowane systemy kryptograficzne, pozwalające wykonywać działania na zaszyfrowanych elementach.
+
 ciekawostka: niektóre nowe schematy kodowe, używają kodów quasi-cyklicznych, w których jeżeli słowo odpowiadające wielomianowi $c(x)$
 należy do kodu, to również musi należeć słowo odpowiadające wielomianowi $x^b \cdot c(x) \pmod(x^n-1)$. dla $b=1$ mamy dokładnie kod cykliczny.
