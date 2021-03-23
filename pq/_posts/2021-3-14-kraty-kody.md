@@ -135,7 +135,7 @@ wynika stąd, że dla każdego kodu istnieje element $g$, generujący wszystkie 
 wielomianu $(x^n-1)$. jeżeli stopień wielomianu generującego $g$ wynosi $d$, to generuje on kod wymiaru $n-d$. kodem nierozkładalnym nazywamy
 kod, który odpowiada nierozkładalnemu ideałowi (który z kolei powstał przy użyciu nierozkładalnego wielomianu).
 
-pierścień $R_L$ nie jest dziedziną ideałów głównych (bo \mathbb{Z} nie jest ciałem i ma elementy nieodwracalne np. $2$, w konsekwencji ma ideały
+pierścień $R_L$ nie jest dziedziną ideałów głównych (bo $\mathbb{Z}$ nie jest ciałem i ma elementy nieodwracalne np. $2$, w konsekwencji ma ideały
 które nie są główne np. $\langle 2,x \rangle$).
 
 ciekawostka: niektóre nowe schematy kodowe, używają kodów quasi-cyklicznych, w których jeżeli słowo odpowiadające wielomianowi $c(x)$
