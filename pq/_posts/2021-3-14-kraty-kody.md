@@ -3,7 +3,11 @@ layout: post
 title: Kraty, kody, q-kraty
 ---
 
-kraty a kody liniowe - w czym są podobne, czym się różnią...
+kraty a kody liniowe - w czym są podobne, czym się różnią... działają w pdobych (a czasem identycznych) strukturach algebraicznych,
+ale różnią się GEOMETRIĄ. systemy kryptograficzne polegają na wychodzeniu poza strukturę poprzez dodawanie **małych błędów**,
+możliwych do skorygowania przez kogoś kto ma pełne dane o strukturze. żeby określić co to znaczy **mały** trzeba zdefiniować metrykę,
+odległość między elementami struktury. kody i kraty robią to na różne sposoby. wynika stąd różnica w algorytmach dekodowania i ich
+trudności.
 
 ### kody
 
@@ -53,7 +57,7 @@ którego nie można skorygować nie mając pewnej ważnej informacji, znanej tyl
 który nie należy do kodu/kraty.
 
 w systemach kodowych szyfrogram $c$ jest pewnym wektorem z przestrzeni $\mathbb{Z}_q^n$, nie należącym do podprzestrzeni kodu. skorygować błąd
-może jedynie osoba posiadająca parametry kodu. usuwanie błędów i dekodowanie słów kodu, którego się nie zna jest problemem obliczeniowo trudnym. 
+może jedynie osoba posiadająca parametry kodu. usuwanie błędów i dekodowanie słów kodu, którego się nie zna jest problemem obliczeniowo trudnym.
 
 w systemach kratowych szyfrogram $c$ jest pewnym wektorem z przestrzni $\mathbb{R}^n$. do wektora kraty dodawany jest wektor błędu, o małej długości
 w porównaniu z długością najkrótszego wektora kraty. nie znając krótkich wektorów kraty, obliczeniowo trudnym problemem jest znalezienie
