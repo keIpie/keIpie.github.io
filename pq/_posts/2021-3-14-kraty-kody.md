@@ -120,7 +120,7 @@ należy do kraty/kodu, to jego cykliczna rotacja $(c_n,c_1\ldots, c_{n-1})$ rów
 jeżeli wektorom/słowom krat/kodów przyporządkujemy wielomiany o współczynnikach zadanych przez ich współrzędne, to rotacja cykliczna
 słowa odpowiada mnożeniu wielomianu przez element $x$ modulo wielomian cykliczny $(x^n-1)$.
 zarówno kraty jak i kody cykliczne odpowiadają ideałom w pierścienieach ilorazowych. kody cykliczne odpowiadają ideałom w pierścieniu
-ilorazowym $R_{kod} = \mathbb{Z}_q[x] / (x^n-1)$. kraty cykliczne odpowiadają ideałom w pierścieniu ilorazowym $R_{krata} = \mathbb{Z}[x] / (x^n-1)$.
+ilorazowym $R_{kod} = \mathbb{Z}_q [x] / (x^n-1)$. kraty cykliczne odpowiadają ideałom w pierścieniu ilorazowym $R_{krata} = \mathbb{Z}[x] / (x^n-1)$.
 zauważmy od razu, że pierścień $R_{kod}$ jest zarazem ideałem w pierścieniu ilorazowym $R_{krata}$ generowanym przez liczbę pierwszą $q$.
 
 pierścień $R_{kod}$ jest dziedziną ideałów głównych (principal ideal domain), stąd każdy kod $C$ odpowiadaja pewnemu ideałowi głównemu.
