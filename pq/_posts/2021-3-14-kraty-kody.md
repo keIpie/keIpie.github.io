@@ -111,3 +111,12 @@ $$ L^* = Hom(L,\mathbb{Z}) = \{ x \in \mathbb{R}^n ~|~ x \cdot y \in \mathbb{Z} 
 kodem dualnym nazywamy kod generowany przez macierz kontroli parzystości. można pokazać, że:
 
 $$ C^* = \{ x \in \mathbb{Z}_q^n ~|~ x \cdot y = 0 ~~~ \forall y \in C \}.$$
+
+#### kraty i kody cykliczne
+
+kraty/kody cykliczne, to takie struktury, w których jeżeli wektor/słowo o udtalonych współczynnikach $(c_1,c_2,\ldots,c_n)$
+należy do kraty/kodu, to jego cykliczna rotacja $(c_n,c_1\ldots, c_{n-1})$ również.
+
+zarówno kraty jak i kody cykliczne odpowiadają ideałom w pierścienieach ilorazowych. kody cykliczne odpowiadają ideałom w pierścieniu
+ilorazowym $R_{kod} = \mathbb{Z}_q[x]/(x^n-1)$. kraty cykliczne odpowiadają ideałom w pierścieniu ilorazowym $R_{krata} = \mathbb{Z}[x]/(x^n-1)$.
+zauważmy od razu, że pierścień $R_{kod}$ jest zarazem ideałem w pierścieniu ilorazowym $R_{krata}$ generowanym przez liczbę pierwszą $q$.
