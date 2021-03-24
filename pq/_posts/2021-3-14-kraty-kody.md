@@ -46,7 +46,9 @@ minimalną odległością Hamminga kodu, oznaczaną symbolem $d$, nazywamy najmn
 dwa słowa z zadanego kodu. ponieważ słowo zerowe zawsze należy do kodu, $d$ określa również najmniejszą możliwą liczbę niezerowych współczynników słowa.
 tworząc kod korekcyjny chcemy, aby minimalna odległość była jak największa - wtedy możemy wykryć i poprawić więcej błędów,
 które mogły pojawić się podczas transmisji wiadomości drogą radiową. kod o minimalnej odległości $d$ pozwoli
-wykryć $(d-1)$ błędów, a naprawić $\lfloor \frac{d-1}{2} \rfloor$ błędów.
+wykryć $(d-1)$ błędów, a naprawić $\lfloor \frac{d-1}{2} \rfloor$ błędów. wybór odległości Hamminga jako metryki, wydaje się naturalny
+jeżeli weźmie się pod uwagę, że drogą radiową wysyłane były ciągi bitów. w konsekwencji były tylko dwie mozliwe wartości współczynników: 0 albo 1,
+które mogły być różne na jeden tylko sposób (jak nie 0 to 1).
 
 w kratach długość wektorów i odległość między wektorami obliczamy przy pomocy metryki euklidesowej. minimalną odległość między
 dwoma wektorami kraty zadaje najkrótszy wektor kraty, oznaczany jako $\lambda_1$. dla krat dużych wymiarów znalezienie
@@ -153,9 +155,15 @@ $\mathbb{Z}_q[x]/f(x)$ dla wybranych wielomianów $f(x)$. z definicji na kraty i
 dzięki dodatkowej strukturze ideału, umożliwiamy mnożenie elementów należących do kraty/kody przez siebie (wcześniej mogliśmy tylko przez skalary).
 pozwala to konstruować zaawansowane systemy kryptograficzne, pozwalające wykonywać działania na zaszyfrowanych elementach.
 
-#### dekodowanie
+#### dekodowanie - usuwanie błędów
 
-kody można dekodować za pomocą technik algebraicznych i niealgebraicznych. metody algebraiczne polegają na rozwiązywaniu
-układów równań, w których niewiadomymi jest umiejscowienie i wartości błędów. niealgebraiczne metody próbują wykryć wzór błędu
-wykorzystując strukturalne własności kodu. najważniejsze niealgebraiczne algorytmy to dekodowanie Meggitta (do kodów cyklicznych),
-dekodowanie progwe Masseya oraz tzw. information set decoding.
+popularnie dekodowaniem nazywa się metody wyznaczania zakłóconych błędem słów kodowych - z nich już łatwo odzyskać wiadomość.
+generalnie szukamy słów kodowych, które różnią się od odebranego (zaszumionego) słowa na jak najmniejszej liczbie współrzędnych (odległość Hamminga).
+dekodować można za pomocą technik algebraicznych i niealgebraicznych.
+metody algebraiczne polegają na rozwiązywaniu układów równań, w których niewiadomymi jest umiejscowienie i wartości błędów.
+niealgebraiczne metody próbują wykryć wzór błędu wykorzystując strukturalne własności kodu. najważniejsze niealgebraiczne
+algorytmy to dekodowanie Meggitta (do kodów cyklicznych), dekodowanie progwe Masseya oraz tzw. information set decoding.
+
+analogiczne dekodowanie krat polega na szukaniu wektorów należących do kraty, leżących *najbliżej* zakłóconego słowa kodowego,
+przy czym tu *bliskość* opisywana jest przy pomocy metryki euklidesowej. popularnym algorytmem szukania najbliższego wektora kraty
+jest algorytm Babaia, który zwraca dobry wynik pod warunkiem, że znane są krótkie wektory należące do kraty.
