@@ -45,8 +45,8 @@ kodowe (rzadziej: ich binarne reprezentacje) mają różne wartości.
 minimalną odległością Hamminga kodu, oznaczaną symbolem $d$, nazywamy najmniejszą liczbę pozycji, na których różnią się
 dwa słowa z zadanego kodu. ponieważ słowo zerowe zawsze należy do kodu, $d$ określa również najmniejszą możliwą liczbę niezerowych współczynników słowa.
 tworząc kod korekcyjny chcemy, aby minimalna odległość była jak największa - wtedy możemy wykryć i poprawić więcej błędów,
-które mogły pojawić się podczas transmisji wiadomości drogą radiową. kod o minimalnej odległości d pozwoli
-wykryć (d-1) błędów, a naprawić $\lfloor \frac{d-1}{2} \rfloor$ błędów.
+które mogły pojawić się podczas transmisji wiadomości drogą radiową. kod o minimalnej odległości $d$ pozwoli
+wykryć $(d-1)$ błędów, a naprawić $\lfloor \frac{d-1}{2} \rfloor$ błędów.
 
 w kratach długość wektorów i odległość między wektorami obliczamy przy pomocy metryki euklidesowej. minimalną odległość między
 dwoma wektorami kraty zadaje najkrótszy wektor kraty, oznaczany jako $\lambda_1$. dla krat dużych wymiarów znalezienie
