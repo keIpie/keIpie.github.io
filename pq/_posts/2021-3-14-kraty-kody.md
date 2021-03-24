@@ -132,12 +132,12 @@ $$R_L = \mathbb{Z}[x] / (x^n-1).$$
 
 zauważmy od razu, że pierścień $R_C$ jest zarazem ideałem w pierścieniu ilorazowym $R_L$ generowanym przez liczbę pierwszą $q$.
 
-pierścień $R_C$ jest dziedziną ideałów głównych (principal ideal domain), stąd każdy kod $C$ odpowiadaja pewnemu ideałowi głównemu.
+pierścień $\mathbb{Z}_q[x]$ jest dziedziną ideałów głównych (principal ideal domain), stąd każdy kod $C$ odpowiadaja pewnemu ideałowi głównemu.
 wynika stąd, że dla każdego kodu istnieje element $g$, generujący wszystkie pozostałe słowa kodowe. dodatkowo element $g$ musi być dzielnikiem
 wielomianu $(x^n-1)$. jeżeli stopień wielomianu generującego $g$ wynosi $d$, to generuje on kod wymiaru $n-d$. kodem nierozkładalnym nazywamy
 kod, który odpowiada nierozkładalnemu ideałowi (który z kolei powstał przy użyciu nierozkładalnego wielomianu).
 
-pierścień $R_L$ nie jest dziedziną ideałów głównych (bo $\mathbb{Z}$ nie jest ciałem i ma elementy nieodwracalne np. $2$, w konsekwencji ma ideały
+pierścień $\mathbb{Z}[x]$ nie jest dziedziną ideałów głównych (bo $\mathbb{Z}$ nie jest ciałem i ma elementy nieodwracalne np. $2$, w konsekwencji ma ideały
 które nie są główne np. $\langle 2,x \rangle$). stąd nie mówimy o generatorach krat cyklicznych. ich baza ma jednak szczególną konstrukcję.
 załóżmy, że krata $L(B)$ odpowiada ideałowi $I \subseteq R_L$ wtedy:
 
