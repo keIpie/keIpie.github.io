@@ -154,3 +154,8 @@ dzięki dodatkowej strukturze ideału, umożliwiamy mnożenie elementów należ�
 pozwala to konstruować zaawansowane systemy kryptograficzne, pozwalające wykonywać działania na zaszyfrowanych elementach.
 
 #### dekodowanie
+
+kody można dekodować za pomocą technik algebraicznych i niealgebraicznych. metody algebraiczne polegają na rozwiązywaniu
+układów równań, w których niewiadomymi jest umiejscowienie i wartości błędów. niealgebraiczne metody próbują wykryć wzór błędu
+wykorzystując strukturalne własności kodu. najważniejsze niealgebraiczne algorytmy to dekodowanie Meggitta (do kodów cyklicznych),
+dekodowanie progwe Masseya oraz tzw. information set decoding.
