@@ -18,7 +18,7 @@ Podgrupa cykliczna generowana przez element $x$ w grupie multiplikatywnej $\math
 
 $$ \langle x \rangle = \{x,x^2,\ldots x^{n-1},-1,-x,\ldots,-x^{n-1},1\} $$
 
-ma rząd 2n. Jej poszczególne elementy możemy reprezentować:
+ma rząd 2n. Jej poszczególne elementy możemy reprezentować poprzez zespolone pierwiastki z jedynki:
 
 $$ p_k(x^j) = e^{\frac{2\pi ik \cdot j}{2n}$$
 
