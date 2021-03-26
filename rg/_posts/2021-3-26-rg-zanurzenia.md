@@ -7,7 +7,8 @@ Jak wprowadzić geometrię w pierścieniach grupowych? Jak zdefiniować odległo
 Jakie zanurzenia zastosować.
 
 Popularnie, zwłaszcza przy stosowaniu krat w kryptografii, stosuje się dwa typy zanurzeń, które
-pozwalają zdefiniować pojęcie odległości: zanurzenie kanoniczne, zanurzenie po współczynnikach.
+pozwalają zdefiniować pojęcie odległości: **zanurzenie kanoniczne** (cannonical embedding) oraz
+**zanurzenie po współczynnikach** (coefficicent embedding).
 
 Zanurzenie kanoniczne stosowane jest przede wszystkim dla krat cyklotomicznych, ponieważ pozwala
 mnożyć wektory poprzez mnożenie *po współrzędnych*. Zauważmy, że:
