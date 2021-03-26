@@ -20,7 +20,7 @@ $$ \langle x \rangle = \{x,x^2,\ldots x^{n-1},-1,-x,\ldots,-x^{n-1},1\} $$
 
 ma rząd 2n. Jej poszczególne elementy możemy reprezentować poprzez zespolone pierwiastki z jedynki:
 
-$$ p_k(x^j) = e^{\frac{2\pi ik \cdot j}{2n}$$
+$$ p_k(x^j) = e^{\frac{2\pi ik \cdot j}{2n}}$$
 
 Aby znaleźć zanurzenie kanoniczne dla pierścieni grupowych, można użyć nierozkładalnych reprezentacji
 grup nieprzemiennych. Jednak jeżeli reprezentacje mają wymiar większy niż 1 niemożliwe jest mnożenie
