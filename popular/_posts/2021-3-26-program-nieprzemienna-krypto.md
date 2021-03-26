@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zastosowania algebry nieprzemiennej w kryptografii
+title: Nieprzemienna a krypto
 ---
 
 Program wykładu i ćwiczeń, dotyczących algebry nieprzemiennej i jej zastosowań
