@@ -30,3 +30,15 @@ grup nieprzemiennych. Jednak jeśli reprezentacje mają wymiar większy niż 1, 
 *po współrzędnych* i efektywniejsze może być stosowanie zanurzeń *po współczynnikach*.
 
 #### zanurzenie po współczynnikach
+
+Pierścień grupowy $\mathbb{Z}[G]$ nad grupą $G$ rzędu $n$ jest izomorficzny z $\mathbb{Z}^n$. Elementy grupy
+są zanurzane przy użyciu zaurzenia po współczynnikach (*coefficient embedding*) w $\mathbb{Z}^n$ przez
+przekształcenie w wektory jednostkowe. Używając tego zanurzenia długość wektora $X$ obliczamy prz pomocy normy
+Euklidesowej.
+
+**Lemat 1** Niech $X,~Y \in R[G]$, wtedy norma ich iloczynu jest ograniczona z góry:
+
+$$ \| XY \| \leqslant \sqrt{n} \| X \| \cdot \| Y \|. $$
+
+**Dowód** Norma $l_{\infty}$ elementu $XY$ jest mniejsza od iloczynu $\|X\|\|Y\|$, co wynika
+z [nierówności Cauchy'ego-Schwarza](https://pl.wikipedia.org/wiki/Nier%C3%B3wno%C5%9B%C4%87_Cauchy%E2%80%99ego-Schwarza).
