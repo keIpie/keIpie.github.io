@@ -24,5 +24,5 @@ ma rząd 2n. Jej poszczególne elementy możemy reprezentować poprzez zespolone
 $$ p_k(x^j) = e^{\frac{2\pi ik \cdot j}{2n}}$$
 
 Aby znaleźć zanurzenie kanoniczne dla pierścieni grupowych, można użyć nierozkładalnych reprezentacji
-grup nieprzemiennych. Jednak jeżeli reprezentacje mają wymiar większy niż 1 niemożliwe jest mnożenie
+grup nieprzemiennych. Jednak jeśli reprezentacje mają wymiar większy niż 1, wtedy niemożliwe jest mnożenie
 *po współrzędnych* i efektywniejsze może być stosowanie zanurzeń *po współczynnikach*.
