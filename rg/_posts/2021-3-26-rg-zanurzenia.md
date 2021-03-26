@@ -10,7 +10,7 @@ Popularnie, zwłaszcza przy stosowaniu krat w kryptografii, stosuje się dwa typ
 pozwalają zdefiniować pojęcie odległości: **zanurzenie kanoniczne** (cannonical embedding) oraz
 **zanurzenie po współczynnikach** (coefficicent embedding).
 
-#### zanurzenie kanoniczne
+### zanurzenie kanoniczne
 
 Zanurzenie kanoniczne stosowane jest przede wszystkim dla krat cyklotomicznych, ponieważ pozwala
 mnożyć wektory poprzez mnożenie *po współrzędnych*. Zauważmy, że:
@@ -29,7 +29,7 @@ Aby znaleźć zanurzenie kanoniczne dla pierścieni grupowych, można użyć nie
 grup nieprzemiennych. Jednak jeśli reprezentacje mają wymiar większy niż 1, wtedy niemożliwe jest mnożenie
 *po współrzędnych* i efektywniejsze może być stosowanie zanurzeń *po współczynnikach*.
 
-#### zanurzenie po współczynnikach
+### zanurzenie po współczynnikach
 
 Pierścień grupowy $\mathbb{Z}[G]$ nad grupą $G$ rzędu $n$ jest izomorficzny z $\mathbb{Z}^n$. Elementy grupy
 są zanurzane przy użyciu zaurzenia po współczynnikach (*coefficient embedding*) w $\mathbb{Z}^n$ przez
