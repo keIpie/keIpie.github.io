@@ -10,6 +10,25 @@ Popularnie, zwłaszcza przy stosowaniu krat w kryptografii, stosuje się dwa typ
 pozwalają zdefiniować pojęcie odległości: **zanurzenie kanoniczne** (cannonical embedding) oraz
 **zanurzenie po współczynnikach** (coefficicent embedding).
 
+###  normy przestrzeni wektorowych
+
+klasycznie normę definiujemy dla przestrzeni wektorowych $X$ nad ciałami $\mathbbb{R}$ lub $\mathbbb{C}$,
+jako odwzorowanie tych przestrzeni w zbiór liczb rzeczywistych dodatnich:
+
+$$ |\cdot|: X \rightarrow [0,\infty) $$
+
+które dla dowolnych $x,y \in X$ oraz skalaru $\alpha$ spełnia trzy aksjomaty:
+
+1. $\|x\| = 0 \imply x=0$,
+
+2. $\| \alpha x \| = | \alpha | \| x\|$,
+
+3. $\|x+y\| \leqslant \|x\| + \| y \|$ (nierówność trójkąta).
+
+### a co dla ciał skończonych?
+
+### a co dla $\mathbb{Z}$-modułów?
+
 ### zanurzenie kanoniczne
 
 Zanurzenie kanoniczne stosowane jest przede wszystkim dla krat cyklotomicznych, ponieważ pozwala
