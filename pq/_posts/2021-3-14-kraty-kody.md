@@ -37,7 +37,7 @@ przemnożenia przez macierz odwracalną wymiarów $k \times k$.
 
 ta sama krata ma wiele różnych baz. bazy $B, B' \in \mathbb{Z}^{n \times n}$ zadają tę samą kratę, jeżeli jedną można przekształcić w druga przy
 pomocy mnożenia przez macierz unimodularną (odwracalną i o wyznaczniku $\pm 1$). przemnożenie przez macierz unimodularną odpowiada wybraniu nowej
-baz kraty, składającej się z kombinacji liniowej wektorów starej bazy. macierz mawyznacznik $\pm 1$, ponieważ nie możemy skalować wektorów bazy.
+baz kraty, składającej się z kombinacji liniowej wektorów starej bazy. macierz ma wyznacznik $\pm 1$, ponieważ nie możemy skalować wektorów bazy.
 liczby całkowite nie są odwracalne i nie możemy przemnożyć wektora o współczynnikach całkowitych przez skalar będący odwrotnością jego długości.
 otrzymany w ten sposób wektor jednostkowy nie będzie należał do kraty (a należałby do kodu).
 
@@ -60,6 +60,10 @@ ortogonalizację wektorów bazowych w celu znalezienia najkróteszego wektora kr
 
 zauważmy, że odległość euklidesowa między słowami kodowymi o odległości Hamminga 1 może być dowolnie duża, a wektory kraty o bardzo małej odległości
 euklidesowej mogą różnić się na *wszystkich pozycjach* (w wybranej bazie mieć wszystkie współczynniki różne).
+
+dobór metryki nie jest przypadkowy. wprowadzenie metryki euklidesowej w kodach wiązałoby się z pewną trudnością. istotną cechą kodów, używających ciał
+skończonych o charakterystyce $q$, jest ich modularność. wprowadzona metryka powinna uwzględniać modularność struktury, czego metryka euklidesowa
+nie spełnia.
 
 ### błędy
 
