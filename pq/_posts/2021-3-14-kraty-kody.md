@@ -37,9 +37,8 @@ przemnożenia przez macierz odwracalną wymiarów $k \times k$.
 
 ta sama krata ma wiele różnych baz. bazy $B, B' \in \mathbb{Z}^{n \times n}$ zadają tę samą kratę, jeżeli jedną można przekształcić w druga przy
 pomocy mnożenia przez macierz unimodularną (odwracalną i o wyznaczniku $\pm 1$). przemnożenie przez macierz unimodularną odpowiada wybraniu nowej
-baz kraty, składającej się z kombinacji liniowej wektorów starej bazy. macierz ma wyznacznik $\pm 1$, ponieważ nie możemy skalować wektorów bazy.
-liczby całkowite nie są odwracalne i nie możemy przemnożyć wektora o współczynnikach całkowitych przez skalar będący odwrotnością jego długości.
-otrzymany w ten sposób wektor jednostkowy nie będzie należał do kraty (a należałby do kodu).
+baz kraty, składającej się z kombinacji liniowej wektorów starej bazy. macierz ma wyznacznik $\pm 1$, ponieważ nie możemy skalować wektorów bazy
+(takie przekształcenie nie jest odwracalne ze względu na nieodwracalność liczb całkowitych).
 
 ### odległości między elementami
 
