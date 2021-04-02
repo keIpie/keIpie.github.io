@@ -169,7 +169,7 @@ generalnie szukamy słów kodowych, które różnią się od odebranego (zaszumi
 dekodować można za pomocą technik algebraicznych i niealgebraicznych.
 metody algebraiczne polegają na rozwiązywaniu układów równań, w których niewiadomymi jest umiejscowienie i wartości błędów.
 niealgebraiczne metody próbują wykryć wzór błędu wykorzystując strukturalne własności kodu. najważniejsze niealgebraiczne
-algorytmy to dekodowanie Meggitta (do kodów cyklicznych), dekodowanie progwe Masseya oraz tzw. information set decoding.
+algorytmy to dekodowanie Meggitta (dla kodów cyklicznych), dekodowanie progowe Masseya oraz tzw. information set decoding.
 
 analogiczne dekodowanie krat polega na szukaniu wektorów należących do kraty, leżących *najbliżej* zakłóconego słowa kodowego,
 przy czym tu *bliskość* opisywana jest przy pomocy metryki euklidesowej. popularnym algorytmem szukania najbliższego wektora kraty
