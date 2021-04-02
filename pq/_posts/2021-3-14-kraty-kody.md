@@ -73,7 +73,8 @@ którego nie można skorygować nie mając pewnej ważnej informacji, znanej tyl
 który nie należy do kodu/kraty.
 
 w systemach kodowych szyfrogram $c$ jest pewnym wektorem z przestrzeni $\mathbb{Z}_q^n$, nie należącym do podprzestrzeni kodu. skorygować błąd
-może jedynie osoba posiadająca parametry kodu. usuwanie błędów i dekodowanie słów kodu, którego się nie zna jest problemem obliczeniowo trudnym.
+(jeżeli jest dostatecznie mały) może jedynie osoba posiadająca parametry kodu. usuwanie błędów i dekodowanie słów kodu, którego się nie zna jest
+problemem obliczeniowo trudnym.
 
 w systemach kratowych szyfrogram $c$ jest pewnym wektorem z przestrzni $\mathbb{Z}^n$. do wektora kraty dodawany jest wektor błędu, o małej długości
 w porównaniu z długością najkrótszego wektora kraty. nie znając krótkich wektorów kraty, obliczeniowo trudnym problemem jest znalezienie
