@@ -141,7 +141,7 @@ $$R_L = \mathbb{Z}[x] / (x^n-1).$$
 
 zauważmy od razu, że pierścień $R_C$ jest zarazem ideałem w pierścieniu ilorazowym $R_L$ generowanym przez liczbę pierwszą $q$.
 
-pierścień $\mathbb{Z}_q[x]$ jest dziedziną ideałów głównych (principal ideal domain), stąd każdy kod $C$ odpowiadaja pewnemu ideałowi głównemu.
+pierścień $\mathbb{Z}_q[x]$ jest dziedziną ideałów głównych (*principal ideal domain*), stąd każdy kod $C$ odpowiada pewnemu ideałowi głównemu.
 wynika stąd, że dla każdego kodu istnieje element $g$, generujący wszystkie pozostałe słowa kodowe. dodatkowo element $g$ musi być dzielnikiem
 wielomianu $(x^n-1)$. jeżeli stopień wielomianu generującego $g$ wynosi $d$, to generuje on kod wymiaru $n-d$. kodem nierozkładalnym nazywamy
 kod, który odpowiada nierozkładalnemu ideałowi (który z kolei powstał przy użyciu nierozkładalnego wielomianu).
