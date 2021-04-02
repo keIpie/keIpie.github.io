@@ -45,7 +45,9 @@ $$ | K | = \{ |x| ~|~ x \in K - \{0\} \}$$
 jest multiplikatywną podgrupą $(0,\infty)$, nazywaną grupą waluacji. Ciała skończone mają trywialną grupę waluacji $|K|=\{1\}$,
 ponieważ gdyby istniało $x$ , takie że $|x| \neq 1$ to grupa $\{|x^n| ~|~ n \in \mathbb{Z}\}$ byłaby nieskończona.
 
-Na ciałach z zadaną waluacją (*valued fields*) możemy już wprowadzić normę.
+Na ciałach z zadaną waluacją (*valued fields*) możemy już wprowadzić normę zadaną w poprzednim paragrafie. Zauważmy, że
+ponieważ ciała skończone mają trywialne waluacje to z warunku 2. z definicji normy
+$\| \alpha x \| = | \alpha | \| x\| = \|x\|$, co jest nieintuicyjne.
 
 ### a co dla $\mathbb{Z}$-modułów?
 
