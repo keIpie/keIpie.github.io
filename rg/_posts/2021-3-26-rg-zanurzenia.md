@@ -65,9 +65,9 @@ wielomianu redukcyjnego $f(x)$, nazywane **zanurzeniem kanonicznym**.
 
 ### zanurzenie kanoniczne
 
-Zanurzenie kanoniczne stosowane jest przede wszystkim dla pierścieni cyklicznych $\mathbb{Z}[x]/x^n-1 i cyklotomicznych $\mathbb{Z}[x]/x^n+1,
+Zanurzenie kanoniczne stosowane jest przede wszystkim dla pierścieni cyklicznych $\mathbb{Z}[x]/x^n-1 i cyklotomicznych postaci $\mathbb{Z}[x]/x^n+1,
 ponieważ pierwiastki wielomianów redukcyjnych są pierwiastkami z jedynki (odpowiednio stopnia $n$ i $2n$). Zanurzenie kanoniczne pozwala efektywnie
-mnożyć wielomiany, mnożąc ich reprezentacje *po współrzędnych*. Zauważmy, że:
+mnożyć wielomiany, mnożąc ich reprezentacje *po współrzędnych*. Dla pierścieni cyklotomicznych zanurzenie ma postać:
 
 $$ \mathbb{Z}[x]/(x^n+1) \rightarrow \mathbb{C}[x]/(x^n+1) \rightarrow \bigoplus \mathbb{C}[x]/(x-e^{\frac{2\pi ik}{2n}}). $$
 
