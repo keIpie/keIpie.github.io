@@ -52,10 +52,14 @@ $\| \alpha \cdot x \| = | \alpha | \cdot \| x\| = \|x\|$, co jest nieintuicyjne.
 ### a co dla $\mathbb{Z}$-modułów?
 
 W kontekście krat i pierścieni interesują nas normy zadana dla modułów (a nie przesztrzeni wektorowych).
+Dla pierścienia $\mathbb{Z}$ sprawa jest prosta ponieważ zanurza się on w ciało liczb rzeczywistych i ciało
+liczb zespolonych, co pozwala używać na nim normy euklidesowej (lub innych $l_p$ norm).
 
 ### a co dla modułów nad pierścieniami ilorazowymi?
 
-tutaj - tak jak w ciałach skónczonych - wchodzi w grę modularność, z którą trzeba sobie poradzić.
+Tutaj - tak jak w ciałach skónczonych - wchodzi w grę modularność, z którą trzeba sobie poradzić. Ilorazowy pierścień wielomianów
+o całkowitych współczynikach $\mathbb{Z}[x]/f(x)$ można zanurzyć w pierścień wielomianów o współczynnikach zespolonych $\mathbb{C}[x]/f(x)$.
+Aby rozwiązać problemy z modularnością stosuje się inne rodzaje zanurzeń.
 
 ### zanurzenie kanoniczne
 
