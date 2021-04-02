@@ -62,7 +62,7 @@ euklidesowej mogą różnić się na *wszystkich pozycjach* (w wybranej bazie mi
 
 dobór metryki nie jest przypadkowy. wprowadzenie metryki euklidesowej w kodach nie jest możliwe ze względu na ich modularność.
 aby wprowadzić normę na przestrzeni liniowej nad ciałem skończonym, najpierw należy określić miarę elemnetów ciała - jego
-[waluację](https://keipie.github.io/rg-zanurzenia/). W podlinkowanyhm artykule można przeczytać czemu ciała skończone muszą mieć
+[waluację](https://keipie.github.io/rg-zanurzenia/). W podlinkowanym artykule można przeczytać czemu ciała skończone muszą mieć
 trywialną waluację i jak wpływa to na normę przestrzeni nad nimi.
 
 ### błędy
