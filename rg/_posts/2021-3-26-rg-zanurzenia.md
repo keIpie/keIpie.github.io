@@ -46,7 +46,7 @@ jest multiplikatywną podgrupą $(0,\infty)$, nazywaną grupą waluacji. Ciała 
 ponieważ gdyby istniało $x$ , takie że $|x| \neq 1$ to grupa $\{|x^n| ~|~ n \in \mathbb{Z}\}$ byłaby nieskończona.
 
 Na ciałach z zadaną waluacją (*valued fields*) możemy już wprowadzić normę zadaną w poprzednim paragrafie. Zauważmy, że
-ponieważ ciała skończone mają trywialne waluacje to z warunku 2. z definicji normy
+ponieważ ciała skończone mają trywialne waluacje to z warunku 2. definicji normy
 $\| \alpha x \| = | \alpha | \| x\| = \|x\|$, co jest nieintuicyjne.
 
 ### a co dla $\mathbb{Z}$-modułów?
