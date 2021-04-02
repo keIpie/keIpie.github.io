@@ -86,10 +86,8 @@ każdemu kodowi liniowemu można jednozacznie przyporządkować kratę. kodom b�
 odpowiadają tak zwane kraty q-arne, czyli kraty $L$, dla których $q\mathbb{Z}^n \subseteq L$. z warunku tego wynika, że
 wektor $x \in \mathbb{Z}$ należy do q-arnej kraty $L_q$ wtedy i tylko wtedy, gdy $x \pmod{q}$ również należy do $L_q$.
 
-w zastosowaniach kryptograficznych można myśleć, że kraty q-arne do podgrupy $\mathbb{Z}_q^n$.
-
-w odróżnieniu od kodów q-arnych, do q-arnych krat należą nie tylko wektory $x \pmod{q}$, ale też $x$. dzięki temu
-możemy rozważać euklidesową odległość.
+w zastosowaniach kryptograficznych kraty q-arne traktowane są jak podgrupy $\mathbb{Z}_q^n$ (którymi jednak nie są). jednak w odróżnieniu
+od kodów q-arnych, do q-arnych krat należą nie tylko wektory $x \pmod{q}$, ale też $x$. dzięki temu możemy rozważać euklidesową odległość.
 
 przykładowa krata q-arna o bazie $B \in \mathbb{Z}^{n \times m}$ ma postać:
 
