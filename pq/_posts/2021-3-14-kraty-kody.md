@@ -60,9 +60,10 @@ ortogonalizację wektorów bazowych w celu znalezienia najkróteszego wektora kr
 zauważmy, że odległość euklidesowa między słowami kodowymi o odległości Hamminga 1 może być dowolnie duża, a wektory kraty o bardzo małej odległości
 euklidesowej mogą różnić się na *wszystkich pozycjach* (w wybranej bazie mieć wszystkie współczynniki różne).
 
-dobór metryki nie jest przypadkowy. wprowadzenie metryki euklidesowej w kodach wiązałoby się z pewną trudnością. istotną cechą kodów, używających ciał
-skończonych o charakterystyce $q$, jest ich modularność. wprowadzona metryka powinna uwzględniać modularność struktury, czego metryka euklidesowa
-nie spełnia.
+dobór metryki nie jest przypadkowy. wprowadzenie metryki euklidesowej w kodach nie jest możliwe ze względu na ich modularność.
+aby wprowadzić normę na przestrzeni liniowej nad ciałem skończonym, najpierw należy określić miarę elemnetów ciała - jego
+[waluację](https://keipie.github.io/rg-zanurzenia/). W podlinkowanyhm artykule można przeczytać czemu ciała skończone muszą mieć
+trywialną waluację i jak wpływa to na normę przestrzeni nad nimi.
 
 ### błędy
 
