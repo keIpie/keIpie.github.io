@@ -125,7 +125,7 @@ $$ C^* = \{ x \in \mathbb{Z}_q^n ~|~ x \cdot y = 0 ~~~ \forall y \in C \}.$$
 
 ### kraty i kody cykliczne
 
-kraty/kody nazywamy cyklicznymi jeżeli wektor/słowo o ustalonych współczynnikach $(c_1,c_2,\ldots,c_n)$
+kraty/kody nazywamy cyklicznymi jeżeli gdy wektor/słowo o ustalonych współczynnikach $(c_1,c_2,\ldots,c_n)$
 należy do kraty/kodu, to jego cykliczna rotacja $(c_n,c_1\ldots, c_{n-1})$ również.
 
 jeżeli wektorom/słowom krat/kodów przyporządkujemy wielomiany o współczynnikach zadanych przez ich współrzędne, to rotacja cykliczna
