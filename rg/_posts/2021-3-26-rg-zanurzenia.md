@@ -12,14 +12,14 @@ pozwalają zdefiniować pojęcie odległości: **zanurzenie kanoniczne** (cannon
 
 ###  normy przestrzeni wektorowych
 
-Klasycznie normę definiujemy dla przestrzeni wektorowych $X$ nad ciałami $\mathbbb{R}$ lub $\mathbbb{C}$,
+Klasycznie normę definiujemy dla przestrzeni wektorowych $X$ nad ciałami $\mathbb{R}$ lub $\mathbb{C}$,
 jako odwzorowanie tych przestrzeni w zbiór liczb rzeczywistych dodatnich:
 
 $$ |\cdot|: X \rightarrow \mathbb{R}_+ $$
 
 które dla dowolnych $x,y \in X$ oraz skalaru $\alpha$ spełnia trzy aksjomaty:
 
-1. $x \geqslant 0$ oraz $\|x\| = 0 \imply x=0$,
+1. $x \geqslant 0$ oraz $\|x\| = 0 \rightarrow x=0$,
 
 2. $\| \alpha x \| = | \alpha | \| x\|$,
 
@@ -32,7 +32,7 @@ Aby wprowadzić normę na ciele skończonym najpierw określamy jego **waluację
 która wprowadza miarę na elementach ciała. Niech $K$ będzie ciałem i niech $|\cdot|: K \rightarrow \mathbb{R}$.
 Waluacja z definicji spełnia następujące własności:
 
-1. $x \geqslant 0$ oraz $\|x\| = 0 \imply x=0$,
+1. $x \geqslant 0$ oraz $\|x\| = 0 \rightarrow x=0$,
 
 2. $\|x+y\| \leqslant \|x\| + \| y \|$,
 
