@@ -12,20 +12,40 @@ pozwalają zdefiniować pojęcie odległości: **zanurzenie kanoniczne** (cannon
 
 ###  normy przestrzeni wektorowych
 
-klasycznie normę definiujemy dla przestrzeni wektorowych $X$ nad ciałami $\mathbbb{R}$ lub $\mathbbb{C}$,
+Klasycznie normę definiujemy dla przestrzeni wektorowych $X$ nad ciałami $\mathbbb{R}$ lub $\mathbbb{C}$,
 jako odwzorowanie tych przestrzeni w zbiór liczb rzeczywistych dodatnich:
 
-$$ |\cdot|: X \rightarrow [0,\infty) $$
+$$ |\cdot|: X \rightarrow \mathbb{R}_+ $$
 
 które dla dowolnych $x,y \in X$ oraz skalaru $\alpha$ spełnia trzy aksjomaty:
 
-1. $\|x\| = 0 \imply x=0$,
+1. $x \geqslant 0$ oraz $\|x\| = 0 \imply x=0$,
 
 2. $\| \alpha x \| = | \alpha | \| x\|$,
 
 3. $\|x+y\| \leqslant \|x\| + \| y \|$ (nierówność trójkąta).
 
 ### a co dla ciał skończonych?
+
+Powyższej definicji nie możemy używać dla ciał skończonych, póki nie wiemy czym jest norma elementu ciała $| \alpha |$.
+Aby wprowadzić normę na ciele skończonym najpierw określamy jego **waluację**, czyli funkcję,
+która wprowadza miarę na elementach ciała. Niech $K$ będzie ciałem i niech $|\cdot|: K \rightarrow \mathbb{R}$.
+Waluacja z definicji spełnia następujące własności:
+
+1. $x \geqslant 0$ oraz $\|x\| = 0 \imply x=0$,
+
+2. $\|x+y\| \leqslant \|x\| + \| y \|$,
+
+3. $\|x \cdot y\| = \|x\| \cdot \| y \|$.
+
+Można pokazać, że biór niezerwoych wartości norm:
+
+$$ | K | = \{ |x| ~|~ x \in K - \{0\} \}$$
+
+jest multiplikatywną podgrupą $(0,\infty)$, nazywaną grupą waluacji. Ciała skończone mają trywialną grupę waluacji $|K|=\{1\}$,
+ponieważ gdyby istniało $x$ , takie że $|x| \neq 1$ to grupa $\{|x^n| ~|~ n \in \mathbb{Z}\}$ byłaby nieskończona.
+
+Na ciałach z zadaną waluacją (*valued fields*) możemy już wprowadzić normę.
 
 ### a co dla $\mathbb{Z}$-modułów?
 
