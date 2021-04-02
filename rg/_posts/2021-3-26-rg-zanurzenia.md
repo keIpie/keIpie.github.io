@@ -19,11 +19,11 @@ $$ |\cdot|: X \rightarrow \mathbb{R}_+ $$
 
 które dla dowolnych $x,y \in X$ oraz skalaru $\alpha$ spełnia trzy aksjomaty:
 
-1. $x \geqslant 0$ oraz $\|x\| = 0 \rightarrow x=0$,
+1. $ x \geqslant 0 $ oraz $ \|x\| = 0 \rightarrow x=0 $,
 
-2. $\| \alpha \cdot x \| = | \alpha | \cdot \| x\|$,
+2. $ \| \alpha \cdot x \| = | \alpha | \cdot \| x \| $,
 
-3. $\|x+y\| \leqslant \|x\| + \| y \|$ (nierówność trójkąta).
+3. $ \|x+y\| \leqslant \|x\| + \| y \|$ (nierówność trójkąta).
 
 ### a co dla ciał skończonych?
 
