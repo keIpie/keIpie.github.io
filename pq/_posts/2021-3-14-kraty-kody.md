@@ -122,7 +122,7 @@ kodem dualnym nazywamy kod generowany przez macierz kontroli parzystości. możn
 
 $$ C^* = \{ x \in \mathbb{Z}_q^n ~|~ x \cdot y = 0 ~~~ \forall y \in C \}.$$
 
-#### kraty i kody cykliczne
+### kraty i kody cykliczne
 
 kraty/kody nazywamy cyklicznymi jeżeli wektor/słowo o ustalonych współczynnikach $(c_1,c_2,\ldots,c_n)$
 należy do kraty/kodu, to jego cykliczna rotacja $(c_n,c_1\ldots, c_{n-1})$ również.
@@ -154,14 +154,14 @@ $$ B = \{ g \pmod{x^n-1} ~|~ g \in I \}.$$
 ciekawostka: niektóre nowe schematy kodowe, używają kodów quasi-cyklicznych, w których jeżeli słowo odpowiadające wielomianowi $c(x)$
 należy do kodu, to również musi należeć słowo odpowiadające wielomianowi $x^b \cdot c(x) \pmod{x^n-1}$. dla $b=1$ mamy dokładnie kod cykliczny.
 
-#### kraty/kody ideałowe
+### kraty/kody ideałowe
 
 kraty/kody cykliczne są szczególnym przypadkiem krat/kodów ideałowych, odpowiadających ideałom w pierścieniach $\mathbb{Z}[x]/f(x)$ oraz
 $\mathbb{Z}_q[x]/f(x)$ dla wybranych wielomianów $f(x)$. z definicji na kraty i kody można patrzeć jak na grupy addytywne.
 dzięki dodatkowej strukturze ideału, umożliwiamy mnożenie elementów należących do kraty/kody przez siebie (wcześniej mogliśmy tylko przez skalary).
 pozwala to konstruować zaawansowane systemy kryptograficzne, pozwalające wykonywać działania na zaszyfrowanych elementach.
 
-#### dekodowanie - usuwanie błędów
+### dekodowanie - usuwanie błędów
 
 popularnie dekodowaniem nazywa się metody wyznaczania zakłóconych błędem słów kodowych - z nich już łatwo odzyskać wiadomość.
 generalnie szukamy słów kodowych, które różnią się od odebranego (zaszumionego) słowa na jak najmniejszej liczbie współrzędnych (odległość Hamminga).
