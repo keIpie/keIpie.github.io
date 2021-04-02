@@ -21,7 +21,7 @@ które dla dowolnych $x,y \in X$ oraz skalaru $\alpha$ spełnia trzy aksjomaty:
 
 1. $x \geqslant 0$ oraz $\|x\| = 0 \rightarrow x=0$,
 
-2. $\| \alpha x \| = | \alpha | \| x\|$,
+2. $\| \alpha \cdot x \| = | \alpha | \cdot \| x\|$,
 
 3. $\|x+y\| \leqslant \|x\| + \| y \|$ (nierówność trójkąta).
 
@@ -47,7 +47,7 @@ ponieważ gdyby istniało $x$ , takie że $|x| \neq 1$ to grupa $\{|x^n| ~|~ n \
 
 Na ciałach z zadaną waluacją (*valued fields*) możemy już wprowadzić normę zadaną w poprzednim paragrafie. Zauważmy, że
 ponieważ ciała skończone mają trywialne waluacje to z warunku 2. definicji normy
-$\| \alpha x \| = | \alpha | \| x\| = \|x\|$, co jest nieintuicyjne.
+$\| \alpha \cdot x \| = | \alpha | \cdot \| x\| = \|x\|$, co jest nieintuicyjne.
 
 ### a co dla $\mathbb{Z}$-modułów?
 
