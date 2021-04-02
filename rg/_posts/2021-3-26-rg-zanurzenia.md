@@ -57,9 +57,11 @@ liczb zespolonych, co pozwala używać na nim normy euklidesowej (lub innych $l_
 
 ### a co dla modułów nad pierścieniami ilorazowymi?
 
-Tutaj - tak jak w ciałach skónczonych - wchodzi w grę modularność, z którą trzeba sobie poradzić. Ilorazowy pierścień wielomianów
-o całkowitych współczynikach $\mathbb{Z}[x]/f(x)$ można zanurzyć w pierścień wielomianów o współczynnikach zespolonych $\mathbb{C}[x]/f(x)$.
-Aby rozwiązać problemy z modularnością stosuje się inne rodzaje zanurzeń.
+Ilorazowy pierścień wielomianów o całkowitych współczynikach $\mathbb{Z}[x]/f(x)$ można zanurzyć w pierścień wielomianów o współczynnikach
+zespolonych $\mathbb{C}[x]/f(x)$, który (jako $\mathbb{C}$-moduł) jest izomorficzny z $\mathbb{C}^n$ (z indukowanym działaniem).
+Zanurzenie w $\mathbb{C}^n$ nazywamy zanurzeniem **po współczynnikach**. Zanurzenie po współczynnikach odpowiada zapisaniu wielomianów w bazie
+standardowej $\{1,x,x^2,\ldots,x^{n-1}\}$. Czasem wygodniej jest stosować zanurzenie niezależne od bazy, a za to związane z pierwiastkami
+wielomianu redukcyjnego $f(x)$, nazywane **zanurzeniem kanonicznym**.
 
 ### zanurzenie kanoniczne
 
