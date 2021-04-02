@@ -88,7 +88,7 @@ grup nieprzemiennych. Jednak jeśli reprezentacje mają wymiar większy niż 1, 
 Pierścień grupowy $\mathbb{Z}[G]$ nad grupą $G$ rzędu $n$ jest izomorficzny z $\mathbb{Z}^n$. Elementy grupy
 są zanurzane przy użyciu zaurzenia po współczynnikach (*coefficient embedding*) w $\mathbb{Z}^n$ przez
 przekształcenie w wektory jednostkowe. Używając tego zanurzenia długość wektora $X$ obliczamy prz pomocy normy
-Euklidesowej.
+euklidesowej.
 
 **Lemat 1** Niech $X,~Y \in R[G]$, wtedy norma ich iloczynu jest ograniczona z góry:
 
