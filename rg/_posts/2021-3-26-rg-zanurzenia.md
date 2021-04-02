@@ -51,6 +51,8 @@ $\| \alpha x \| = | \alpha | \| x\| = \|x\|$, co jest nieintuicyjne.
 
 ### a co dla $\mathbb{Z}$-modułów?
 
+W kontekście krat i pierścieni interesują nas normy zadana dla modułów (a nie przesztrzeni wektorowych).
+
 ### zanurzenie kanoniczne
 
 Zanurzenie kanoniczne stosowane jest przede wszystkim dla krat cyklotomicznych, ponieważ pozwala
