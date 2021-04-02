@@ -53,6 +53,10 @@ $\| \alpha \cdot x \| = | \alpha | \cdot \| x\| = \|x\|$, co jest nieintuicyjne.
 
 W kontekście krat i pierścieni interesują nas normy zadana dla modułów (a nie przesztrzeni wektorowych).
 
+### a co dla modułów nad pierścieniami ilorazowymi?
+
+tutaj - tak jak w ciałach skónczonych - wchodzi w grę modularność, z którą trzeba sobie poradzić.
+
 ### zanurzenie kanoniczne
 
 Zanurzenie kanoniczne stosowane jest przede wszystkim dla krat cyklotomicznych, ponieważ pozwala
