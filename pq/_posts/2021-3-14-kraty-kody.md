@@ -7,7 +7,8 @@ działają w podobnych (a czasem identycznych) strukturach algebraicznych, ale r
 postkwantowe systemy kryptograficzne oparte na kratach/kodach wykorzystują wyjście poza ich strukturę poprzez dodawanie **małych błędów**,
 możliwych do skorygowania przez kogoś kto ma pełne dane o strukturze. żeby określić co to znaczy **mały** trzeba zdefiniować metrykę,
 odległość między elementami struktury. kody i kraty robią to na różne sposoby. wynika stąd różnica w algorytmach dekodowania i ich
-trudności.
+trudności. warto się nimi zajmować, bo w [konkursie na standard postkwantowego algorytmu wymiany klucza](https://keipie.github.io/nist-round-3/)
+wszytskie finałowe rozwiązania wykorzystują albo kraty albo kody.
 
 ### kody
 
