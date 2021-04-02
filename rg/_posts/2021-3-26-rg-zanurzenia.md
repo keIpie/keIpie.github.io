@@ -21,7 +21,7 @@ które dla dowolnych $x,y \in X$ oraz skalaru $\alpha$ spełnia trzy aksjomaty:
 
 1. $ x \geqslant 0 $ oraz $ \|x\| = 0 \rightarrow x=0 $,
 
-2. $ \| \alpha \cdot x \| = \lnorm \alpha \rnorm \cdot \| x \| $,
+2. $ \| \alpha \cdot x \| = \norm \alpha \norm \cdot \| x \| $,
 
 3. $ \|x+y\| \leqslant \|x\| + \| y \|$ (nierówność trójkąta).
 
