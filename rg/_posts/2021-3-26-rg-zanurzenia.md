@@ -38,7 +38,7 @@ Waluacja z definicji spełnia następujące własności:
 
 3. $\|x \cdot y\| = \|x\| \cdot \| y \|$.
 
-Można pokazać, że biór niezerwoych wartości norm:
+Można pokazać, że zbiór niezerwoych wartości norm:
 
 $$ | K | = \{ |x| ~|~ x \in K - \{0\} \}$$
 
