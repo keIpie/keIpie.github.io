@@ -68,7 +68,7 @@ trywialną waluację i jak wpływa to na normę przestrzeni nad nimi.
 ### błędy
 
 klasycznie kody były używane do korekcji błędów podczas transmisji. w kryptografii postkwantowej zarówno krat jak i kodów używa się
-do szyfrowania wiadomości. zaszyfrowanie wiadomości polega na zakodowaniu jej w postaci pewnego słowa/wektora kodu/kraty, po czym dodania błędu,
+do szyfrowania wiadomości. zaszyfrowanie wiadomości polega na zakodowaniu jej w postaci pewnego słowa/wektora kodu/kraty, po czym dodaniu błędu,
 którego nie można skorygować nie mając pewnej ważnej informacji, znanej tylko uprawnionemu użytkownikowi. po dodaniu błędu otrzymujemy szyfrogram,
 który nie należy do kodu/kraty.
 
