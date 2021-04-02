@@ -104,7 +104,7 @@ $$ 0 \rightarrow \mathbb{Z}_q^k \stackrel{B}{\rightarrow} \mathbb{Z}_q^n \stackr
 
 dla którego kolejnych przekształceń obraz wcześniejszego jest jądrem kolejnego. Słowa kodowe $C \subseteq \mathbb{Z}_q^n$ tworzą obraz
 przy mnożeniu przez $B$ (powstały jako iloczyny wiadomości przez macierz generującą $B$) i są jądrem przy mnożeniu przez macierz kontroli
-parzystości $H$ (iloczyn słowa kodowego i macierzy $H$ jest zerem wtedy i tylko wtedy kiedy słowo należy do kodu).
+parzystości $H$ (iloczyn słowa kodowego i macierzy $H$ jest zerem wtedy i tylko wtedy gdy słowo należy do kodu).
 
 analogiczną rolę będą pełniły kraty kontroli parzystości, które można zdefiniować dla krat q-arnych (a odpowiadają macierzom
 kontroli parzystości dla kodów):
