@@ -171,6 +171,6 @@ metody algebraiczne polegają na rozwiązywaniu układów równań, w których n
 niealgebraiczne metody próbują wykryć wzór błędu wykorzystując strukturalne własności kodu. najważniejsze niealgebraiczne
 algorytmy to dekodowanie Meggitta (dla kodów cyklicznych), dekodowanie progowe Masseya oraz tzw. information set decoding.
 
-analogiczne dekodowanie krat polega na szukaniu wektorów należących do kraty, leżących *najbliżej* zakłóconego słowa kodowego,
+analogiczne dekodowanie krat polega na szukaniu wektorów należących do kraty, leżących *najbliżej* zakłóconego wektora kraty,
 przy czym tu *bliskość* opisywana jest przy pomocy metryki euklidesowej. popularnym algorytmem szukania najbliższego wektora kraty
 jest algorytm Babaia, który zwraca dobry wynik pod warunkiem, że znane są krótkie wektory należące do kraty.
