@@ -61,6 +61,7 @@ szkice szkice
 <img src="{{ site.baseurl }}/images/kubki/dorota_c.png" onclick="toggledorota()" alt="dorota" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/krzysiek_c.png" onclick="togglek()" alt="krzysiek" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/michal_c.png" onclick="togglem()" alt="michal" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/kubki/wladek_c.png" onclick="togglewladek()" alt="wladek" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/pawel_c.png" onclick="togglepawel()" alt="pawel" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/maciek_c.png" onclick="togglemaciek()" alt="maciek" style="width: 170px;" />
 
@@ -116,6 +117,13 @@ szkice szkice
 <audio
   id="audiom"
   src="{{ site.baseurl }}/audio/riders.mp3">
+  Your browser does not support the
+  <code>audio</code> element.
+</audio>
+
+<audio
+  id="audiowladek"
+  src="{{ site.baseurl }}/audio/donpedro.mp3">
   Your browser does not support the
   <code>audio</code> element.
 </audio>
@@ -196,6 +204,15 @@ szkice szkice
     } else {
       document.getElementById('audiom').currentTime = 47
       document.getElementById('audiom').play()      
+    }
+    play = !play
+  }
+  var togglepawel = function () {
+    if (play) {
+      document.getElementById('audiowladek').pause()
+    } else {
+      document.getElementById('audiowladek').currentTime = 28
+      document.getElementById('audiowladek').play()      
     }
     play = !play
   }
