@@ -207,7 +207,7 @@ szkice szkice
     }
     play = !play
   }
-  var togglepawel = function () {
+  var togglewladek = function () {
     if (play) {
       document.getElementById('audiowladek').pause()
     } else {
