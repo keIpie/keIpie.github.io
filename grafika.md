@@ -61,6 +61,8 @@ szkice szkice
 <img src="{{ site.baseurl }}/images/kubki/dorota_c.png" onclick="toggledorota()" alt="dorota" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/krzysiek_c.png" onclick="togglek()" alt="krzysiek" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/michal_c.png" onclick="togglem()" alt="michal" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/kubki/pawel_c.png" onclick="togglepawel()" alt="pawel" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/kubki/maciek_c.png" onclick="togglemaciek()" alt="maciek" style="width: 170px;" />
 
 ####  encepence
 
@@ -114,6 +116,20 @@ szkice szkice
 <audio
   id="audiom"
   src="{{ site.baseurl }}/audio/riders.mp3">
+  Your browser does not support the
+  <code>audio</code> element.
+</audio>
+
+<audio
+  id="audiopawel"
+  src="{{ site.baseurl }}/audio/psy.mp3">
+  Your browser does not support the
+  <code>audio</code> element.
+</audio>
+
+<audio
+  id="audiomaciek"
+  src="{{ site.baseurl }}/audio/odchodzac.mp3">
   Your browser does not support the
   <code>audio</code> element.
 </audio>
@@ -180,6 +196,24 @@ szkice szkice
     } else {
       document.getElementById('audiom').currentTime = 47
       document.getElementById('audiom').play()      
+    }
+    play = !play
+  }
+  var togglepawel = function () {
+    if (play) {
+      document.getElementById('audiopawel').pause()
+    } else {
+      document.getElementById('audiopawel').currentTime = 0
+      document.getElementById('audiopawel').play()      
+    }
+    play = !play
+  }
+  var togglemaciek = function () {
+    if (play) {
+      document.getElementById('audiomaciek').pause()
+    } else {
+      document.getElementById('audiomaciek').currentTime = 55
+      document.getElementById('audiomaciek').play()      
     }
     play = !play
   }
