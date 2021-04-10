@@ -5,7 +5,7 @@ layout: default
 ### poezja
 
 <div class="posts">
-  {% for post in site.categories.liryka %}
+  {% for post in site.categories.stylistyczne %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
