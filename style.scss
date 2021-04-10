@@ -274,13 +274,9 @@ nav {
   }
 }
 
-.posts_plain > .post_plain {
-  padding-bottom: 1em;
-}
-
 .post_plain {
   blockquote {
-    margin: 1.8em .8em;
+    margin: .8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
