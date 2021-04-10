@@ -8,8 +8,7 @@ layout: default
   {% for post in site.categories.liryka %}
     <article class="post_plain">
 
-      &nbsp;&nbsp;&nbsp;
-      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+    	<h3><a href="{{ site.baseurl }}{{ post.url }}"> &nbsp;&nbsp;&nbsp; {{ post.title }}</a></h3>
 
     </article>
   {% endfor %}
