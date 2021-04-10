@@ -8,7 +8,8 @@ layout: default
   {% for post in site.categories.liryka %}
     <article class="post_plain">
 
-      *Tabspace* <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      &nbsp;&nbsp;&nbsp;
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
     </article>
   {% endfor %}
