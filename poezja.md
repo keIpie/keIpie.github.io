@@ -2,6 +2,8 @@
 layout: default
 ---
 
+### poezja
+
 <div class="posts">
   {% for post in site.categories.liryka %}
     <article class="post">
