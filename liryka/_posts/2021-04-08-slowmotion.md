@@ -1,6 +1,6 @@
 ---
 layout: post
-title: steganomilia
+title: slow motion
 ---
 
 ten błysk w oku\
