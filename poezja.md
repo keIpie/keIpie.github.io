@@ -6,7 +6,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.categories.liryka %}
-    <article class="post">
+    <article class="post_plain">
 
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
