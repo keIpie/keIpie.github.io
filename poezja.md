@@ -1,17 +1,21 @@
 ---
-layout: page
-title: poezja
-permalink: /poezja/
+layout: default
 ---
 
-szkice szkice
+<div class="posts">
+  {% for post in site.categories.liryka %}
+    <article class="post">
 
-### stygmaty
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-### madera
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-### stegano
-
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
 
 ### napisz
 
