@@ -8,29 +8,29 @@ w kryptografii.
 
 W semestrze jest 15 wykładów:
 
-1. szybkie obliczenia w różnych strukturach algebraicznych
+1. ciała proste, rozszerzone i macierze nad nimi
 
-2. obfuskacja - szyfrowanie macierzy, rozne wlasnosci statystyczne
+2. grupy Galois - automorfizmy struktur - ataki
 
-3. obfuskacja - algebry z gradacją
+3. kraty, kody - idea dodawania błędów i wychodzenia poza strukture, dodowanie geometrii (normy, zanurzenie kanoniczne)
 
-4. kryptoanaliza - przez reprezentację grup
+4. kraty, kraty ideałowe - a ideały w pierścieniach
 
-5. fhe - wykonywanie obliczeń na zaszyfrowanych elementach
+5. kraty modułowe, kraty nad innymi pierścieniami
 
-6. ciała proste, rozszerzone i macierze nad nimi
+6. szybkie obliczenia w różnych strukturach algebraicznych
 
-7. grupy Galois - automorfizmy struktur - ataki
+7. fhe - wykonywanie obliczeń na zaszyfrowanych elementach
 
-8. kraty, kody - idea dodawania błędów i wychodzenia poza strukture, dodowanie geometrii (normy, zanurzenie kanoniczne)
+8. obfuskacja - szyfrowanie macierzy, rozne wlasnosci statystyczne
 
-9. kraty, kraty ideałowe - a ideały w pierścieniach
+9. obfuskacja - algebry z gradacją
 
-10. kraty modułowe, kraty nad innymi pierścieniami
+10. szyfrowanie w pierscieniach grupowych nad S5, twierdzenie wedderburna i konsekwencje
 
 11. grupy nieprzemienne, problem szukania sprzezen, kryptosystemy na tym oparte
 
-12. szyfrowanie w pierscieniach grupowych nad S5, twierdzenie wedderburna i konsekwencje
+12. kryptoanaliza - przez reprezentację grup
 
 13.
 
