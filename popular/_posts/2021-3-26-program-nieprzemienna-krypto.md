@@ -6,13 +6,13 @@ title: Nieprzemienna a krypto
 Program wykładu i ćwiczeń, dotyczących algebry nieprzemiennej i jej zastosowań
 w kryptografii.
 
-W semestrze jest 15 wykładów:
+W semestrze jest 15 wykładów, propozycje tematów do podzielenia na sloty:
 
-1. ciała proste, rozszerzone i macierze nad nimi
+1. ciała proste, rozszerzone, pierścienie ilorazowe i macierze nad nimi
 
-2. kraty, kody - idea dodawania błędów i wychodzenia poza strukture, dodowanie geometrii (normy, zanurzenie kanoniczne)
+2. kraty/kody - definicje, idea dodawania błędów i wychodzenia poza strukture, dodowanie geometrii (normy)
 
-3. kraty, kraty ideałowe - a ideały w pierścieniach
+3. kraty/kody ideałowe - ideały w pierścieniach (zanurzenie kanoniczne, zanurzenie po współczynnikach)
 
 4. kraty modułowe, kraty nad innymi pierścieniami
 
@@ -31,9 +31,3 @@ W semestrze jest 15 wykładów:
 11. grupy nieprzemienne, problem szukania sprzezen, kryptosystemy na tym oparte
 
 12. kryptoanaliza - przez reprezentację grup
-
-13.
-
-14.
-
-15.
