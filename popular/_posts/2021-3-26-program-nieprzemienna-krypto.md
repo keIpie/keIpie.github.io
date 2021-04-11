@@ -24,12 +24,12 @@ W semestrze jest 15 wykładów, propozycje tematów do podzielenia na sloty:
 
 8. twierdzenie barringtona - reprezentacja obliczeń przez włożenie w grupę
 
-8. obfuskacja - szyfrowanie macierzy, rozne wlasnosci statystyczne
+9. obfuskacja - szyfrowanie macierzy, rozne wlasnosci statystyczne
 
-9. obfuskacja - algebry z gradacją
+10. obfuskacja - algebry z gradacją
 
-10. szyfrowanie w pierscieniach grupowych nad S5, twierdzenie wedderburna i konsekwencje
+11. szyfrowanie w pierscieniach grupowych nad S5, twierdzenie wedderburna i konsekwencje
 
-11. grupy nieprzemienne, problem szukania sprzezen, kryptosystemy na tym oparte
+12. grupy nieprzemienne, problem szukania sprzezen, kryptosystemy na tym oparte
 
-12. kryptoanaliza - przez reprezentację grup
+13. kryptoanaliza - przez reprezentację grup
