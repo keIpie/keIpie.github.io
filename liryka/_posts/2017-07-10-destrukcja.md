@@ -9,7 +9,7 @@ chcę zdobyć to piękno,\
 chcę żeby błyszczało dla mnie.\
 przede mną upadniesz.
 
-wiem, szary, nieporadny\
+szary, nieporadny\
 się staniesz,\
 ja - zażenowana,\
 ale chcę mieć to piękno!\
