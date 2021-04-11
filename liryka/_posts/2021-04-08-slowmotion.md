@@ -14,5 +14,5 @@ trochę dłużej niż normalnie\
 nie spuszczają wzroku\
 słowa powoli wracają, nabierają znaczeń, można się skupić
 na sensie, na rozmowie, zbliżyć intelektualnie, duchowo
-i może to być bardzo głębokie, ale głębiej sięga
+i może to być bardzo głębokie, ale głębiej sięga\
 ten błysk w oku
