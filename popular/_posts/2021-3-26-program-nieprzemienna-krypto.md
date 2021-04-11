@@ -22,6 +22,8 @@ W semestrze jest 15 wykładów, propozycje tematów do podzielenia na sloty:
 
 7. fhe - wykonywanie obliczeń na zaszyfrowanych elementach
 
+8. twierdzenie barringtona - reprezentacja obliczeń przez włożenie w grupę
+
 8. obfuskacja - szyfrowanie macierzy, rozne wlasnosci statystyczne
 
 9. obfuskacja - algebry z gradacją
