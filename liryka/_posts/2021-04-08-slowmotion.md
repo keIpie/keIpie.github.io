@@ -10,7 +10,7 @@ w jakimkolwiek zdaniu\
 i żeby utrzymać wrażenie\
 mówi dalej\
 rzeczy nieistotne\
-dłużej niż normalnie\
+trochę dłużej niż normalnie\
 nie spuszczają wzroku\
 słowa powoli wracają, nabierają znaczeń, można się skupić
 na sensie, na rozmowie, zbliżyć intelektualnie, duchowo
