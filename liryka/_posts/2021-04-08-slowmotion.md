@@ -4,7 +4,7 @@ title: slow motion
 ---
 
 ten błysk w oku\
-kiedy mówi\
+kiedy mówi słowo\
 pożądanie\
 w jakimkolwiek zdaniu\
 i żeby utrzymać wrażenie\
