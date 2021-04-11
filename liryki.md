@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### poezja
+### liryki
 
 <div class="posts_plain">
   {% for post in site.categories.liryka %}
