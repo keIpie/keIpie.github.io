@@ -7,7 +7,7 @@ ale jesteś piękny!\
 ale błyszczysz!\
 chcę mieć to piękno,\
 chcę żeby błyszczało dla mnie.\
-przede mną upadniesz.
+przede mną upadło.
 
 szary, nieporadny\
 się staniesz,\
