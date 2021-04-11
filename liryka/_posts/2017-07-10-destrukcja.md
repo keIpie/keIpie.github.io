@@ -5,7 +5,7 @@ title: ja destrukcja
 
 ale jesteś piękny!\
 ale błyszczysz!\
-chcę zdobyć to piękno,\
+chcę mieć to piękno,\
 chcę żeby błyszczało dla mnie.\
 przede mną upadniesz.
 
