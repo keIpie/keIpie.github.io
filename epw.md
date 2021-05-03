@@ -1,15 +1,30 @@
 ---
 layout: page
-title: EPW
+title: Eksperymentalna Platforma Walidacyjna (EPW)
 permalink: /epw/
 ---
 
-projekt identyfikcji wizualnej
+projekt identyfikcji wizualnej dla
 
-#### Eksperymentalna Platforma Walidacyjna EPW
+### logo
 
-<img src="{{ site.baseurl }}/images/camille.gif" onclick="toggle()" alt="Camille" style="width: 350px;"/>
-<img src="{{ site.baseurl }}/images/camille2.gif" alt="Camille2" style="width: 350px;"/>/)
+cechy: nowoczesność, stabilność,
+
+skojarzenia: równoważność, porównywanie, dualizm, szukanie wzorców, dopasowanie
+
+### równoważność
+
+<img src="{{ site.baseurl }}/images/epw/iff1.jpg" onclick="toggle()" alt="Iff1" style="width: 350px;"/>
+<img src="{{ site.baseurl }}/images/epw/iff2.jpg" onclick="toggle()" alt="Iff2" style="width: 350px;"/>
+<img src="{{ site.baseurl }}/images/epw/iff3.jpg" onclick="toggle()" alt="Iff3" style="width: 350px;"/>
+
+### sprawdzanie wzorców
+
+<img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 350px;"/>
+
+### zauważyć
+
+<img src="{{ site.baseurl }}/images/epw/oko.jpg" onclick="toggle()" alt="Oko" style="width: 350px;"/>
 
 ### napisz
 
