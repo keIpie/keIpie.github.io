@@ -14,17 +14,17 @@ skojarzenia: równoważność, porównywanie, dualizm, szukanie wzorców, dopaso
 
 ### równoważność
 
-<img src="{{ site.baseurl }}/images/epw/iff1.jpg" onclick="toggle()" alt="Iff1" style="width: 350px;"/>
-<img src="{{ site.baseurl }}/images/epw/iff2.jpg" onclick="toggle()" alt="Iff2" style="width: 350px;"/>
-<img src="{{ site.baseurl }}/images/epw/iff3.jpg" onclick="toggle()" alt="Iff3" style="width: 350px;"/>
+<img src="{{ site.baseurl }}/images/epw/iff1.jpg" onclick="toggle()" alt="Iff1" style="width: 100px;"/>
+<img src="{{ site.baseurl }}/images/epw/iff2.jpg" onclick="toggle()" alt="Iff2" style="width: 100px;"/>
+<img src="{{ site.baseurl }}/images/epw/iff3.jpg" onclick="toggle()" alt="Iff3" style="width: 100px;"/>
 
 ### sprawdzanie wzorców
 
-<img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 350px;"/>
+<img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 100px;"/>
 
 ### zauważyć
 
-<img src="{{ site.baseurl }}/images/epw/oko.jpg" onclick="toggle()" alt="Oko" style="width: 350px;"/>
+<img src="{{ site.baseurl }}/images/epw/oko.jpg" onclick="toggle()" alt="Oko" style="width: 100px;"/>
 
 ### napisz
 
