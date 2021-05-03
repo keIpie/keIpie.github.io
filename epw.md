@@ -4,11 +4,14 @@ title: Eksperymentalna Platforma Walidacyjna (EPW)
 permalink: /epw/
 ---
 
-projekt identyfikcji wizualnej dla
+projekt identyfikcji wizualnej dla Eksperymentalnej Platformy Walidacyjnej służącej do weryfikacji
+algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodności z normą referencyjną
 
 ### logo
 
 cechy: nowoczesność, stabilność,
+
+kolory: niebieski (zaufanie), czarny (elegancja, minimalizm)
 
 skojarzenia: równoważność, porównywanie, dualizm, szukanie wzorców, dopasowanie
 
