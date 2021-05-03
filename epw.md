@@ -20,7 +20,12 @@ skojarzenia: równoważność, porównywanie, dualizm, szukanie wzorców, dopaso
 
 ### sprawdzanie wzorców
 
-<img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 200px;"/>
+porówywanie grafów
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 200px;"/></div>
+
+cztery kształty, cztery języki, czy opsiują to samo?
+
 <img src="{{ site.baseurl }}/images/epw/4kw.jpg" onclick="toggle()" alt="4kw" style="width: 200px;"/>
 
 ### zauważyć
