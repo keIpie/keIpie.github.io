@@ -37,7 +37,7 @@ weryfikacja ma na celu zauważenie błedu, niespójności
 
 porównywane grafy nie są identyczne, znalezienie sprzeczności
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 200px;"/></div
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 200px;"/></div>
 
 ### napisz
 
