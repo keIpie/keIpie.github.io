@@ -24,7 +24,7 @@ skojarzenia: równoważność, porównywanie, dualizm, szukanie wzorców, dopaso
 
 ### zauważyć
 
-<img src="{{ site.baseurl }}/images/epw/oko.jpg" onclick="toggle()" alt="Oko" style="width: 100px;"/>
+<img src="{{ site.baseurl }}/images/epw/oko.jpg" onclick="toggle()" alt="Oko" style="width: 150px;"/>
 
 ### napisz
 
