@@ -26,7 +26,7 @@ porówywanie grafów
 
 cztery kształty, cztery języki, czy opsiują to samo?
 
-<img src="{{ site.baseurl }}/images/epw/4kw.jpg" onclick="toggle()" alt="4kw" style="width: 200px;"/>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/4kw.jpg" onclick="toggle()" alt="4kw" style="width: 200px;"/></div>
 
 ### zauważyć
 
