@@ -20,8 +20,8 @@ skojarzenia: równoważność, porównywanie, dualizm, szukanie wzorców, dopaso
 
 ### sprawdzanie wzorców
 
-<img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 100px;"/>
-<img src="{{ site.baseurl }}/images/epw/4kw.jpg" onclick="toggle()" alt="4kw" style="width: 100px;"/>
+<img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 200px;"/>
+<img src="{{ site.baseurl }}/images/epw/4kw.jpg" onclick="toggle()" alt="4kw" style="width: 200px;"/>
 
 ### zauważyć
 
