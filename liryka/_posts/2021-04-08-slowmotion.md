@@ -9,7 +9,7 @@ pożądanie\
 w jakimkolwiek zdaniu\
 i żeby utrzymać wrażenie\
 mówi dalej\
-rzeczy nieistotne\
+coś co nieistotne\
 trochę dłużej niż normalnie\
 nie spuszczają wzroku\
 słowa powoli wracają, nabierają znaczeń, można się skupić
