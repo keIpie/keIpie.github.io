@@ -19,9 +19,9 @@ skojarzenia: równoważność, porównywanie, dualizm, szukanie wzorców, dopaso
 
 weryfikacja czy dwa elementy są sobie równoważne
 
-<img src="{{ site.baseurl }}/images/epw/equiv_1.png" onclick="toggle()" alt="equiv1" style="width: 350px;"/>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/equiv_1.png" onclick="toggle()" alt="equiv1" style="width: 350px;"/></div>
 
-<img src="{{ site.baseurl }}/images/epw/equiv_2.png" onclick="toggle()" alt="equiv2" style="width: 350px;"/>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/equiv_2.png" onclick="toggle()" alt="equiv2" style="width: 350px;"/></div>
 
 <img src="{{ site.baseurl }}/images/epw/iff1.jpg" onclick="toggle()" alt="Iff1" style="width: 100px;"/>
 <img src="{{ site.baseurl }}/images/epw/iff2.jpg" onclick="toggle()" alt="Iff2" style="width: 100px;"/>
@@ -37,9 +37,9 @@ cztery kształty, cztery języki, czy opsiują to samo?
 
 weryfikacja ma na celu zauważenie błedu, niespójności. skojarzenia: latarnia, radar, oko:
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/radar_2.png" onclick="toggle()" alt="radar2" style="width: 350px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/radar_2.png" onclick="toggle()" alt="radar2" style="width: 400px;"/></div>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/radar_3.png" onclick="toggle()" alt="radar3" style="width: 350px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/radar_3.png" onclick="toggle()" alt="radar3" style="width: 430px;"/></div>
 
 oko zauwżające niespójność struktury (zbyt boho):
 
