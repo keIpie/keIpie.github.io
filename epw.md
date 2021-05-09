@@ -17,7 +17,7 @@ skojarzenia: równoważność, porównywanie, dualizm, szukanie wzorców, dopaso
 
 ### równoważność
 
-weryfikacja czy dwa elementy są sobie równoważne
+weryfikacja czy dwa elementy są sobie równoważne:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/equiv_1.png" onclick="toggle()" alt="equiv1" style="width: 250px;"/></div>
 
@@ -29,7 +29,7 @@ weryfikacja czy dwa elementy są sobie równoważne
   <img src="{{ site.baseurl }}/images/epw/iff3.jpg" onclick="toggle()" alt="Iff3" style="width: 150px;"/>
 </div>
 
-### sprawdzanie wzorców>
+### sprawdzanie wzorców
 
 cztery kształty, cztery języki, czy opsiują to samo?
 
@@ -49,7 +49,7 @@ oko zauwżające niespójność struktury (zbyt boho):
 
 ### grafy
 
-porównywane grafy nie są identyczne, znalezienie sprzeczności
+porównywane grafy nie są identyczne, znalezienie sprzeczności:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 200px;"/></div>
 
