@@ -55,12 +55,10 @@ oko zauwżające niespójność struktury (zbyt boho):
 
 porównywane grafy nie są identyczne, znalezienie sprzeczności:
 
-<div style="text-align:center">
-  <img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 200px;"/>
-    <img src="{{ site.baseurl }}/images/epw/l_x_graf.png" onclick="toggle()" alt="lxGraf" style="width: 200px;"/>
-  <img src="{{ site.baseurl }}/images/epw/w_graf.png" onclick="toggle()" alt="wGraf" style="width: 200px;"/>
-  <img src="{{ site.baseurl }}/images/epw/tri_graf.png" onclick="toggle()" alt="triGraf" style="width: 200px;"/>
-</div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/graf.jpg" onclick="toggle()" alt="Graf" style="width: 200px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/l_x_graf.png" onclick="toggle()" alt="lxGraf" style="width: 200px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/w_graf.png" onclick="toggle()" alt="wGraf" style="width: 200px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/tri_graf.png" onclick="toggle()" alt="triGraf" style="width: 200px;"/></div>
 
 ### napisz
 
