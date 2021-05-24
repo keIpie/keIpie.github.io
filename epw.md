@@ -35,9 +35,13 @@ weryfikacja czy dwa elementy są sobie równoważne:
 
 ### sprawdzanie wzorców
 
-cztery kształty, cztery języki, czy opsiują to samo?
+dopasowanie wzorca
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/4kw.jpg" onclick="toggle()" alt="4kw" style="width: 200px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/dopasuj_a.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/dopasuj_b.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/dopasuj_c.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
 
 ### zauważyć
 
