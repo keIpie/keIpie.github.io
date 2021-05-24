@@ -18,6 +18,7 @@ skojarzenia: równoważność, porównywanie, dualizm, szukanie wzorców, dopaso
 ### równoważność
 
 weryfikacja czy dwa elementy są sobie równoważne. [więcej podobnych kształtów](https://keipie.github.io/epw_iff/)
+[więcej opcji kolorystycznych](https://keipie.github.io/epw_iff_kolor/)
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/iff_epw_a.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
