@@ -53,7 +53,7 @@ oko zauwżające niespójność struktury (zbyt boho):
 
 ### grafy
 
-porównywane grafy nie są identyczne, znalezienie sprzeczności:
+porównywane grafy nie są identyczne, znalezienie sprzeczności. [więcej opci kolorystycznych](https://keipie.github.io/epw_grafy/):
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/grafX_a.png" onclick="toggle()" alt="Graf" style="width: 200px;"/></div>
 # <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/l_x_graf.png" onclick="toggle()" alt="lxGraf" style="width: 200px;"/></div>
