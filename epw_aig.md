@@ -8,7 +8,7 @@ permalink: /epw_aig/
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/kolor5_a.png" onclick="toggle()" alt="Graf" style="width: 500px;"/></div>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/kolor6_a.png" onclick="toggle()" alt="Graf" style="width: 500px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/kolo6_a.png" onclick="toggle()" alt="Graf" style="width: 500px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/kolo4_a.png" onclick="toggle()" alt="Graf" style="width: 500px;"/></div>
 
