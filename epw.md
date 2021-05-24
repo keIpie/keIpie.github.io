@@ -29,6 +29,8 @@ dopasowanie wzorca
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/dopasuj_b.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
 
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/dopasuj_c.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
 
 ### zauważyć
 
