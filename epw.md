@@ -38,7 +38,7 @@ weryfikacja ma na celu zauważenie błedu, niespójności. skojarzenia: latarnia
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/eye_rowne.png" onclick="toggle()" alt="radar3" style="width: 445px;"/></div>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/radar_2.png" onclick="toggle()" alt="radar2" style="width: 400px;"/></div>
+<!--- <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/radar_2.png" onclick="toggle()" alt="radar2" style="width: 400px;"/></div> --->
 
 oko zauwżające niespójność struktury (zbyt boho):
 
