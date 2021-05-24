@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eksperymentalna Platforma Walidacyjna (EPW) - grafy aig
+title: Eksperymentalna Platforma Walidacyjna (EPW)
 permalink: /epw_aig/
 ---
 
