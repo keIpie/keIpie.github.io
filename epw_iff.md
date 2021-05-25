@@ -8,15 +8,15 @@ permalink: /epw_iff/
 
 <br/><br/>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/iff_epw_b.png" onclick="toggle()" alt="equiv1" style="width: 250px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/iff_epw_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
 <br/><br/>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/iff_epw_c.png" onclick="toggle()" alt="equiv2" style="width: 250px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/iff_epw_c.png" onclick="toggle()" alt="equiv2" style="width: 500px;"/></div>
 
 <br/><br/>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/iff_epw_d.png" onclick="toggle()" alt="Iffbw1" style="width: 250px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/iff_epw_d.png" onclick="toggle()" alt="Iffbw1" style="width: 500px;"/></div>
 
 <br/><br/>
 
