@@ -34,7 +34,9 @@ dopasowanie wzorca [więcej opcji kolorystycznych](https://keipie.github.io/epw_
 
 ### zauważyć
 
-weryfikacja ma na celu zauważenie błedu, niespójności. skojarzenia: latarnia, radar, oko:
+weryfikacja ma na celu zauważenie błedu, niespójności.
+
+skojarzenia: latarnia, radar, oko. (czcionka do zmiany)
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/eye_rowne.png" onclick="toggle()" alt="radar3" style="width: 445px;"/></div>
 
