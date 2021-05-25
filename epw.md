@@ -9,9 +9,10 @@ algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodn
 
 ### logo
 
-cechy: nowoczesność, stabilność, godne zaufania
+cechy: nowoczesność, stabilność, bycie godnym zaufania
 
-kolory: niebieski (zaufanie), czarny, biały (elegancja, minimalizm), seledyn (nowoczesność), czerwień (zwraca uwagę, znaleziony błąd)
+kolory: niebieski (zaufanie), czarny, biały (elegancja, minimalizm), seledyn (nowoczesność), czerwień (zwraca uwagę, znaleziony błąd),
+pomarańczowy - kolor IŁ.
 
 skojarzenia: równoważność, porównywanie, dualizm, szukanie wzorców, dopasowanie
 
