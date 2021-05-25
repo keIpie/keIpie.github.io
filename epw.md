@@ -28,6 +28,8 @@ dopasowanie wzorca [więcej opcji kolorystycznych](https://keipie.github.io/epw_
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/dopasuj_a.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
 
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/epw_splot_a.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
 
 ### zauważyć
 
