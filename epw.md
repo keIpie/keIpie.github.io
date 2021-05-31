@@ -32,11 +32,27 @@ dopasowanie wzorca [więcej opcji kolorystycznych](https://keipie.github.io/epw_
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/dopasuj_romb.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
 
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/dopasuj_siatka_1.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/dopasuj_siatka_2.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/epw_sun.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/sun_black_epw.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
+Jezeli okrag zamienimy na romb logo przypomina zolwia:
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/zolt.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
 ### zabawy literami EPW
 
 litery są ukryte w znaku. dodatkowo skojarzenia z dopasowaniem.
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/epw_splot_a.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/epw_litery.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/epw_litery_cale.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
 
 
 ### zauważyć
