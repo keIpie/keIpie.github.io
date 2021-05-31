@@ -38,11 +38,11 @@ dopasowanie wzorca [więcej opcji kolorystycznych](https://keipie.github.io/epw_
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/epw_sun.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/sun_black_epw.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/sun_black_epw.png" onclick="toggle()" alt="sunblack" style="width: 400px;"/></div>
 
 Jezeli okrag zamienimy na romb logo przypomina zolwia:
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/zolt.png" onclick="toggle()" alt="4kw" style="width: 400px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/zolw.png" onclick="toggle()" alt="zolw" style="width: 400px;"/></div>
 
 ### zabawy literami EPW
 
