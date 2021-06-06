@@ -9,7 +9,7 @@ algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodn
 
 ### projekt 1 (EE)
 
-Logo z dopadowaniem liter E/W:
+Logo z dopasowaniem liter E/W:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/EE/EE_zolty_gradient.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
@@ -17,7 +17,7 @@ Logo z dopadowaniem liter E/W:
 
 ### projekt 2 (KRAB)
 
-Krab zaprojektowany w poprzednim etapie + małe litery (są obłe i pasują do grafiki):
+Krab zaprojektowany w poprzednim etapie + małe litery (obłe bardziej pasują do grafiki):
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby2_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
