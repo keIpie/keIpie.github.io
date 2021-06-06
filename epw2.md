@@ -63,19 +63,47 @@ Eksperymenty z wybraną przez IŁ czcionką - Skript 12 BT - wg mnie nieudane (c
 
 ### projekt 3 (RUNY)
 
-Runy na skos:
+Runy na skos + typowa czcionka:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4b_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4b_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
+Runy na skos + czcionka od EE:
+
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4a_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4a_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
+Runy na skos + czcionka wykorzystujaca ksztalty
+
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4c_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4c_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+Runy na skos + czcionka od EE:
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy3_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy3_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+Runy na skos + czcionka od EE:
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy2_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy2_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+Runy na skos + czcionka od EE:
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy2a_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy2a_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+Runy na skos + czcionka od EE:
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runiczne_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runiczne_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
 Runy na skos cienkie:
 
