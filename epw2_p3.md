@@ -75,7 +75,7 @@ Runy wyprostowane + czcionka wykorzystujaca ksztalty:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x_b.png" onclick="toggle()" alt="equiv1" style="width: 300px;"/></div>
 
-Runy - zbyt skomplikowane, ale jak juz zrobilam... :
+Runy - zbyt skomplikowane, ale można by wykorzystać do jakiegoś plakatu :
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy_lisc.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
