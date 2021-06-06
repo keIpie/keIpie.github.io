@@ -11,7 +11,7 @@ algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodn
 
 Logo z dopadowaniem liter E, pionowe i poziome, w różnych kolorach, z gradientem i bez:
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/EE/EE_czerwone_gradient.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/EE/EE_zolty_gradient.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
 [Więcej wersji projektu (modyfikacje kształtu, kolorów, czcionki)](https://keipie.github.io/epw2_p1/)
 
