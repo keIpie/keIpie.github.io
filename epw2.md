@@ -65,11 +65,29 @@ Eksperymenty z wybraną przez IŁ czcionką - Skript 12 BT - wg mnie nieudane (c
 
 Runy na skos:
 
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4b_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4b_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4a_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4a_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4c_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4c_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+Runy na skos cienkie:
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy_thin_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy_thin_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
 Runy wyprostowane + typowa czcionka:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x3_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x3_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x3_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div
 
 Runy wyprostowane + czcionka od EE:
 
