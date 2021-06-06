@@ -79,6 +79,14 @@ Runy wyprostowane:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x_b.png" onclick="toggle()" alt="equiv1" style="width: 300px;"/></div>
 
+Runy - zbyt skomplikowane, ale jak juz zrobilam... :
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy_lisc.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy_lisc_2.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy_lisc_3.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
 ### napisz
 
 [aleksandra.horubala@gmail.com](mailto:aleksandra.horubala@gmail.com)
