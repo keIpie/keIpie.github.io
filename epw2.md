@@ -26,7 +26,13 @@ algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodn
 
 ### projekt 2 (KRAB)
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw/iff_epw_a.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby_a.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby2_a.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby2_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
 ### projekt 3 (RUNY)
 
