@@ -63,7 +63,21 @@ Eksperymenty z wybraną przez IŁ czcionką - Skript 12 BT - wg mnie nieudane (c
 
 ### projekt 3 (RUNY)
 
-dopasowanie wzorca [więcej opcji kolorystycznych](https://keipie.github.io/epw_fit/)
+Runy na skos:
+
+Runy wyprostowane:
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x3_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x3_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x2_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x2_b.png" onclick="toggle()" alt="equiv1" style="width: 300px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x_b.png" onclick="toggle()" alt="equiv1" style="width: 300px;"/></div>
 
 ### napisz
 
