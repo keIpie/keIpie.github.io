@@ -34,6 +34,16 @@ algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodn
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby2_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/krab2xa_a.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/krab2xa_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+Eksperymenty z wybraną przez IŁ czcionką - Skript 12 BT - wg mnie nieudane (chyba że chodziło o inną czcionke?):
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/krab_nie.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/krab_nie2.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
 ### projekt 3 (RUNY)
 
 dopasowanie wzorca [więcej opcji kolorystycznych](https://keipie.github.io/epw_fit/)
