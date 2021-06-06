@@ -25,13 +25,19 @@ algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodn
 
 ### projekt 2 (KRAB)
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
-
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+Krab zaprojektowany w poprzednim etapie + małe litery (są obłe i pasują do grafiki):
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby2_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby2_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+Krab zaprojektowany w poprzednim etapie + litery wykorzystujace ksztalty znaku (chyba jednak gorzej?):
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+Krab o *rownych co do wysokosci* fragmentach + małe litery (są obłe i pasują do grafiki):
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/krab2xa_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
