@@ -27,7 +27,7 @@ Krab zaprojektowany w poprzednim etapie + małe litery (są obłe i pasują do g
 
 Runiczny znak kojarzący się ze znakiem równoważności:
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4b_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy4b_a.png" onclick="toggle()" alt="equiv1" style="width: 300px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/RUNY/runy-x3_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
