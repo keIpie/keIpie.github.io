@@ -11,11 +11,12 @@ algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodn
 
 <div style="text-align:center">
   <img src="{{ site.baseurl }}/images/epw2/EE/EE_czerwone.png" onclick="toggle()" alt="a" style="width: 500px;"/>
-  <img src="{{ site.baseurl }}/images/epw2/EE/EE_czerwone_pion.png" onclick="toggle()" alt="b" style="width: 200px;"/>
 </div>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/EE/EE_czerwone_gradient.png" onclick="toggle()" alt="c" style="width: 500px;"/></div>
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/EE/EE_czerwone_gradient_pion.png" onclick="toggle()" alt="d" style="width: 200px;"/></div>
+<div style="text-align:center">
+  <img src="{{ site.baseurl }}/images/epw2/EE/EE_czerwone_gradient.png" onclick="toggle()" alt="c" style="width: 500px;"/>
+  <img src="{{ site.baseurl }}/images/epw2/EE/EE_czerwone_gradient_pion.png" onclick="toggle()" alt="d" style="width: 200px;"/>
+</div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/EE/EE_zolty.png" onclick="toggle()" alt="e" style="width: 500px;"/></div>
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/EE/EE_zolty_pion.png" onclick="toggle()" alt="f" style="width: 200px;"/></div>
