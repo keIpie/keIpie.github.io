@@ -28,17 +28,21 @@ algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodn
 
 ### projekt 2 (KRAB)
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby_a.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby2_a.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby2_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/kraby2_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/krab2xa_a.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/krab2xa_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/krab2xa_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/krabx3_a.png" onclick="toggle()" alt="equiv1" style="width: 200px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw2/KRAB/krabx3_b.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
 Eksperymenty z wybraną przez IŁ czcionką - Skript 12 BT - wg mnie nieudane (chyba że chodziło o inną czcionke?):
 
