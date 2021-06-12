@@ -21,7 +21,7 @@ Dobór koloru:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw3/kolory/zoltyczerwony2.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw3/kolory/niebieski1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw3/kolory/niebieski.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw3/kolory/niebieski2.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
