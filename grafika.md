@@ -240,6 +240,8 @@ szkice szkice
 
 ####  [identyfikcja EPW - etap 2](https://keipie.github.io/epw2/)
 
+####  [identyfikcja EPW - etap 3](https://keipie.github.io/epw3/)
+
 ### napisz
 
 [aleksandra.horubala@gmail.com](mailto:aleksandra.horubala@gmail.com)
