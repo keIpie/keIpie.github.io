@@ -25,6 +25,10 @@ Dobór koloru:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw3/kolory/niebieski2.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw3/kolory/niebieskoczarny.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw3/kolory/zielony.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw3/kolory/fiolet.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
 ### KRAB - wybór czcionki
