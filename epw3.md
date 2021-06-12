@@ -7,6 +7,14 @@ permalink: /epw3/
 projekt identyfikcji wizualnej dla Eksperymentalnej Platformy Walidacyjnej służącej do weryfikacji
 algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodności z normą referencyjną
 
+### PYTANIA
+
+- jaki kolor?
+- czy z gradientem?
+- jaka czcionka?
+- czy czcionka z gradientem?
+
+
 ### KRAB - wybór koloru
 
 Dobór koloru:
