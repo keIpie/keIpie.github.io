@@ -37,7 +37,7 @@ Czcionka *Advent Pro*:
 
 Czcionka *Aldrich*:
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw3/czcionki/adlrich.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/epw3/czcionki/aldrich.png" onclick="toggle()" alt="equiv1" style="width: 500px;"/></div>
 
 Czcionka *Apple SD*:
 
