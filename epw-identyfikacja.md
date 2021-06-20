@@ -30,17 +30,17 @@ Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab1.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab2.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab2.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab3.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab3.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab4.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab4.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab5.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab5.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab6.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab6.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
 </div>
 
@@ -76,17 +76,17 @@ Kolejne strony prezentacji:
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_1.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_2.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_2.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_3.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_3.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_4.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_4.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_5.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_5.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_6.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/prezi/2_strona_6.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
 </div>
 
@@ -108,11 +108,11 @@ Kolejne strony prezentacji:
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/moleskine/notatnik_moleskine1.png" onclick="toggle()" alt="a" style="width: 400px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/moleskine/notatnik_moleskine1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/moleskine/notatnik_moleskine2.png" onclick="toggle()" alt="a" style="width: 400px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/moleskine/notatnik_moleskine2.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/moleskine/notatnik_moleskine3.png" onclick="toggle()" alt="a" style="width: 400px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/moleskine/notatnik_moleskine3.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
 </div>
 
