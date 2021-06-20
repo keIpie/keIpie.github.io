@@ -46,7 +46,17 @@ Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 ### naklejka na aparaturę
 
-### projekt zaproszenia na wydarzenia związane z Projektem
+<div style="background-color: #EBEBEB">
+  <br>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/naklejka/naklejka1.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <br>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/naklejka/naklejka2.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <br>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/naklejka/naklejka3.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <br>
+</div>
+
+### projekt zaproszenia na wydarzenia związane z projektem
 
 ### roll-up - wymiary: 100 x 200 cm;
 
@@ -56,7 +66,7 @@ Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 ### powerbank
 
-###  notatnik moleskine
+### notatnik moleskine
 
 ### pen-drive
 
