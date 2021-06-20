@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eksperymentalna Platforma Walidacyjna (EPW)
-permalink: /epw3/
+permalink: /epw-identyfikacja/
 ---
 
 projekt identyfikcji wizualnej dla Eksperymentalnej Platformy Walidacyjnej służącej do weryfikacji
