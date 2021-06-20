@@ -68,6 +68,8 @@ Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 ### roll-up - wymiary: 100 x 200 cm;
 
+TBD - niestety jeszcze nie zdążyłam (jak uda mi się wymyślić ciekawy wzór na roll-up mogę też zmodyfikować zaproszenie)
+
 ### projekt prezentacji (strona pierwsza i kolejne) – wersja polska i angielska
 
 pierwsza strona prezentacji:
