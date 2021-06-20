@@ -236,11 +236,13 @@ szkice szkice
   }
 </script>
 
-####  [identyfikcja EPW](https://keipie.github.io/epw/)
+####  [logo EPW - erap 1](https://keipie.github.io/epw/)
 
-####  [identyfikcja EPW - etap 2](https://keipie.github.io/epw2/)
+####  [logo EPW - etap 2](https://keipie.github.io/epw2/)
 
-####  [identyfikcja EPW - etap 3](https://keipie.github.io/epw3/)
+####  [logo EPW - etap 3](https://keipie.github.io/epw3/)
+
+####  [identyfikcja EPW](https://keipie.github.io/epw-identyfikcja/)
 
 ### napisz
 
