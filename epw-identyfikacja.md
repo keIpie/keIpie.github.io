@@ -22,6 +22,10 @@ Wersja achromatyczna:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/epw_achrom_1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
+### księga znaku
+
+Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}/images/epw-iw/EPW_ksiega_znaku.pdf)
+
 ### tablica informacyjna
 
 ### naklejka na aparaturę
