@@ -100,6 +100,11 @@ kolejne strony prezentacji:
 
 ### projekt wielostronicowego raportu (PL i EN, MS Word i Latex)
 
+pierwsze przymiarki - nie jestem pewna jakie są oczekiwania co do raportu...
+
+raport dokumentu Latex jest dostępny pod linkiem: [raport Latex]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_latex.pdf)
+
+
 ### powerbank
 
 <div style="background-color: #EBEBEB">
