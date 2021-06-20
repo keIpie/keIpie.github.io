@@ -60,9 +60,9 @@ Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/zaproszenie/zapro1.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/zaproszenie/zapro1.png" onclick="toggle()" alt="a" style="width: 700px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/zaproszenie/zapro2.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/zaproszenie/zapro2.png" onclick="toggle()" alt="a" style="width: 700px;"/></div>
   <br>
 </div>
 
