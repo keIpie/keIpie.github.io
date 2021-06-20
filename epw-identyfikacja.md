@@ -10,21 +10,21 @@ algorytmów i protokołów kryptgraficznych oraz przeprowadzania oceny ich zgodn
 
 ### LOGO EPW
 
-Wersja podstawowa:
+wersja podstawowa:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/logo/epw_fin1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
-Wersja monochromatczna:
+wersja monochromatczna:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/logo/epw_fin_bw_1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
-Wersja achromatyczna:
+wersja achromatyczna:
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/logo/epw_achrom_1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
 ### księga znaku
 
-Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}/images/epw-iw/logo/EPW_ksiega_znaku.pdf)
+księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}/images/epw-iw/logo/EPW_ksiega_znaku.pdf)
 
 ### tablica informacyjna
 
