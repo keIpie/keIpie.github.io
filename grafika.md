@@ -244,7 +244,7 @@ szkice szkice
 
 ####  [logo EPW - etap 3](https://keipie.github.io/epw3/)
 
-####  [identyfikcja EPW](https://keipie.github.io/epw-identyfikcja/)
+####  [identyfikcja EPW](https://keipie.github.io/epw-identyfikacja/)
 
 ### napisz
 
