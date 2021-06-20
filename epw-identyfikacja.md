@@ -68,11 +68,11 @@ Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/powerbank/power1.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/powerbank/power1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/powerbank/power2.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/powerbank/power2.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/powerbank/power3.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/powerbank/power3.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
 </div>
 
@@ -82,15 +82,15 @@ Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/pendrive/pen1.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/pendrive/pen1.png" onclick="toggle()" alt="a" style="width: 400px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/pendrive/pen2.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/pendrive/pen2.png" onclick="toggle()" alt="a" style="width: 400px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/pendrive/pen3.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/pendrive/pen3.png" onclick="toggle()" alt="a" style="width: 400px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/pendrive/pen4.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/pendrive/pen4.png" onclick="toggle()" alt="a" style="width: 400px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/pendrive/pen5.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/pendrive/pen5.png" onclick="toggle()" alt="a" style="width: 400px;"/></div>
   <br>
 </div>
 
