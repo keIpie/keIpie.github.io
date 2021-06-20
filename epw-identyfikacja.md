@@ -29,6 +29,7 @@ Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 ### tablica informacyjna
 
 <div style="background-color: #EBEBEB">
+
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/tablica/tab2.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
@@ -44,7 +45,7 @@ Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 ### naklejka na aparaturę
 
-### projekt zaproszenia na wydarzenia związane z Projektem (format 2 x DL Poziom)
+### projekt zaproszenia na wydarzenia związane z Projektem
 
 ### roll-up - wymiary: 100 x 200 cm;
 
