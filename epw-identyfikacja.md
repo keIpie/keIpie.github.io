@@ -58,11 +58,19 @@ Księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 ### projekt zaproszenia na wydarzenia związane z projektem
 
+<div style="background-color: #EBEBEB">
+  <br>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/zaproszenie/zapro1.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <br>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/zaproszenie/zapro2.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
+  <br>
+</div>
+
 ### roll-up - wymiary: 100 x 200 cm;
 
 ### projekt prezentacji (strona pierwsza i kolejne) – wersja polska i angielska
 
-Pierwsza strona prezentacji:
+pierwsza strona prezentacji:
 
 <div style="background-color: #EBEBEB">
   <br>
@@ -72,7 +80,7 @@ Pierwsza strona prezentacji:
   <br>
 </div>
 
-Kolejne strony prezentacji:
+kolejne strony prezentacji:
 
 <div style="background-color: #EBEBEB">
   <br>
@@ -107,6 +115,8 @@ Kolejne strony prezentacji:
 ### notatnik moleskine
 
 <div style="background-color: #EBEBEB">
+  <br>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/moleskine/notatnik_moleskine4.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
   <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/moleskine/notatnik_moleskine1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
