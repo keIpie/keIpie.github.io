@@ -246,6 +246,8 @@ szkice szkice
 
 ####  [identyfikcja EPW](https://keipie.github.io/epw-identyfikacja/)
 
+####  [identyfikcja EPW finalna](https://keipie.github.io/epw-identyfikacja-fin/)
+
 ### napisz
 
 [aleksandra.horubala@gmail.com](mailto:aleksandra.horubala@gmail.com)
