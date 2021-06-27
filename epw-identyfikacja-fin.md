@@ -46,9 +46,9 @@ księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/zaproszenie_zew.png" onclick="toggle()" alt="a" style="width: 700px;"/></div>
-  <br>
   <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/zaproszenie_wew.png" onclick="toggle()" alt="a" style="width: 700px;"/></div>
+  <br>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/zaproszenie_zew.png" onclick="toggle()" alt="a" style="width: 700px;"/></div>
   <br>
 </div>
 
