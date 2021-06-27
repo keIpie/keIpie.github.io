@@ -90,7 +90,8 @@ raport dokumentu Latex jest dostępny pod linkiem: [raport Latex]({{ site.baseur
 
 ### gry zręcznościowe
 
-[gry zręcznościowe/ łamigłówki drewniane 16,3 x 6 x 6,4 cm](https://regalo.pl/produkt/zestaw-lamiglowek-3-el-p940-20-2/)
+[gry zręcznościowe/ łamigłówki drewniane 16,3 x 6 x 6,4 cm](https://regalo.pl/produkt/zestaw-lamiglowek-3-el-p940-20-2/) \\
+przekoe odwzorowują boki pudełka na grę
 
 <div style="background-color: #EBEBEB">
   <br>
