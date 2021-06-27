@@ -107,7 +107,7 @@ przekoe odwzorowują boki pudełka na grę
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/ladowarka.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/ladowarka.png" onclick="toggle()" alt="a" style="width: 300px;"/></div>
   <br>
 </div>
 
