@@ -90,6 +90,8 @@ raport dokumentu Latex jest dostępny pod linkiem: [raport Latex]({{ site.baseur
 
 ### gry zręcznościowe
 
+[gry zręcznościowe/ łamigłówki drewniane 16,3 x 6 x 6,4 cm](https://regalo.pl/produkt/zestaw-lamiglowek-3-el-p940-20-2/)
+
 <div style="background-color: #EBEBEB">
   <br>
   <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/gra_1.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
@@ -100,6 +102,8 @@ raport dokumentu Latex jest dostępny pod linkiem: [raport Latex]({{ site.baseur
 
 ### ładowarka
 
+[ładowarka indukcyjna: 0,6 x 1,1 cm](https://regalo.pl/produkt/fiore-ladowarka-indukcyjna-ap721821/) - logo achromatyczne do wycięcia w drewnie
+
 <div style="background-color: #EBEBEB">
   <br>
   <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/ladowarka.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
@@ -108,6 +112,8 @@ raport dokumentu Latex jest dostępny pod linkiem: [raport Latex]({{ site.baseur
 
 ### pen-drive
 
+[pen drive: ok. 18x 64x 12 mm] (https://regalo.pl/produkt/haidam-16gb-pendrive-ap781516_16gb/) - logo achromatyczne do wycięcia w drewnie
+
 <div style="background-color: #EBEBEB">
   <br>
   <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/drewno.png" onclick="toggle()" alt="a" style="width: 400px;"/></div>
@@ -115,6 +121,8 @@ raport dokumentu Latex jest dostępny pod linkiem: [raport Latex]({{ site.baseur
 </div>
 
 ### etui na kartę
+
+[etui na kartę: 6 x 9cm](https://regalo.pl/produkt/etui-na-karte-kredytowa-ochrona-rfid-v0891/)
 
 <div style="background-color: #EBEBEB">
   <br>
