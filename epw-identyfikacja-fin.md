@@ -58,7 +58,7 @@ księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
   <br>
   <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/rollup.png" onclick="toggle()" alt="a" style="width: 400px;"/></div>
   <br>
-</div>roszenie)
+</div>
 
 ### projekt prezentacji (strona pierwsza i kolejne) – wersja polska i angielska
 
