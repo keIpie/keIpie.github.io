@@ -84,7 +84,7 @@ raport dokumentu Latex jest dostępny pod linkiem: [raport Latex]({{ site.baseur
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/moleskine/notatnik_moleskine.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-iw/notatnik_moleskine.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
 </div>
 
