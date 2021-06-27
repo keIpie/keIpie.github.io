@@ -113,7 +113,7 @@ przekoe odwzorowują boki pudełka na grę
 
 ### pen-drive
 
-[pen drive: ok. 18x 64x 12 mm] (https://regalo.pl/produkt/haidam-16gb-pendrive-ap781516_16gb/) - logo achromatyczne do wycięcia w drewnie
+[pen-drive: 18 x 64 x 12 mm](https://regalo.pl/produkt/haidam-16gb-pendrive-ap781516_16gb/) - logo achromatyczne do wycięcia w drewnie
 
 <div style="background-color: #EBEBEB">
   <br>
