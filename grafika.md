@@ -248,6 +248,8 @@ szkice szkice
 
 ####  [identyfikcja EPW finalna](https://keipie.github.io/epw-identyfikacja-fin/)
 
+####  [identyfikcja EPW dekory](https://keipie.github.io/epw-dekory/)
+
 ### napisz
 
 [aleksandra.horubala@gmail.com](mailto:aleksandra.horubala@gmail.com)
