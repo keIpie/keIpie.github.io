@@ -77,13 +77,13 @@ pierwsza strona prezentacji:
 ### projekt wielostronicowego raportu (PL i EN, MS Word i Latex)
 
 
-raport dokumentu Latex po polsku jest dostępny pod linkiem: [raport Latex]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_latex.pdf)
+raport dokumentu Latex po polsku jest dostępny pod linkiem: [raport Latex PL]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_latex.pdf)
 
-raport dokumentu Latex po angielsku jest dostępny pod linkiem: [raport Latex]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_latex_eng.pdf)
+raport dokumentu Latex po angielsku jest dostępny pod linkiem: [raport Latex  ENG]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_latex_eng.pdf)
 
-raport dokumentu MS Word po polsku jest dostępny pod linkiem: [raport Latex]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_word.pdf)
+raport dokumentu MS Word po polsku jest dostępny pod linkiem: [raport MS Word PL]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_word.pdf)
 
-raport dokumentu MS Word po angielsku jest dostępny pod linkiem: [raport Latex]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_word_eng.pdf)
+raport dokumentu MS Word po angielsku jest dostępny pod linkiem: [raport MS Word ENG]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_word_eng.pdf)
 
 ## gadżety
 
