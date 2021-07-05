@@ -30,7 +30,7 @@ księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/tablica.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/tablica_tekst.png" onclick="toggle()" alt="a" style="width: 600px;"/></div>
   <br>
 </div>
 
@@ -46,13 +46,15 @@ księga znaku jest dostępna pod linkiem: [księga znaku EPW]({{ site.baseurl }}
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/zaproszenie_wew.png" onclick="toggle()" alt="a" style="width: 700px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/zapro_wew_tekst.png" onclick="toggle()" alt="a" style="width: 700px;"/></div>
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/zaproszenie_zew.png" onclick="toggle()" alt="a" style="width: 700px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/zapro_zew_tekst.png" onclick="toggle()" alt="a" style="width: 700px;"/></div>
   <br>
 </div>
 
 ### roll-up - wymiary: 100 x 200 cm;
+
+jeszcze nie zdążyłam poprawić (TBD):
 
 <div style="background-color: #EBEBEB">
   <br>
@@ -74,9 +76,14 @@ pierwsza strona prezentacji:
 
 ### projekt wielostronicowego raportu (PL i EN, MS Word i Latex)
 
-pierwsze przymiarki - nie jestem pewna jakie są oczekiwania co do raportu...
 
-raport dokumentu Latex jest dostępny pod linkiem: [raport Latex]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_latex.pdf)
+raport dokumentu Latex po polsku jest dostępny pod linkiem: [raport Latex]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_latex.pdf)
+
+raport dokumentu Latex po angielsku jest dostępny pod linkiem: [raport Latex]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_latex_eng.pdf)
+
+raport dokumentu MS Word po polsku jest dostępny pod linkiem: [raport Latex]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_word.pdf)
+
+raport dokumentu MS Word po angielsku jest dostępny pod linkiem: [raport Latex]({{ site.baseurl }}/images/epw-iw/raport/projekt_raportu_word_eng.pdf)
 
 ## gadżety
 
@@ -84,7 +91,7 @@ raport dokumentu Latex jest dostępny pod linkiem: [raport Latex]({{ site.baseur
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/notatnik_moleskine.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/notes_nowy_dekor.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
 </div>
 
@@ -127,7 +134,7 @@ przekoe odwzorowują boki pudełka na grę
 
 <div style="background-color: #EBEBEB">
   <br>
-  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/karta.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
+  <div style="text-align:center"><img src="{{ site.baseurl }}/images/epw-fin/karta_nowy_dekor.png" onclick="toggle()" alt="a" style="width: 500px;"/></div>
   <br>
 </div>
 
