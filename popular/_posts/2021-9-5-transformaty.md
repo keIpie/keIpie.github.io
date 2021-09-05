@@ -23,7 +23,7 @@ Aby brutalnie obliczyć współczynniki wielomianu $c(x)$ musimy wykonać $O(n^2
 ### Ewaluacja i interpolacja
 
 Złożóność mnożenia wielomianów można zmniejszyć z kwadratowej $O(n^2)$ na liniowo-logarytmiczną
-$O(n log n)$, stosując następującą metodę:
+$O(n \log{n})$, stosując następującą metodę:
 
 1. **Ewaluacja** Wybierz $2n+1$ różnych punktów $x_0,~x_1,~\ldots x_{2n}$ i oblicz wartosci
 wielomianów $a$ i $b$ w tych punktach.
