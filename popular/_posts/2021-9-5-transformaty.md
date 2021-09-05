@@ -40,8 +40,20 @@ Sama zaprezentowana wyżej metoda nie przynosi jeszcze korzyści - sama ewaluacj
 w $2n$ punktach ma złożoność kwadratową. Zmniejszenie złożoności przyniesie dopiero
 odpowiedni wybór punktów $x_i$ oraz sprytna metoda wielopunktowej ewaluacji.
 
+### Pierwiastki z jedynki i algorytm Cooleya-Tukeya
 
-### Transformata DFT i algorytm Cooleya-Tukeya
+Aby efektywnie wykonać ewaluację wielomianu dokonajmy dwóch wyborów:
+
+1. Niech $N = 2n = 2^q$ będzię potęgą dwójki.
+
+2. Wybierzmy punkty $x_i = \omega^i$, gdzie $\omega$ jest $N$-tym pierwiastkiem pierwotnym z jedynki, to znaczy:
+  $\omega^N = 1$ oraz dla każdego $k<N$ zachodzi $\omega^k \neq = 1$.
+
+Ewaluację wielomianu $a(x)$ stopnia $N$ w punktach ${x_i}_i=0^{N-1}$ wykonujemy obliczając jego transformatę:
+
+$$ T_{N,\omega}(a) = \sum_{j=0}&{N-1} a(w^j) x^j.$$
+
+Zauważmy, że poszczególne współczynniki transformaty wielomainu stanowią wartości $a(x)$ w wybranych punktach.
 
 ### Transformata NTT
 
