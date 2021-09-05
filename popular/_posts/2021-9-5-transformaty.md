@@ -5,6 +5,7 @@ title: Szybkie obliczenia a transformaty
 
 W jakich pierścieniach można szybko wykonywać obliczenia i jak to robić.
 
+### Szybkie mnożenie wielomianów
 
 ### Transformata DFT i algorytm Cooleya-Tukeya
 
@@ -14,4 +15,4 @@ W jakich pierścieniach można szybko wykonywać obliczenia i jak to robić.
 
 ### Reprezentacje grupy cyklicznej
 
-### Szybkie mnożenie wielomianów
+### Szybkie mnożenie wielomianów w języku teorii reprezentacji
