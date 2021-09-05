@@ -22,8 +22,8 @@ Aby brutalnie obliczyć współczynniki wielomianu $c(x)$ musimy wykonać $O(n^2
 
 ### Ewaluacja i interpolacja
 
-Złożóność mnożenia wielomianów można zmniejszyć z kwadratowej $O(n^2)$ na liniowo-logarytmiczną
-$O(n \log{n})$, stosując następującą metodę:
+W szczególnych przypadkach złożóność mnożenia wielomianów można zmniejszyć z kwadratowej $O(n^2)$
+na liniowo-logarytmiczną $O(n \log{n})$, stosując następującą metodę:
 
 1. **Ewaluacja** Wybierz $2n+1$ różnych punktów $x_0,~x_1,~\ldots x_{2n}$ i oblicz wartosci
 wielomianów $a$ i $b$ w tych punktach.
@@ -36,7 +36,7 @@ $$ y_i = a(x_i) \cdot b(x_i) = c(x_i).$$
 
 $$ (x_0,~y_0),~(x_1,~y_1),~\ldots~(x_{2n}, y_{2n}). $$
 
-Sama zaprezentowana wyżej metoda nie przynosi jeszcze korzyści - sama ewaluacja wielomianów
+Sama zaprezentowana wyżej metoda nie przynosi jeszcze korzyści - ewaluacja wielomianów
 w $2n$ punktach ma złożoność kwadratową. Zmniejszenie złożoności przyniesie dopiero
 odpowiedni wybór punktów $x_i$ oraz sprytna metoda wielopunktowej ewaluacji.
 
@@ -44,7 +44,7 @@ odpowiedni wybór punktów $x_i$ oraz sprytna metoda wielopunktowej ewaluacji.
 
 Aby efektywnie wykonać ewaluację wielomianu dokonajmy dwóch wyborów:
 
-1. Niech $N = 2n = 2^q$ będzię potęgą dwójki.
+1. Niech $N = 2n + 1 = 2^q$ będzię potęgą dwójki.
 
 2. Wybierzmy punkty $x_i = \omega^i$, gdzie $\omega$ jest $N$-tym pierwiastkiem pierwotnym z jedynki, to znaczy:
   $\omega^N = 1$ oraz dla każdego $k<N$ zachodzi $\omega^k \neq = 1$.
@@ -53,7 +53,8 @@ Ewaluację wielomianu $a(x)$ stopnia $N$ w punktach ${x_i}_i=0^{N-1}$ wykonujemy
 
 $$ T_{N,\omega}(a) = \sum_{j=0}&{N-1} a(w^j) x^j.$$
 
-Zauważmy, że poszczególne współczynniki transformaty wielomainu stanowią wartości $a(x)$ w wybranych punktach.
+Zauważmy, że poszczególne współczynniki transformaty stanowią wartości wielomianu $a(x)$ w wybranych punktach.
+Efektywne obliczenie transformaty może zostać wykonane przy pomocy algorytmu Cooleya-Tukeya.
 
 ### Transformata NTT
 
