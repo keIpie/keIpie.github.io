@@ -238,7 +238,7 @@ szkice szkice
 
 #### Identyfikacja wizualna Eksperymentalnej Platrformy Walidacyjnej (EPW)
 
-####  [logo EPW - erap 1](https://keipie.github.io/epw/)
+####  [logo EPW - etap 1](https://keipie.github.io/epw/)
 
 ####  [logo EPW - etap 2](https://keipie.github.io/epw2/)
 
