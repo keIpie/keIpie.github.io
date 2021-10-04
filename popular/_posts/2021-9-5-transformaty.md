@@ -51,10 +51,11 @@ Aby efektywnie wykonać ewaluację wielomianu dokonajmy dwóch wyborów:
 
 Ewaluację wielomianu $a(x)$ stopnia $N$ w punktach ${x_i}_i=0^{N-1}$ wykonujemy obliczając jego transformatę:
 
-$$ T_{N,\omega}(a) = \sum_{j=0}&{N-1} a(w^j) x^j.$$
+$$ T_{N,\omega}(a) = \sum_{j=0}^{N-1} a(w^j) x^j. $$
 
 Zauważmy, że poszczególne współczynniki transformaty stanowią wartości wielomianu $a(x)$ w wybranych punktach.
-Efektywne obliczenie transformaty może zostać wykonane przy pomocy algorytmu Cooleya-Tukeya.
+Efektywne obliczenie transformaty może zostać wykonane przy pomocy algorytmu **Cooleya-Tukeya**. Algorytm ten działa
+rekurencyjnie wykorzystując następującą obserwację:
 
 ### Transformata NTT
 
