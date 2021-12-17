@@ -72,6 +72,22 @@ szkice szkice
 <img src="{{ site.baseurl }}/images/encepence/tritor.jpg" alt="trirot" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/encepence/donpedro.jpg" alt="donpedro" style="width: 170px;" />
 
+#### Identyfikacja wizualna Eksperymentalnej Platrformy Walidacyjnej (EPW)
+
+####  [logo EPW - etap 1](https://keipie.github.io/epw/)
+
+####  [logo EPW - etap 2](https://keipie.github.io/epw2/)
+
+####  [identyfikcja EPW finalna](https://keipie.github.io/epw-identyfikacja-fin/)
+
+#### szepty
+
+<img src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="rotszept(this)" alt="szept" style="width: 200px;" />
+
+### napisz
+
+[aleksandra.horubala@gmail.com](mailto:aleksandra.horubala@gmail.com)
+
 <audio
   id="audio"
   src="{{ site.baseurl }}/audio/ringoffireburdon.mp3">
@@ -244,19 +260,3 @@ szkice szkice
 }
   }
 </script>
-
-#### Identyfikacja wizualna Eksperymentalnej Platrformy Walidacyjnej (EPW)
-
-####  [logo EPW - etap 1](https://keipie.github.io/epw/)
-
-####  [logo EPW - etap 2](https://keipie.github.io/epw2/)
-
-####  [identyfikcja EPW finalna](https://keipie.github.io/epw-identyfikacja-fin/)
-
-#### szepty
-
-<img src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="rotszept(this)" alt="szept" style="width: 200px;" />
-
-### napisz
-
-[aleksandra.horubala@gmail.com](mailto:aleksandra.horubala@gmail.com)
