@@ -309,7 +309,7 @@ footer {
 }
 
 .rotate {
-  animation: rotation 2s 1 ease-in-out;
+  animation: rotation 2s infinite ease-in-out;
 }
 
 @keyframes rotation {
