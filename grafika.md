@@ -246,7 +246,7 @@ szkice szkice
 
 #### szepty
 
-<img src="{{ site.baseurl }}/images/szeptucha_animated.svg" alt="szept" style="width: 500px;"/>
+<img src="{{ site.baseurl }}/images/szeptucha_animated.svg" />
 
 ### napisz
 
