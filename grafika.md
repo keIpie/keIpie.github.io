@@ -234,6 +234,7 @@ szkice szkice
     }
     play = !play
   }
+
 </script>
 
 #### Identyfikacja wizualna Eksperymentalnej Platrformy Walidacyjnej (EPW)
@@ -243,6 +244,10 @@ szkice szkice
 ####  [logo EPW - etap 2](https://keipie.github.io/epw2/)
 
 ####  [identyfikcja EPW finalna](https://keipie.github.io/epw-identyfikacja-fin/)
+
+#### szepty
+
+<img src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="$(this).rotate(180);" alt="szept" style="width: 200px;" />
 
 ### napisz
 
