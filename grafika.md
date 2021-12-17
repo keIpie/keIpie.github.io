@@ -246,7 +246,7 @@ szkice szkice
 
 #### szepty
 
-<img src="{{ site.baseurl }}/images/szeptucha2.svg" />
+<object type="image/svg+xml" data="{{ site.baseurl }}/images/szeptucha_animated.svg"></object>
 
 ### napisz
 
