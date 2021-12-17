@@ -247,7 +247,7 @@ szkice szkice
 
 #### szepty
 
-<img src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="$(this).rotate(180);" alt="szept" style="width: 200px;" />
+<img src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="$(this).rotate(720);" alt="szept" style="width: 200px;" />
 
 ### napisz
 
