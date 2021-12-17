@@ -244,10 +244,6 @@ szkice szkice
 
 ####  [identyfikcja EPW finalna](https://keipie.github.io/epw-identyfikacja-fin/)
 
-#### szepty
-
-<object type="image/svg+xml" data="{{ site.baseurl }}/images/szeptucha_animated.svg"></object>
-
 ### napisz
 
 [aleksandra.horubala@gmail.com](mailto:aleksandra.horubala@gmail.com)
