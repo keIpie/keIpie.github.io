@@ -82,7 +82,7 @@ szkice szkice
 
 #### szepty
 
-<img src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="rotszept(this)" alt="szept" style="width: 200px;" />
+<img class="rotation-class" src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="rotszept(this)" alt="szept" style="width: 200px;" />
 
 ### napisz
 
@@ -251,12 +251,4 @@ szkice szkice
     play = !play
   }
 
-  var rotate_factor = 0;
-
-  var rotszept = function (e) {
-    rotate_factor += 1;
-    var rotate_angle = (720 * rotate_factor) % 360;
-    $(e).rotate({angle:rotate_angle});
-  }
-  
 </script>
