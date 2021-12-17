@@ -244,7 +244,7 @@ szkice szkice
 
 ####  [identyfikcja EPW finalna](https://keipie.github.io/epw-identyfikacja-fin/)
 
-### szepty
+#### szepty
 
 <img src="{{ site.baseurl }}/images/szeptucha_animated.svg" alt="szept" style="width: 500px;"/>
 
