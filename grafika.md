@@ -257,6 +257,6 @@ szkice szkice
     rotate_factor += 1;
     var rotate_angle = (720 * rotate_factor) % 360;
     $(e).rotate({angle:rotate_angle});
-}
   }
+  
 </script>
