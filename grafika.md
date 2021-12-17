@@ -235,6 +235,14 @@ szkice szkice
     play = !play
   }
 
+  var rotate_factor = 0;
+
+  var rotszept = function (e) {
+    rotate_factor += 1;
+    var rotate_angle = (720 * rotate_factor) % 360;
+    $(e).rotate({angle:rotate_angle});
+}
+  }
 </script>
 
 #### Identyfikacja wizualna Eksperymentalnej Platrformy Walidacyjnej (EPW)
@@ -247,7 +255,7 @@ szkice szkice
 
 #### szepty
 
-<img src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="$(this).rotate(720);" alt="szept" style="width: 200px;" />
+<img src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="rotszept(this)" alt="szept" style="width: 200px;" />
 
 ### napisz
 
