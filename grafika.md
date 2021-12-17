@@ -84,7 +84,7 @@ szkice szkice
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/szeptucha-cr.svg" class="rotate" onclick="rotszept(this)" alt="szept" style="width: 200px;" /></div>
 <br>
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/szeptucha_animated.png" alt="szeptu" style="width: 250px;" /></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/sz-napis.png" alt="szeptu" style="width: 250px;" /></div>
 
 ### napisz
 
