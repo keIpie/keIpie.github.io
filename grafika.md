@@ -82,7 +82,7 @@ szkice szkice
 
 #### szepty
 
-<img src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="rotszept(this)" alt="szept" style="width: 200px;" />
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/szeptucha-cr.svg" onclick="rotszept(this)" alt="szept" style="width: 200px;" /></div>
 
 ### napisz
 
