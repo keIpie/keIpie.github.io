@@ -97,4 +97,9 @@ function refresh() {
   document.getElementById("table").innerHTML = table;  
 }
 
+function rotszept(element) {
+  element.classList.toggle("rotate");
+}
+
+
 </script>
