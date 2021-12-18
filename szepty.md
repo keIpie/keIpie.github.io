@@ -1,6 +1,6 @@
 ---
 layout: page
-title: szepty
+title: 
 permalink: /szepty/
 ---
 
