@@ -1,12 +1,12 @@
 ---
 layout: page
 title:
-permalink: /szepty/
+permalink: /duchy/
 ---
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/szeptucha-cr.svg" class="rotate" onclick="rotszept(this)" alt="szept" style="width: 200px;" /></div>
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/sz-napis.png" alt="szeptu" style="width: 250px;" /></div>
-
+<!-- <div style="text-align:center"><img src="{{ site.baseurl }}/images/szeptucha-cr.svg" class="rotate" onclick="rotszept(this)" alt="szept" style="width: 200px;" /></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/sz-napis.png" alt="szeptu" style="width: 250px;" /></div> -->
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/dobroduch.jpg" alt="dobro" style="width: 220px;" /></div>
 <br><br><br>
 <button id="button_r">random</button>
 <input type="file" id="inputfile" />

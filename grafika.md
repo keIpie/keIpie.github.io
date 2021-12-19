@@ -82,10 +82,17 @@ szkice szkice
 
 #### szepty
 
-#### [szepty i szelesty](https://keipie.github.io/szepty/)
+#### [szepty szelesty]({{ site.baseurl }}/szepty/)
 
+<div>
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/szeptucha-cr.svg" class="rotate" onclick="rotszept(this)" alt="szept" style="width: 200px;" /></div>
+<br>
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/sz-napis.png" alt="szeptu" style="width: 250px;" /></div>
+</div>
+
+#### [duchy]({{ site.baseurl }}/duchy/)
+
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/dobroduch.jpg" alt="dobro" style="width: 220px;" /></div>
 
 ### napisz
 
@@ -256,6 +263,9 @@ szkice szkice
 
   function rotszept(element) {
     element.classList.toggle("rotate");
+
+  function duchblink(element) {
+    element.classList.toggle("blink");
 }
 
 </script>
