@@ -80,6 +80,10 @@ szkice szkice
 
 ####  [identyfikcja EPW finalna](https://keipie.github.io/epw-identyfikacja-fin/)
 
+#### UWAGA IDĘ !!!
+
+[tak trzeba chodzić]({{ site.baseurl }}/uwagaide/)
+
 #### szepty
 
 #### [szepty szelesty]({{ site.baseurl }}/szepty/)
