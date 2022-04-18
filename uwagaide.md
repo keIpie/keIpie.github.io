@@ -6,7 +6,7 @@ permalink: /uwagaide/
 
 <div style="text-align:center; display: inline-block; margin-left: 50px">
   <button class="vertical-center"> <i class="arrow left"></i> </button>
-  <img src="{{ site.baseurl }}/images/lara_1.GIF" alt="ide" style="width: 1600px; margin-top: 100px;" />
+  <img src="{{ site.baseurl }}/images/lara_1_crop.gif" alt="ide" style="width: 1600px; margin-top: 100px;" />
   <button class="vertical-center"> <i class="arrow right"></i> </button>
 </div>
 
@@ -36,6 +36,7 @@ permalink: /uwagaide/
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   border-width: 0px;
+  background-color: white;
 }
 
 </style>
