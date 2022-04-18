@@ -5,9 +5,9 @@ permalink: /uwagaide/
 ---
 
 <div style="text-align:center; display: inline-block">
-  <button> <i class="arrow left"></i> </button>
-  <img src="{{ site.baseurl }}/images/lara_1.gif" alt="ide" style="width: 1600px; margin-top: 100px;" />
-  <button> <i class="arrow right"></i> </button>
+  <div class="vertical-center"> <button> <i class="arrow left"></i> </button> </div>
+  <div class="vertical-center"> <img src="{{ site.baseurl }}/images/lara_1.gif" alt="ide" style="width: 1600px; margin-top: 100px;" /> </div>
+  <div class="vertical-center"> <button> <i class="arrow right"></i> </button> </div>
 </div>
 
 <style>
@@ -27,6 +27,14 @@ permalink: /uwagaide/
 .left {
   transform: rotate(135deg);
   -webkit-transform: rotate(135deg);
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 </style>
