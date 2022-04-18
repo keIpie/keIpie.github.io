@@ -6,9 +6,27 @@ permalink: /uwagaide/
 
 <div style="text-align:center; display: inline-block; margin-left: 50px">
   <button class="vertical-center"> <i class="arrow left"></i> </button>
-  <img src="{{ site.baseurl }}/images/lara_1_crop.gif" alt="ide" style="width: 1600px; margin-top: 100px;" />
-  <button class="vertical-center"> <i class="arrow right"></i> </button>
+  <img id="image" src="{{ site.baseurl }}/images/lara_1_crop.gif" alt="ide" style="width: 1600px; margin-top: 100px;" />
+  <button class="vertical-center" onclick="changeImage();"> <i class="arrow right"></i> </button>
 </div>
+
+
+<script>
+
+var index      = 1;
+var index_no   = 2;
+var image_list = ["{{ site.baseurl }}/images/lara_1_crop.gif", "{{ site.baseurl }}/images/lara_2_crop.gif"]
+
+function changeImage()
+{
+  var img = document.getElementById("image");
+  index = (index + 1) % index_no;
+  img.src = image_list[index];
+  return false;
+}
+
+</script>
+
 
 <style>
 
