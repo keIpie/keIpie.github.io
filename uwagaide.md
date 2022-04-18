@@ -20,10 +20,12 @@ var image_list = ["{{ site.baseurl }}/images/lara_1_crop.gif", "{{ site.baseurl 
 function prevImage()
 {
   var img = document.getElementById("image");
-  if index != 0:
+  if (index != 0) {
     index = (index - 1) % index_no;
-  else:
+  }
+  else {
     index = index_no - 1;
+  }
   img.src = image_list[index];
   return false;
 }
