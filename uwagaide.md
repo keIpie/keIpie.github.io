@@ -4,7 +4,7 @@ title:
 permalink: /uwagaide/
 ---
 
-<div style="text-align:center; display: inline-block">
+<div style="text-align:center; display: inline-block; margin-left: 50px">
   <div class="vertical-center"> <button> <i class="arrow left"></i> </button> </div>
   <div class="vertical-center"> <img src="{{ site.baseurl }}/images/lara_1.gif" alt="ide" style="width: 1600px; margin-top: 100px;" /> </div>
   <div class="vertical-center"> <button> <i class="arrow right"></i> </button> </div>
