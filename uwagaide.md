@@ -35,6 +35,7 @@ permalink: /uwagaide/
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+  border-width: 0px;
 }
 
 </style>
