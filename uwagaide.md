@@ -65,4 +65,8 @@ function nextImage()
   background-color: white;
 }
 
+.vertical-center:hover {
+      background-color: yellow;
+  }
+
 </style>
