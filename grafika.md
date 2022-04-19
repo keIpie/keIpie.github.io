@@ -286,7 +286,7 @@ szkice szkice
     if (play) {
       document.getElementById('audiomisztal').pause()
     } else {
-      document.getElementById('audiomisztal').currentTime = 55
+      document.getElementById('audiomisztal').currentTime = 45
       document.getElementById('audiomisztal').play()      
     }
     play = !play
@@ -295,7 +295,7 @@ szkice szkice
     if (play) {
       document.getElementById('audioolap').pause()
     } else {
-      document.getElementById('audioolap').currentTime = 55
+      document.getElementById('audioolap').currentTime = 14
       document.getElementById('audioolap').play()      
     }
     play = !play
