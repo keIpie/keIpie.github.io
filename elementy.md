@@ -45,9 +45,9 @@ function nextImage()
 
 .arrow {
   border: solid black;
-  border-width: 0 3px 3px 0;
+  border-width: 0 6px 6px 0;
   display: inline-block;
-  padding: 3px;
+  padding: 6px;
 }
 
 .right {
@@ -71,7 +71,7 @@ function nextImage()
 }
 
 .vertical-center:hover {
-      background-color: yellow;
+    border: solid red;
   }
 
 </style>
