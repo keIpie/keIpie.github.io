@@ -5,9 +5,9 @@ permalink: /uwagaide/
 ---
 
 <div style="text-align:center; display: flex; margin-left: 50px">
-  <div style="flex: 0 0 10%;"><button class="vertical-center" onclick="prevImage();"> <span>&#8249;</span> </button> </div>
+  <div style="flex: 0 0 10%;"><button class="vertical-center" onclick="prevImage();"> <span class="arrowhtml">&#8249;</span> </button> </div>
   <div style="flex: 0 0 80%;"><img id="image" src="{{ site.baseurl }}/images/lara_1a.gif" alt="ide" style="height: 500px; display: block; margin-left: auto; margin-right: auto;margin-top: 100px;"></div>
-  <div style="flex: 0 0 10%;"><button class="vertical-center" onclick="nextImage();"> <span>&#8250;</span> </button></div>
+  <div style="flex: 0 0 10%;"><button class="vertical-center" onclick="nextImage();"> <span class="arrowhtml">&#8250;</span> </button></div>
 </div>
 
 
@@ -48,6 +48,11 @@ function nextImage()
   border-width: 0 6px 6px 0;
   display: inline-block;
   padding: 6px;
+}
+
+.arrowhtml {
+  color: black;
+  font-size: 15px;
 }
 
 .right {
