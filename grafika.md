@@ -55,17 +55,17 @@ szkice szkice
 
 ####  krypto kubki
 
-<img src="{{ site.baseurl }}/images/kubki/adam_c.png" onclick="toggleadam()" alt="adam" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/aneta_c.png" onclick="toggleaneta()" alt="aneta" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/daniel_c.png" onclick="toggledaniel()" alt="daniel" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/dorota_c.png" onclick="toggledorota()" alt="dorota" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/krzysiek_c.png" onclick="togglek()" alt="krzysiek" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/michal_c.png" onclick="togglem()" alt="michal" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/wladek_c.png" onclick="togglewladek()" alt="wladek" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/pawel_c.png" onclick="togglepawel()" alt="pawel" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/maciek_c.png" onclick="togglemaciek()" alt="maciek" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/misztal_c.jpg" onclick="togglemisztal()" alt="misztal" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/kubki/olap_c.png" onclick="toggleolap()" alt="olap" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/kubki/adam_c.png" onclick="toggleadam()" alt="adam" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/kubki/aneta_c.png" onclick="toggleaneta()" alt="aneta" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/kubki/daniel_c.png" onclick="toggledaniel()" alt="daniel" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/kubki/dorota_c.png" onclick="toggledorota()" alt="dorota" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/kubki/krzysiek_c.png" onclick="togglek()" alt="krzysiek" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/kubki/michal_c.png" onclick="togglem()" alt="michal" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/kubki/wladek_c.png" onclick="togglewladek()" alt="wladek" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/kubki/pawel_c.png" onclick="togglepawel()" alt="pawel" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/kubki/maciek_c.png" onclick="togglemaciek()" alt="maciek" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/kubki/misztal_c.jpg" onclick="togglemisztal()" alt="misztal" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/kubki/olap_c.png" onclick="toggleolap()" alt="olap" style="width: 170px;">
 
 ####  encepence
 
@@ -190,8 +190,13 @@ szkice szkice
   <code>audio</code> element.
 </audio>
 
+
+
+
 <script>
+
   var play = false;
+
   var toggle = function () {
     if (play) {
       document.getElementById('audio').pause()
@@ -201,6 +206,7 @@ szkice szkice
     }
     play = !play
   }
+
   var toggleadam = function () {
     if (play) {
       document.getElementById('audioadam').pause()
@@ -210,6 +216,7 @@ szkice szkice
     }
     play = !play
   }
+
   var toggleaneta = function () {
     if (play) {
       document.getElementById('audioaneta').pause()
@@ -219,6 +226,7 @@ szkice szkice
     }
     play = !play
   }
+
   var toggledaniel = function () {
     if (play) {
       document.getElementById('audiodaniel').pause()
@@ -228,6 +236,7 @@ szkice szkice
     }
     play = !play
   }  
+
   var toggledorota = function () {
     if (play) {
       document.getElementById('audiodorota').pause()
@@ -237,6 +246,7 @@ szkice szkice
     }
     play = !play
   }
+
   var togglek = function () {
     if (play) {
       document.getElementById('audiok').pause()
@@ -246,6 +256,7 @@ szkice szkice
     }
     play = !play
   }
+
   var togglem = function () {
     if (play) {
       document.getElementById('audiom').pause()
@@ -255,6 +266,7 @@ szkice szkice
     }
     play = !play
   }
+
   var togglewladek = function () {
     if (play) {
       document.getElementById('audiowladek').pause()
@@ -264,6 +276,7 @@ szkice szkice
     }
     play = !play
   }
+
   var togglepawel = function () {
     if (play) {
       document.getElementById('audiopawel').pause()
@@ -273,6 +286,7 @@ szkice szkice
     }
     play = !play
   }
+
   var togglemaciek = function () {
     if (play) {
       document.getElementById('audiomaciek').pause()
@@ -282,6 +296,7 @@ szkice szkice
     }
     play = !play
   }
+
   var togglemisztal = function () {
     if (play) {
       document.getElementById('audiomisztal').pause()
@@ -291,6 +306,7 @@ szkice szkice
     }
     play = !play
   }
+
   var toggleolap = function () {
     if (play) {
       document.getElementById('audioolap').pause()
@@ -300,6 +316,7 @@ szkice szkice
     }
     play = !play
   }
+
   function rotszept(element) {
     element.classList.toggle("rotate");
 
