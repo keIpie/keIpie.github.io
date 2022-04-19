@@ -82,7 +82,8 @@ szkice szkice
 
 #### UWAGA IDĘ !!!
 
-[tak trzeba chodzić]({{ site.baseurl }}/uwagaide/)
+[jak trzeba chodzić]({{ site.baseurl }}/uwagaide/)
+[elementy]({{ site.baseurl }}/elementy/)
 
 #### szepty
 
