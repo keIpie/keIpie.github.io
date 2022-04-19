@@ -71,7 +71,7 @@ function nextImage()
   background-color: white;
 }
 
-.vertical-center:hover {
+.arrow:hover {
       border: solid red;
   }
 
