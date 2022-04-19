@@ -76,8 +76,8 @@ function nextImage()
   background-color: white;
 }
 
-.arrow:hover {
-      border: solid red;
+.arrowhtml:hover {
+    color: red;
   }
 
 </style>
