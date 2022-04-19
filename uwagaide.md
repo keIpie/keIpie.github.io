@@ -72,7 +72,7 @@ function nextImage()
 }
 
 .vertical-center:hover {
-      background-color: yellow;
+      border: solid red;
   }
 
 </style>
