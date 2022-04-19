@@ -6,7 +6,7 @@ permalink: /uwagaide/
 
 <div style="text-align:center; display: inline-block; margin-left: 50px">
   <div style="width:10%;"><button class="vertical-center" onclick="prevImage();"> <i class="arrow left"></i> </button> </div>
-  <div style="width:80%;"><img id="image" src="{{ site.baseurl }}/images/lara_1a.gif" alt="ide" style="height: 500px; margin-top: 100px;" /></div>
+  <div style="width:80%;"><img id="image" src="{{ site.baseurl }}/images/lara_1a.gif" alt="ide" style="height: 500px; display: block; margin-left: auto; margin-right: auto;margin-top: 100px;" /></div>
   <div style="width:10%;"><button class="vertical-center" onclick="nextImage();"> <i class="arrow right"></i> </button></div>
 </div>
 
@@ -62,6 +62,7 @@ function nextImage()
 
 .vertical-center {
   margin: 0;
+  display: block;
   position: absolute;
   top: 50%;
   -ms-transform: translateY(-50%);
