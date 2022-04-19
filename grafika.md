@@ -10,17 +10,17 @@ szkice szkice
 
 #### Camille przy barze
 
-<img src="{{ site.baseurl }}/images/camille.gif" onclick="toggle()" alt="Camille" style="width: 350px;"/>
-<img src="{{ site.baseurl }}/images/camille2.gif" alt="Camille2" style="width: 350px;"/>
+<img src="{{ site.baseurl }}/images/camille.gif" onclick="toggle()" alt="Camille" style="width: 350px;">
+<img src="{{ site.baseurl }}/images/camille2.gif" alt="Camille2" style="width: 350px;">
 
 ####  doktor Rieux patrzy przez okno
 
-<img src="{{ site.baseurl }}/images/rieux_short.gif" alt="rieux" style="width: 500px;"/>
+<img src="{{ site.baseurl }}/images/rieux_short.gif" alt="rieux" style="width: 500px;">
 
 ####  Le Jeune Homme et la Mort
 
-<img src="{{ site.baseurl }}/images/bary_bw.gif" alt="barybw" style="width: 500px;"/>
-<img src="{{ site.baseurl }}/images/bary_cf.gif" alt="barycf" style="width: 500px;"/>
+<img src="{{ site.baseurl }}/images/bary_bw.gif" alt="barybw" style="width: 500px;">
+<img src="{{ site.baseurl }}/images/bary_cf.gif" alt="barycf" style="width: 500px;">
 
 ####  siatkarskie koszulki
 
@@ -29,29 +29,25 @@ szkice szkice
   alt="attacker"
   style="width: 170px;"
   onmouseover="this.src='{{ site.baseurl }}/images/siatka/s_attacker.jpg';"
-  onmouseout="this.src='{{ site.baseurl }}/images/siatka/s_attacker_c.jpg';"
-/>
+  onmouseout="this.src='{{ site.baseurl }}/images/siatka/s_attacker_c.jpg';">
 <img
   src="{{ site.baseurl }}/images/siatka/s_setter_c.jpg"
   alt="setter"
   style="width: 175px;"
   onmouseover="this.src='{{ site.baseurl }}/images/siatka/s_setter.jpg';"
-  onmouseout="this.src='{{ site.baseurl }}/images/siatka/s_setter_c.jpg';"
-/>
+  onmouseout="this.src='{{ site.baseurl }}/images/siatka/s_setter_c.jpg';">
 <img
   src="{{ site.baseurl }}/images/siatka/s_fire_c.jpg"
   alt="fire"
   style="width: 170px;"
   onmouseover="this.src='{{ site.baseurl }}/images/siatka/s_fire.jpg';"
-  onmouseout="this.src='{{ site.baseurl }}/images/siatka/s_fire_c.jpg';"
-/>
+  onmouseout="this.src='{{ site.baseurl }}/images/siatka/s_fire_c.jpg';">
 <img
   src="{{ site.baseurl }}/images/siatka/s_libero_c.jpg"
   alt="libero"
   style="width: 175px;"
   onmouseover="this.src='{{ site.baseurl }}/images/siatka/s_libero.jpg';"
-  onmouseout="this.src='{{ site.baseurl }}/images/siatka/s_libero_c.jpg';"
-/>
+  onmouseout="this.src='{{ site.baseurl }}/images/siatka/s_libero_c.jpg';">
 
 ####  krypto kubki
 
@@ -69,10 +65,10 @@ szkice szkice
 
 ####  encepence
 
-<img src="{{ site.baseurl }}/images/encepence/trilab.jpg" alt="trilab" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/encepence/orzel.jpg" alt="orzel" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/encepence/tritor.jpg" alt="trirot" style="width: 170px;" />
-<img src="{{ site.baseurl }}/images/encepence/donpedro.jpg" alt="donpedro" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/encepence/trilab.jpg" alt="trilab" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/encepence/orzel.jpg" alt="orzel" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/encepence/tritor.jpg" alt="trirot" style="width: 170px;">
+<img src="{{ site.baseurl }}/images/encepence/donpedro.jpg" alt="donpedro" style="width: 170px;">
 
 #### Identyfikacja wizualna Eksperymentalnej Platrformy Walidacyjnej (EPW)
 
@@ -93,14 +89,14 @@ szkice szkice
 #### [szepty szelesty]({{ site.baseurl }}/szepty/)
 
 <div>
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/szeptucha-cr.svg" class="rotate" onclick="rotszept(this)" alt="szept" style="width: 200px;" /></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/szeptucha-cr.svg" class="rotate" onclick="rotszept(this)" alt="szept" style="width: 200px;"></div>
 <br>
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/sz-napis.png" alt="szeptu" style="width: 250px;" /></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/sz-napis.png" alt="szeptu" style="width: 250px;"></div>
 </div>
 
 #### [duchy]({{ site.baseurl }}/duchy/)
 
-<div style="text-align:center"><img src="{{ site.baseurl }}/images/dobroduch.jpg" alt="dobro" style="width: 220px;" /></div>
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/dobroduch.jpg" alt="dobro" style="width: 220px;"></div>
 
 ### napisz
 
