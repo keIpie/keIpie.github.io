@@ -64,6 +64,8 @@ szkice szkice
 <img src="{{ site.baseurl }}/images/kubki/wladek_c.png" onclick="togglewladek()" alt="wladek" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/pawel_c.png" onclick="togglepawel()" alt="pawel" style="width: 170px;" />
 <img src="{{ site.baseurl }}/images/kubki/maciek_c.png" onclick="togglemaciek()" alt="maciek" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/kubki/misztal_c.jpg" onclick="togglemisztal()" alt="misztal" style="width: 170px;" />
+<img src="{{ site.baseurl }}/images/kubki/olap_c.png" onclick="toggleolap()" alt="olap" style="width: 170px;" />
 
 ####  encepence
 
@@ -174,6 +176,20 @@ szkice szkice
   <code>audio</code> element.
 </audio>
 
+<audio
+  id="audiomisztal"
+  src="{{ site.baseurl }}/audio/popiol.mp3">
+  Your browser does not support the
+  <code>audio</code> element.
+</audio>
+
+<audio
+  id="audioolap"
+  src="{{ site.baseurl }}/audio/hp.mp3">
+  Your browser does not support the
+  <code>audio</code> element.
+</audio>
+
 <script>
   var play = false;
   var toggle = function () {
@@ -266,7 +282,24 @@ szkice szkice
     }
     play = !play
   }
-
+  var togglemisztal = function () {
+    if (play) {
+      document.getElementById('audiomisztal').pause()
+    } else {
+      document.getElementById('audiomisztal').currentTime = 55
+      document.getElementById('audiomisztal').play()      
+    }
+    play = !play
+  }
+  var toggleolap = function () {
+    if (play) {
+      document.getElementById('audioolap').pause()
+    } else {
+      document.getElementById('audioolap').currentTime = 55
+      document.getElementById('audioolap').play()      
+    }
+    play = !play
+  }
   function rotszept(element) {
     element.classList.toggle("rotate");
 
