@@ -4,10 +4,10 @@ title:
 permalink: /elementy/
 ---
 
-<div style="text-align:center; display: inline-block; margin-left: 50px">
-  <button class="vertical-center" onclick="prevImage();"> <i class="arrow left"></i> </button>
-  <img id="image" src="{{ site.baseurl }}/images/fala_a.gif" alt="ide" style="width: 500px; margin-top: 100px;" />
-  <button class="vertical-center" onclick="nextImage();"> <i class="arrow right"></i> </button>
+<div style="text-align:center; display: flex; margin-left: 50px">
+  <div style="flex: 0 0 10%;"><button class="vertical-center" onclick="prevImage();"> <i class="arrow left"></i> </button></div>
+  <div style="flex: 0 0 80%;"><img id="image" src="{{ site.baseurl }}/images/fala_a.gif" alt="ide" style="width: 500px; margin-top: 100px;"></div>
+  <div style="flex: 0 0 10%;"><button class="vertical-center" onclick="nextImage();"> <i class="arrow right"></i> </button></div>
 </div>
 
 
