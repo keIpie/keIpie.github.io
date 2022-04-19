@@ -15,7 +15,7 @@ permalink: /uwagaide/
 
 var index      = 0;
 var index_no   = 2;
-var image_list = ["{{ site.baseurl }}/images/lara_1_crop.gif", "{{ site.baseurl }}/images/lara_2_crop.gif"]
+var image_list = ["{{ site.baseurl }}/images/lara_1a.gif", "{{ site.baseurl }}/images/lara_2a.gif"]
 
 function prevImage()
 {
