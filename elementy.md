@@ -15,7 +15,7 @@ permalink: /elementy/
 
 var index      = 0;
 var index_no   = 2;
-var image_list = ["{{ site.baseurl }}/images/fala_a.gif", "{{ site.baseurl }}/images/salome.GIF"]
+var image_list = ["{{ site.baseurl }}/images/fala_a.gif", "{{ site.baseurl }}/images/salome_cut.gif"]
 
 function prevImage()
 {
