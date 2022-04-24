@@ -13,9 +13,6 @@ permalink: /uwagaide/
 
 <script>
 
-document.body.style.display     = "block";
-document.body.style.align-items = "center";
-
 var index      = 0;
 var index_no   = 2;
 var image_list = ["{{ site.baseurl }}/images/lara_1a.gif", "{{ site.baseurl }}/images/lara_2a.gif"]
