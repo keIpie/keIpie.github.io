@@ -5,9 +5,9 @@ permalink: /elementy/
 ---
 
 <div style="text-align:center; display: flex; margin-left: 50px">
-  <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();"> <i class="arrow left"></i> </button></div>
+  <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();"> <span class="arrowhtml">&#8249;</span> </button></div>
   <div style="flex: 0 0 80%;"><img class="vertical-center" id="image" src="{{ site.baseurl }}/images/fala_a.gif" style="height: 100vh" alt="ide"></div>
-  <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();"> <i class="arrow right"></i> </button></div>
+  <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();"> <span class="arrowhtml">&#8250;</span>  </button></div>
 </div>
 
 
@@ -43,10 +43,9 @@ function nextImage()
 
 <style>
 
-.plain-button {
+.arrowhtml {
   color: black;
-  border-width: 0px;
-  background-color: white;
+  font-size: 15px;
 }
 
 .vertical-center {
@@ -57,8 +56,9 @@ function nextImage()
   background-color: white;
 }
 
-.plain-button:hover {
-    color: red;
-  }
+.arrowhtml:hover {
+  color: black;
+  font-size: 15px;
+}
 
 </style>
