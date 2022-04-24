@@ -57,8 +57,7 @@ function nextImage()
 }
 
 .arrowhtml:hover {
-  color: black;
-  font-size: 15px;
+  color: red;
 }
 
 </style>
