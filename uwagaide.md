@@ -1,5 +1,5 @@
 ---
-layout:
+layout: draw
 title:
 permalink: /uwagaide/
 ---
