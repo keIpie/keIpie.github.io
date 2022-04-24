@@ -44,6 +44,7 @@ function nextImage()
 <style>
 
 .plain-button {
+  color: black;
   border-width: 0px;
   background-color: white;
 }
