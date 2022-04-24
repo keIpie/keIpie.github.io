@@ -61,7 +61,7 @@ function nextImage()
 }
 
 .vertical-center {
-  margin: 0;
+  margin: auto;
   position: absolute;
   top: 50%;
   -ms-transform: translateY(-50%);
