@@ -52,6 +52,7 @@ function nextImage()
   margin: auto;
   display: flex;
   align-items: center;
+  justify-content: center;
   border-width: 0px;
   background-color: white;
 }
