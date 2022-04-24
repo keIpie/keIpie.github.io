@@ -6,7 +6,7 @@ permalink: /elementy/
 
 <div style="text-align:center; display: flex; margin-left: 50px">
   <div style="flex: 0 0 10%;"><button class="vertical-center" onclick="prevImage();"> <i class="arrow left"></i> </button></div>
-  <div style="flex: 0 0 80%;"><img class="vertical-center" id="image" src="{{ site.baseurl }}/images/fala_a.gif" alt="ide" style="width: 500px; margin-top: 100px;"></div>
+  <div style="flex: 0 0 80%;"><img class="vertical-center" id="image" src="{{ site.baseurl }}/images/fala_a.gif" alt="ide"></div>
   <div style="flex: 0 0 10%;"><button class="vertical-center" onclick="nextImage();"> <i class="arrow right"></i> </button></div>
 </div>
 
