@@ -68,7 +68,7 @@ function nextImage()
 .vertical-center {
   margin: auto;
   display: flex;
-  position: absolute;
+  align-items: center;
   border-width: 0px;
   background-color: white;
 }
