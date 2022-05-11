@@ -23,7 +23,7 @@ var image_list = ["{{ site.baseurl }}/images/lara/lara_zasada_1.mp4",
                   "{{ site.baseurl }}/images/lara/lara_zasada_6.mp4",
                   "{{ site.baseurl }}/images/lara/lara_zasada_7.mp4",
                   "{{ site.baseurl }}/images/lara/lara_zasada_8.mp4",
-                  "{{ site.baseurl }}/images/lara/lara_zasada_9.mp4",
+                  "{{ site.baseurl }}/images/lara/lara_zasada_9.mp4"
                   ]
 
 function prevImage()
