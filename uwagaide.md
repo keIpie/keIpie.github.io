@@ -6,7 +6,12 @@ permalink: /uwagaide/
 
 <div style="text-align:center; display: flex;">
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();" style="border: 0px; background-color:white;"> <span class="arrowhtml">&#8249;</span> </button> </div>
-  <div style="flex: 0 0 80%;"><video class="vertical-center" id="image" src="{{ site.baseurl }}/images/lara/lara_zasada_1.mp4" alt="ide" style="width: 80vw"></div>
+  <div style="flex: 0 0 80%;">
+    <video autoplay class="vertical-center" id="image" style="width: 80vw">
+      <source src="{{ site.baseurl }}/images/lara/lara_zasada_1.mp4">
+      Idę
+    </video>
+  </div>
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> <span class="arrowhtml">&#8250;</span> </button></div>
 </div>
 
