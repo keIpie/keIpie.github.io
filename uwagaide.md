@@ -6,12 +6,7 @@ permalink: /uwagaide/
 
 <div style="text-align:center; display: flex;">
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();" style="border: 0px; background-color:white;"> <span class="arrowhtml">&#8249;</span> </button> </div>
-  <div style="flex: 0 0 80%;">
-    <video autoplay class="vertical-center" id="image" style="width: 80vw">
-      <source src="{{ site.baseurl }}/images/lara/lara_zasada_1.mp4">
-      Idę
-    </video>
-  </div>
+  <div style="flex: 0 0 80%;"><img class="vertical-center" id="image" src="{{ site.baseurl }}/images/lara/lara_zasada_1.gif" alt="ide" style="width: 80vw"></div>
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> <span class="arrowhtml">&#8250;</span> </button></div>
 </div>
 
@@ -20,15 +15,15 @@ permalink: /uwagaide/
 
 var index      = 0;
 var index_no   = 9;
-var image_list = ["{{ site.baseurl }}/images/lara/lara_zasada_1.mp4",
-                  "{{ site.baseurl }}/images/lara/lara_zasada_2.mp4",
-                  "{{ site.baseurl }}/images/lara/lara_zasada_3.mp4",
-                  "{{ site.baseurl }}/images/lara/lara_zasada_4.mp4",
-                  "{{ site.baseurl }}/images/lara/lara_zasada_5.mp4",
-                  "{{ site.baseurl }}/images/lara/lara_zasada_6.mp4",
-                  "{{ site.baseurl }}/images/lara/lara_zasada_7.mp4",
-                  "{{ site.baseurl }}/images/lara/lara_zasada_8.mp4",
-                  "{{ site.baseurl }}/images/lara/lara_zasada_9.mp4"
+var image_list = ["{{ site.baseurl }}/images/lara/lara_zasada_1.gif",
+                  "{{ site.baseurl }}/images/lara/lara_zasada_2.gif",
+                  "{{ site.baseurl }}/images/lara/lara_zasada_3.gif",
+                  "{{ site.baseurl }}/images/lara/lara_zasada_4.gif",
+                  "{{ site.baseurl }}/images/lara/lara_zasada_5.gif",
+                  "{{ site.baseurl }}/images/lara/lara_zasada_6.gif",
+                  "{{ site.baseurl }}/images/lara/lara_zasada_7.gif",
+                  "{{ site.baseurl }}/images/lara/lara_zasada_8.gif",
+                  "{{ site.baseurl }}/images/lara/lara_zasada_9.gif"
                   ]
 
 function prevImage()
