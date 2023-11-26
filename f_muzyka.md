@@ -1,7 +1,7 @@
 ---
 layout: draw
 title:
-permalink: /uwagaide/
+permalink: /f_muzyka/
 ---
 
 <div style="text-align:center; display: flex;">

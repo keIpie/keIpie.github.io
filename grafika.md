@@ -101,6 +101,7 @@ szkice szkice
 
 ## fotografia
 
+[f_muzyka]({{ site.baseurl }}/f_muzyka/)
 
 ### napisz
 
