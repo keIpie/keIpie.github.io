@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: fotografia
 permalink: /grafika/
 ---
-
-# fotografia
 
 [f_muzyka]({{ site.baseurl }}/f_muzyka/)
 
