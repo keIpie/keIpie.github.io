@@ -1,7 +1,7 @@
 ---
 layout: draw
 title:
-permalink: /f_muzyka/
+permalink: /male_preludia/
 ---
 
 <div style="text-align:center; display: flex;">
@@ -21,14 +21,36 @@ permalink: /f_muzyka/
 <script>
 
 var index      = 0;
-var index_no   = 3;
+var index_no   = 14;
 var image_list = ["{{ site.baseurl }}/images/muzyka/muzyka.jpg",
                   "{{ site.baseurl }}/images/muzyka/dyptyk.jpg",
-                  "{{ site.baseurl }}/images/muzyka/luz.JPG"
+                  "{{ site.baseurl }}/images/muzyka/luz.JPG",
+                  "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
+                  "{{ site.baseurl }}/images/muzyka/dyptyk.jpg",
+                  "{{ site.baseurl }}/images/muzyka/luz.JPG",
+                  "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
+                  "{{ site.baseurl }}/images/muzyka/dyptyk.jpg",
+                  "{{ site.baseurl }}/images/muzyka/luz.JPG",
+                  "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
+                  "{{ site.baseurl }}/images/muzyka/dyptyk.jpg",
+                  "{{ site.baseurl }}/images/muzyka/luz.JPG",
+                  "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
+                  "{{ site.baseurl }}/images/muzyka/dyptyk.jpg"
                   ]
 var text_list = [ "małe preludia",
+                  "zawias",
+                  "lustro żak",
+                  "wyjście przed",
+                  "wstyd",
                   "szczęki",
-                  "luz"
+                  "luz",
+                  "faza w volvo",
+                  "brzuchy",
+                  "kontrola",
+                  "malowanie melodii",
+                  "wolność",
+                  "rytm",
+                  "harmonia"
                   ]
 
 function prevImage()
