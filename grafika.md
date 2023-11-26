@@ -4,7 +4,7 @@ title: fotografia
 permalink: /grafika/
 ---
 
-[f_muzyka]({{ site.baseurl }}/f_muzyka/)
+[małe preludia]({{ site.baseurl }}/f_muzyka/)
 
 # grafika
 
