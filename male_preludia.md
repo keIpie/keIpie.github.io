@@ -37,20 +37,20 @@ var image_list = ["{{ site.baseurl }}/images/muzyka/muzyka.jpg",
                   "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
                   "{{ site.baseurl }}/images/muzyka/dyptyk.jpg"
                   ]
-var text_list = [ "małe preludia",
-                  "zawias",
-                  "lustro żak",
+var text_list = [ "małe preludia - jasiek gra",
+                  "zawias - zardzewiały, zgrzyt, niedopasowanie",
+                  "lustro - walka ze sobą jak paweł żak",
                   "wyjście przed",
                   "wstyd",
-                  "szczęki",
-                  "luz",
-                  "faza w volvo",
-                  "brzuchy",
-                  "kontrola",
-                  "malowanie melodii",
-                  "wolność",
-                  "rytm",
-                  "harmonia"
+                  "szczęki - dyptyk",
+                  "luz - spływająca tkanina",
+                  "faza w volvo - wywalony język",
+                  "brzuchy - oddech, balon",
+                  "kontrola - mechanizm, koła zębate",
+                  "malowanie melodii - zabawa światłem",
+                  "wolność - taniec",
+                  "rytm - cztery zdjęcia, rzeczy w szeregu",
+                  "harmonia..."
                   ]
 
 function prevImage()
