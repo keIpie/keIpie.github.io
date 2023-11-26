@@ -98,6 +98,10 @@ szkice szkice
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/dobroduch.jpg" alt="dobro" style="width: 220px;"></div>
 
+
+## fotografia
+
+
 ### napisz
 
 [aleksandra.horubala@gmail.com](mailto:aleksandra.horubala@gmail.com)
