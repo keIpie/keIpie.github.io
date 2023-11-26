@@ -10,7 +10,7 @@ permalink: /f_muzyka/
   </div>
   <div style="flex: 0 0 60%;">
     <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/muzyka/muzyka.jpg" alt="ide" style="width: 80vw">
-    <input type="text" id="subtitle" style="text-align:center" value="małe preludia">
+    <p style="text-align:center" id="subtitle"> małe preludia </p>
   </div>
   <div style="flex: 0 0 20%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> 
     <span class="arrowhtml">&#8250;</span> </button>
@@ -41,8 +41,8 @@ function prevImage()
   else {
     index = index_no - 1;
   }
-  img.src   = image_list[index];
-  txt.value = text_list[index];
+  img.src         = image_list[index];
+  txt.textContent = text_list[index];
   return false;
 }
 
@@ -51,8 +51,8 @@ function nextImage()
   var img = document.getElementById("image");
   var txt = document.getElementById("subtitle");
   index = (index + 1) % index_no;
-  img.src   = image_list[index];
-  txt.value = text_list[index];
+  img.src         = image_list[index];
+  txt.textContent = text_list[index];
   return false;
 }
 
