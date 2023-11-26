@@ -1,8 +1,14 @@
 ---
 layout: page
-title: grafika
+title:
 permalink: /grafika/
 ---
+
+# fotografia
+
+[f_muzyka]({{ site.baseurl }}/f_muzyka/)
+
+# grafika
 
 szkice szkice
 
@@ -90,10 +96,6 @@ szkice szkice
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/dobroduch.jpg" alt="dobro" style="width: 220px;"></div>
 
-
-# fotografia
-
-[f_muzyka]({{ site.baseurl }}/f_muzyka/)
 
 ### napisz
 
