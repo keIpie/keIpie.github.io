@@ -70,14 +70,6 @@ szkice szkice
 <img src="{{ site.baseurl }}/images/encepence/tritor.jpg" alt="trirot" style="width: 170px;">
 <img src="{{ site.baseurl }}/images/encepence/donpedro.jpg" alt="donpedro" style="width: 170px;">
 
-#### Identyfikacja wizualna Eksperymentalnej Platrformy Walidacyjnej (EPW)
-
-####  [logo EPW - etap 1](https://keipie.github.io/epw/)
-
-####  [logo EPW - etap 2](https://keipie.github.io/epw2/)
-
-####  [identyfikcja EPW finalna](https://keipie.github.io/epw-identyfikacja-fin/)
-
 #### UWAGA IDĘ !!!
 
 [jak trzeba chodzić]({{ site.baseurl }}/uwagaide/)
@@ -99,7 +91,7 @@ szkice szkice
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/dobroduch.jpg" alt="dobro" style="width: 220px;"></div>
 
 
-## fotografia
+# fotografia
 
 [f_muzyka]({{ site.baseurl }}/f_muzyka/)
 
