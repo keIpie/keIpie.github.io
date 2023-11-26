@@ -5,9 +5,16 @@ permalink: /f_muzyka/
 ---
 
 <div style="text-align:center; display: flex;">
-  <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();" style="border: 0px; background-color:white;"> <span class="arrowhtml">&#8249;</span> </button> </div>
-  <div style="flex: 0 0 80%;"><img class="vertical-center" id="image" src="{{ site.baseurl }}/images/muzyka/muzyka.jpg" alt="ide" style="width: 80vw"></div>
-  <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> <span class="arrowhtml">&#8250;</span> </button></div>
+  <div style="flex: 0 0 20%;" class="vertical-center"><button onclick="prevImage();" style="border: 0px; background-color:white;"> 
+    <span class="arrowhtml">&#8249;</span> </button> 
+  </div>
+  <div style="flex: 0 0 60%;">
+    <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/muzyka/muzyka.jpg" alt="ide" style="width: 80vw">
+    <p style="text-align:center"> MAŁE PRELUDIA </p>
+  </div>
+  <div style="flex: 0 0 20%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> 
+    <span class="arrowhtml">&#8250;</span> </button>
+  </div>
 </div>
 
 
