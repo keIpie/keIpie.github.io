@@ -6,7 +6,7 @@ permalink: /f_muzyka/
 
 <div style="text-align:center; display: flex;">
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();" style="border: 0px; background-color:white;"> <span class="arrowhtml">&#8249;</span> </button> </div>
-  <div style="flex: 0 0 80%;"><img class="vertical-center" id="image" src="{{ site.baseurl }}/images/muzyka/muzyka.JPG" alt="ide" style="width: 80vw"></div>
+  <div style="flex: 0 0 80%;"><img class="vertical-center" id="image" src="{{ site.baseurl }}/images/muzyka/muzyka.jpg" alt="ide" style="width: 80vw"></div>
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> <span class="arrowhtml">&#8250;</span> </button></div>
 </div>
 
@@ -15,7 +15,7 @@ permalink: /f_muzyka/
 
 var index      = 0;
 var index_no   = 2;
-var image_list = ["{{ site.baseurl }}/images/muzyka/muzyka.JPG",
+var image_list = ["{{ site.baseurl }}/images/muzyka/muzyka.jpg",
                   "{{ site.baseurl }}/images/muzyka/luz.JPG"
                   ]
 
