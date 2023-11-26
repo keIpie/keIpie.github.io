@@ -21,7 +21,7 @@ permalink: /f_muzyka/
 <script>
 
 var index      = 0;
-var index_no   = 2;
+var index_no   = 3;
 var image_list = ["{{ site.baseurl }}/images/muzyka/muzyka.jpg",
                   "{{ site.baseurl }}/images/muzyka/dyptyk.jpg",
                   "{{ site.baseurl }}/images/muzyka/luz.JPG"
