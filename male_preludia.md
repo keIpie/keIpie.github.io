@@ -35,7 +35,7 @@ var image_list = ["{{ site.baseurl }}/images/muzyka/muzyka.jpg",
                   "{{ site.baseurl }}/images/muzyka/dyptyk.jpg",
                   "{{ site.baseurl }}/images/muzyka/luz.JPG",
                   "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
-                  "{{ site.baseurl }}/images/muzyka/dyptyk.jpg"
+                  "{{ site.baseurl }}/images/muzyka/harmonia.jpg"
                   ]
 var text_list = [ "małe preludia - jasiek gra",
                   "zawias - zardzewiały, zgrzyt, niedopasowanie",
