@@ -22,9 +22,9 @@ permalink: /male_preludia/
 
 var index      = 0;
 var index_no   = 14;
-var image_list = ["{{ site.baseurl }}/images/muzyka/muzyka.jpg",
-                  "{{ site.baseurl }}/images/muzyka/tablica-mini-2.JPG",
-                  "{{ site.baseurl }}/images/muzyka/luz.JPG",
+var image_list = ["{{ site.baseurl }}/images/muzyka/jas.JPG",
+                  "{{ site.baseurl }}/images/muzyka/zgrzyt-mini.JPG",
+                  "{{ site.baseurl }}/images/muzyka/tablica.JPG",
                   "{{ site.baseurl }}/images/muzyka/stopy.jpg",
                   "{{ site.baseurl }}/images/muzyka/dyptyk.jpg",
                   "{{ site.baseurl }}/images/muzyka/szczeka-mini.JPG",
@@ -32,16 +32,16 @@ var image_list = ["{{ site.baseurl }}/images/muzyka/muzyka.jpg",
                   "{{ site.baseurl }}/images/muzyka/volvo_spiew.JPG",
                   "{{ site.baseurl }}/images/muzyka/oddech.png",
                   "{{ site.baseurl }}/images/muzyka/nici.JPG",
-                  "{{ site.baseurl }}/images/muzyka/dyptyk.jpg",
+                  "{{ site.baseurl }}/images/muzyka/malowanie_palcem.JPG",
                   "{{ site.baseurl }}/images/muzyka/wolnosc.jpg",
                   "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
                   "{{ site.baseurl }}/images/muzyka/harmonia.jpg"
                   ]
 var text_list = [ "małe preludia - jasiek gra",
-                  "zawias - zardzewiały, zgrzyt, niedopasowanie",
-                  "lustro - walka ze sobą jak paweł żak",
+                  "zawias - zardzewiały, zgrzyt, niedopasowanie, wstyd",
+                  "poza umysłem",
                   "wyjście przed",
-                  "wstyd",
+                  "lustro - walka ze sobą jak paweł żak",
                   "szczęki - dyptyk",
                   "luz - spływająca tkanina",
                   "faza w volvo - wywalony język",
