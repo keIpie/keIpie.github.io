@@ -24,7 +24,7 @@ var index      = 0;
 var index_no   = 10;
 var image_list = ["{{ site.baseurl }}/images/muzyka/jas.JPG",
                   "{{ site.baseurl }}/images/muzyka/zgrzyt-mini.JPG",
-                  "{{ site.baseurl }}/images/muzyka/tablica.JPG",
+                  // "{{ site.baseurl }}/images/muzyka/tablica.JPG",
                   "{{ site.baseurl }}/images/muzyka/oddech.png",
                   "{{ site.baseurl }}/images/muzyka/szczeka-mini.JPG",
                   "{{ site.baseurl }}/images/muzyka/papieros2.JPG",
@@ -39,7 +39,7 @@ var image_list = ["{{ site.baseurl }}/images/muzyka/jas.JPG",
                   ]
 var text_list = [ "małe preludia - jasiek gra",
                   "zawias - zardzewiały, zgrzyt, niedopasowanie, wstyd",
-                  "poza umysłem",
+                  // "poza umysłem",
                   // "wyjście przed",
                   "musiałam sie nauczyć oddychać",
                   "musiałam się nauczyć odpuścić",
