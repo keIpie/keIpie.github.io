@@ -9,7 +9,7 @@ permalink: /male_preludia/
     <span class="arrowhtml">&#8249;</span> </button> 
   </div>
   <div style="flex: 0 0 60%;">
-    <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/muzyka/muzyka.jpg" alt="ide" style="width: 80vw">
+    <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/muzyka/jas.JPG" alt="ide" style="width: 80vw">
     <p style="text-align:center" id="subtitle"> małe preludia </p>
   </div>
   <div style="flex: 0 0 20%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> 
@@ -25,31 +25,31 @@ var index_no   = 14;
 var image_list = ["{{ site.baseurl }}/images/muzyka/jas.JPG",
                   "{{ site.baseurl }}/images/muzyka/zgrzyt-mini.JPG",
                   "{{ site.baseurl }}/images/muzyka/tablica.JPG",
-                  "{{ site.baseurl }}/images/muzyka/stopy.jpg",
-                  "{{ site.baseurl }}/images/muzyka/dyptyk.jpg",
+                  // "{{ site.baseurl }}/images/muzyka/stopy.jpg",
+                  // "{{ site.baseurl }}/images/muzyka/dyptyk.jpg",
                   "{{ site.baseurl }}/images/muzyka/oddech.png",
                   "{{ site.baseurl }}/images/muzyka/szczeka-mini.JPG",
                   "{{ site.baseurl }}/images/muzyka/volvo_spiew.JPG",
                   "{{ site.baseurl }}/images/muzyka/malowanie_palcem.JPG",
-                  "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
-                  "{{ site.baseurl }}/images/muzyka/nici.JPG",
-                  "{{ site.baseurl }}/images/muzyka/wolnosc.jpg",
-                  "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
+                  // "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
+                  // "{{ site.baseurl }}/images/muzyka/nici.JPG",
+                  // "{{ site.baseurl }}/images/muzyka/wolnosc.jpg",
+                  // "{ { site.baseurl }}/images/muzyka/muzyka.jpg",
                   "{{ site.baseurl }}/images/muzyka/harmonia.jpg"
                   ]
 var text_list = [ "małe preludia - jasiek gra",
                   "zawias - zardzewiały, zgrzyt, niedopasowanie, wstyd",
                   "poza umysłem",
-                  "wyjście przed",
-                  "lustro - walka ze sobą jak paweł żak",
+                  // "wyjście przed",
+                  // "lustro - walka ze sobą jak paweł żak",
                   "musiałam sie nauczyć oddychać",
                   "musiałam się nauczyć odpuścić",
                   "musiałam się nauczyć krzyczeć",
                   "żeby zaśpiewać melodię muszę ją narysować",
-                  "luz - spływająca tkanina",
-                  "kontrola - mechanizm, koła zębate",
-                  "wolność - taniec",
-                  "rytm - cztery zdjęcia, rzeczy w szeregu",
+                  // "luz - spływająca tkanina",
+                  // "kontrola - mechanizm, koła zębate",
+                  // "wolność - taniec",
+                  // "rytm - cztery zdjęcia, rzeczy w szeregu",
                   "harmonia..."
                   ]
 
