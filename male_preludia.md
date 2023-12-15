@@ -21,7 +21,7 @@ permalink: /male_preludia/
 <script>
 
 var index      = 0;
-var index_no   = 9;
+var index_no   = 10;
 var image_list = ["{{ site.baseurl }}/images/muzyka/jas.JPG",
                   "{{ site.baseurl }}/images/muzyka/zgrzyt-mini.JPG",
                   "{{ site.baseurl }}/images/muzyka/zawias.JPG",
@@ -30,7 +30,7 @@ var image_list = ["{{ site.baseurl }}/images/muzyka/jas.JPG",
                   "{{ site.baseurl }}/images/muzyka/papieros.JPG",
                   "{{ site.baseurl }}/images/muzyka/zalamka2.JPG",
                   "{{ site.baseurl }}/images/muzyka/volvo_spiew.JPG",
-                  "{{ site.baseurl }}/images/muzyka/malowanie_palcem.jpg",
+                  "{{ site.baseurl }}/images/muzyka/malowanie.JPG",
                   // "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
                   // "{{ site.baseurl }}/images/muzyka/nici.JPG",
                   // "{{ site.baseurl }}/images/muzyka/wolnosc.jpg",
