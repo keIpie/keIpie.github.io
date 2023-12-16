@@ -23,7 +23,7 @@ permalink: /male_preludia/
 var index      = 0;
 var index_no   = 10;
 var image_list = ["{{ site.baseurl }}/images/muzyka/jas.JPG",
-                  "{{ site.baseurl }}/images/muzyka/zgrzyt-mini.JPG",
+                  "{{ site.baseurl }}/images/muzyka/wstyd2.JPG",
                   "{{ site.baseurl }}/images/muzyka/zawias-piwnica.JPG",
                   "{{ site.baseurl }}/images/muzyka/oddech.jpg",
                   "{{ site.baseurl }}/images/muzyka/szczeka-mini.JPG",
