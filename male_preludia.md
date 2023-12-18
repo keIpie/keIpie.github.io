@@ -44,8 +44,8 @@ var text_list = [ "małe preludia",
                   "luźna szczęka",
                   "volvo",
                   // "muszę się nauczyć krzyczeć",
-                  "rytm",
                   "malowanie",
+                  "rytm",
                   "harmonia"
                   ]
 
