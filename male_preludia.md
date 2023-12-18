@@ -9,7 +9,7 @@ permalink: /male_preludia/
     <span class="arrowhtml">&#8249;</span> </button> 
   </div>
   <div style="flex: 0 0 60%;">
-    <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/muzyka/jas.JPG" alt="ide" style="width: 80vw">
+    <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/muzyka/1.jpg" alt="ide" style="width: 80vw">
     <p style="text-align:center" id="subtitle"> małe preludia </p>
   </div>
   <div style="flex: 0 0 20%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> 
