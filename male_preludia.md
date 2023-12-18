@@ -22,36 +22,31 @@ permalink: /male_preludia/
 
 var index      = 0;
 var index_no   = 10;
-var image_list = ["{{ site.baseurl }}/images/muzyka/jas.JPG",
-                  "{{ site.baseurl }}/images/muzyka/wstyd2.JPG",
-                  "{{ site.baseurl }}/images/muzyka/zawias-piwnica.JPG",
-                  "{{ site.baseurl }}/images/muzyka/oddech.jpg",
-                  "{{ site.baseurl }}/images/muzyka/szczeka-mini.JPG",
-                  "{{ site.baseurl }}/images/muzyka/papieros.JPG",
-                  "{{ site.baseurl }}/images/muzyka/zalamka2.JPG",
-                  "{{ site.baseurl }}/images/muzyka/volvo_spiew.JPG",
-                  "{{ site.baseurl }}/images/muzyka/malowanie_rytm.JPG",
-                  // "{{ site.baseurl }}/images/muzyka/muzyka.jpg",
-                  // "{{ site.baseurl }}/images/muzyka/nici.JPG",
-                  // "{{ site.baseurl }}/images/muzyka/wolnosc.jpg",
-                  // "{ { site.baseurl }}/images/muzyka/muzyka.jpg",
-                  "{{ site.baseurl }}/images/muzyka/harmonia.jpg"
+var image_list = ["{{ site.baseurl }}/images/muzyka/1.jpg",
+                  "{{ site.baseurl }}/images/muzyka/2.JPG",
+                  // "{{ site.baseurl }}/images/muzyka/3.",
+                  "{{ site.baseurl }}/images/muzyka/4.jpg",
+                  "{{ site.baseurl }}/images/muzyka/5.JPG",
+                  "{{ site.baseurl }}/images/muzyka/6.jpg",
+                  "{{ site.baseurl }}/images/muzyka/7.JPG",
+                  "{{ site.baseurl }}/images/muzyka/8.JPG",
+                  // "{{ site.baseurl }}/images/muzyka/9.JPG",
+                  "{{ site.baseurl }}/images/muzyka/10.jpg",
+                  "{{ site.baseurl }}/images/muzyka/11.jpg",
+                  "{{ site.baseurl }}/images/muzyka/12.jpg"
                   ]
 var text_list = [ "małe preludia",
-                  "zgrzyt, niedopasowanie, wstyd",
+                  "zgrzyt",
                   // "poza umysłem",
-                  "wejście",
-                  "muszę sie nauczyć oddychać",
-                  "muszę się nauczyć odpuścić",
-                  "wzloty",
-                  "i upadki",
-                  "muszę się nauczyć krzyczeć",
-                  "melodię muszę narysować",
-                  // "luz - spływająca tkanina",
-                  // "kontrola - mechanizm, koła zębate",
-                  // "wolność - taniec",
-                  // "rytm - cztery zdjęcia, rzeczy w szeregu",
-                  "harmonia..."
+                  "ja",
+                  "wyjście",
+                  "oddech",
+                  "luźna szczęka",
+                  "volvo",
+                  // "muszę się nauczyć krzyczeć",
+                  "rytm",
+                  "malowanie",
+                  "harmonia"
                   ]
 
 function prevImage()
