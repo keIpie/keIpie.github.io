@@ -6,6 +6,8 @@ permalink: /grafika/
 
 [małe preludia]({{ site.baseurl }}/male_preludia/)
 
+[15 lat]({{ site.baseurl }}/15_lat/)
+
 # grafika
 
 szkice szkice
