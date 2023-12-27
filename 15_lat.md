@@ -27,7 +27,7 @@ var index_no   = 2;
 var image_list = ["{{ site.baseurl }}/images/muzyka/1.jpg",
                   "{{ site.baseurl }}/images/muzyka/2.JPG",
                   ]
-var text_list = [ "małe preludia",
+var text_list = [ "małe preludia <br> małe preludia <br> małe preludia",
                   "zgrzyt",
                   ]
 
