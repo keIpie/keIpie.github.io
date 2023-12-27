@@ -27,9 +27,13 @@ var index_no   = 2;
 var image_list = ["{{ site.baseurl }}/images/muzyka/1.jpg",
                   "{{ site.baseurl }}/images/muzyka/2.JPG",
                   ]
-var text_list = [ "małe preludia <br> małe preludia <br> małe preludia",
+var text_list = [ "małe preludia \n małe preludia \n małe preludia",
                   "zgrzyt",
                   ]
+
+function formatTextWithLineBreaks(text) {
+    return text.replace(/\n/g, "<br>");
+}
 
 function prevImage()
 {
@@ -41,8 +45,8 @@ function prevImage()
   else {
     index = index_no - 1;
   }
-  img.src         = image_list[index];
-  txt.textContent = text_list[index];
+  img.src       = image_list[index];
+  txt.innerHTML = formatTextWithLineBreaks(text_list[index]);
   return false;
 }
 
@@ -52,7 +56,7 @@ function nextImage()
   var txt = document.getElementById("subtitle");
   index = (index + 1) % index_no;
   img.src         = image_list[index];
-  txt.textContent = text_list[index];
+  txt.innerHTML = formatTextWithLineBreaks(text_list[index]);
   return false;
 }
 
