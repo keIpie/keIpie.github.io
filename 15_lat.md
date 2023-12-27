@@ -1,7 +1,7 @@
 ---
 layout: draw
 title:
-permalink: /male_preludia/
+permalink: /15_lat/
 ---
 
 <div style="text-align:center; display: flex;">
