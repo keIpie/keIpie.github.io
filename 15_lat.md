@@ -23,32 +23,12 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 10;
+var index_no   = 2;
 var image_list = ["{{ site.baseurl }}/images/muzyka/1.jpg",
                   "{{ site.baseurl }}/images/muzyka/2.JPG",
-                  // "{{ site.baseurl }}/images/muzyka/3.",
-                  "{{ site.baseurl }}/images/muzyka/4.jpg",
-                  "{{ site.baseurl }}/images/muzyka/5.JPG",
-                  "{{ site.baseurl }}/images/muzyka/6.jpg",
-                  "{{ site.baseurl }}/images/muzyka/7.JPG",
-                  "{{ site.baseurl }}/images/muzyka/8.JPG",
-                  // "{{ site.baseurl }}/images/muzyka/9.JPG",
-                  "{{ site.baseurl }}/images/muzyka/10.jpg",
-                  "{{ site.baseurl }}/images/muzyka/11.jpg",
-                  "{{ site.baseurl }}/images/muzyka/12.jpg"
                   ]
 var text_list = [ "małe preludia",
                   "zgrzyt",
-                  // "poza umysłem",
-                  "ja",
-                  "wyjście",
-                  "oddech",
-                  "luźna szczęka",
-                  "volvo",
-                  // "muszę się nauczyć krzyczeć",
-                  "malowanie",
-                  "rytm",
-                  "harmonia"
                   ]
 
 function prevImage()
