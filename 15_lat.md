@@ -8,10 +8,10 @@ permalink: /15_lat/
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();" style="border: 0px; background-color:white;"> 
     <span class="arrowhtml">&#8249;</span> </button> 
   </div>
-  <div style="flex: 0 0 50%;">
+  <div id="div-img" style="flex: 0 0 50%;">
     <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg" alt="ide" style="width: 80vw">
   </div>
-  <div style="flex: 0 0 30%; align-items: center;">
+  <div id="div-txt" style="flex: 0 0 30%; align-items: center;">
     <p style="text-align:left; margin-left: 100px;" id="subtitle"> 27/12/2023 </p>
   </div>
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> 
@@ -62,13 +62,19 @@ function formatTextWithLineBreaks(text) {
 
 function prevImage()
 {
+  var divimg = document.getElementById("div-img");
+  var divtxt = document.getElementById("div-txt");
   var img = document.getElementById("image");
   var txt = document.getElementById("subtitle");
   if (index != 0) {
     index = (index - 1) % index_no;
+    divimg.style.flex = "0 0 50%";
+    divtxt.style.flex = "0 0 30%";
   }
   else {
     index = index_no - 1;
+    divimg.style.flex = "0 0 80%";
+    divtxt.style.flex = "0 0 0%";
   }
   img.src       = image_list[index];
   txt.innerHTML = formatTextWithLineBreaks(text_list[index]);
