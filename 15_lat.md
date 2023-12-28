@@ -23,7 +23,7 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 9;
+var index_no   = 10;
 var image_list = ["{{ site.baseurl }}/images/15_lat/2014/wilczyslad.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/aleakoncert.jpg",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
