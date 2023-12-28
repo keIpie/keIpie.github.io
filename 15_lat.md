@@ -23,7 +23,7 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 2;
+var index_no   = 4;
 var image_list = ["{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/czarny_pocisk.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/oddech.jpg",
