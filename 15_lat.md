@@ -4,7 +4,7 @@ title:
 permalink: /15_lat/
 ---
 
-<div style="text-align:center; display: flex; align-items: center;">
+<div style="text-align:left; display: flex; align-items: center;">
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();" style="border: 0px; background-color:white;"> 
     <span class="arrowhtml">&#8249;</span> </button> 
   </div>
