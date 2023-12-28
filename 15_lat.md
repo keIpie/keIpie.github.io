@@ -9,10 +9,10 @@ permalink: /15_lat/
     <span class="arrowhtml">&#8249;</span> </button> 
   </div>
   <div style="flex: 0 0 40%;">
-    <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/muzyka/1.jpg" alt="ide" style="width: 80vw">
+    <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg" alt="ide" style="width: 80vw">
   </div>
   <div style="flex: 0 0 40%;">
-    <p style="text-align:center" id="subtitle"> małe preludia </p>
+    <p style="text-align:center" id="subtitle"> 27/12/2023 </p>
   </div>
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> 
     <span class="arrowhtml">&#8250;</span> </button>
@@ -24,11 +24,11 @@ permalink: /15_lat/
 
 var index      = 0;
 var index_no   = 2;
-var image_list = ["{{ site.baseurl }}/images/muzyka/1.jpg",
-                  "{{ site.baseurl }}/images/muzyka/2.JPG",
+var image_list = ["{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2023/justken.jpg",
                   ]
-var text_list = [ "małe preludia \n małe preludia \n małe preludia",
-                  "zgrzyt",
+var text_list = [ "Your faith was strong but you needed proof \n You saw her bathing on the roof \n Her beauty in the moonlight overthrew you \n She tied you to a kitchen chair \n She broke your throne, and she cut your hair \n And from your lips she drew the Hallelujah",
+                  "I'm just Ken (and I'm enough) \n And I'm great at doing stuff \n So, hey, check me out, yeah, I'm just Ken \n My name's Ken (and so am I) \n Put that manly hand in mine \n So, hey, world, check me out, yeah, I'm just Ken \n",
                   ]
 
 function formatTextWithLineBreaks(text) {
