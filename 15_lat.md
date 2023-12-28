@@ -8,10 +8,10 @@ permalink: /15_lat/
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();" style="border: 0px; background-color:white;"> 
     <span class="arrowhtml">&#8249;</span> </button> 
   </div>
-  <div style="flex: 0 0 40%;">
+  <div style="flex: 0 0 50%;">
     <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg" alt="ide" style="width: 80vw">
   </div>
-  <div style="flex: 0 0 40%; align-items: center;">
+  <div style="flex: 0 0 30%; align-items: center;">
     <p style="text-align:left; margin-left: 100px;" id="subtitle"> 27/12/2023 </p>
   </div>
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> 
