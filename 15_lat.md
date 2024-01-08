@@ -27,6 +27,7 @@ var index      = 0;
 var index_no   = 54;
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
+
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
                   "{{ site.baseurl }}/images/15_lat/2014/wymyslilam.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/blue_jeans.png",
@@ -87,13 +88,14 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2023/oddech.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/justken.jpg",
                   ]
+
 var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   
                   "Na szarość naszych nocy \n na naszą bezimienność \n na szarość i nijakość \n jutrzejszych naszych marzeń \n na twarzy przezroczystość \n na twarze bez wyrazu \n na nasze oddalenie \n na naszą nieobecność \n i rozmów obojętność \n listek iskierkę cieni \n jak kotwicę \n wbij w nasze serce \n\n Deskurów, maj 2014",
                   "Dzisiaj nagle wymyśliłem Ciebie \n Twoje imię zadźwięczało we mnie \n Choć tyle innych jest \n Znam tylko jego dźwięk \n\n Błota Karwieńskie, sierpień 2014",
                   "Blue jeans, white shirt \n Walked into the room \n you know you made my eyes burn \n It was like James Dean, for sure \n You so fresh to death and sick as ca-cancer \n You were sorta punk rock, I grew up on hip hop \n But you fit me better than my favorite sweater, and I know \n That love is mean, and love hurts \n But I still remember that day we met in December, oh baby \n\n Ursynów 2014", 
                   "Rozpierdoliłaś mi wakacje \n Na dworcu stoję sam \n\n Warszawa-Bieszczady, wrzesień 2014",
-                  "Far Over the Misty Mountains Cold \n To Dungeons Deep and Caverns Old \n We must away ere break of day \n To find our long-forgotten gold \n\n The Pines were Roaring on The Heights \n The Winds were Moaning in the Night \n The Fire was Red, it Flaming Spread \n The Trees Like Torches Blazed with Light",
+                  "Far Over the Misty Mountains Cold \n To Dungeons Deep and Caverns Old \n We must away ere break of day \n To find our long-forgotten gold \n\n The Pines were Roaring on The Heights \n The Winds were Moaning in the Night \n The Fire was Red, it Flaming Spread \n The Trees Like Torches Blazed with Light \n\n Bieszczady, wrzesień 2014",
                   "Za wilczym śladem podążę w zamieć \n I twoje serce wytropię uparte \n Przez gniew i smutek, stwardniałe w kamień \n Rozpalę usta     smagane wiatrem \n\n Bieszczady, wrzesień 2014",
                   "A śnieg biały błyska pod czarnymi kołami \n Tu czas odmierzamy pustymi flaszkami \n Dla ludzi umarłych już nie ma zbawienia \n Pod stalowym niebem nic się nie zmienia \n\n 2 koła, listopad 2014",
                   
@@ -120,14 +122,14 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "I’m on a boat! \n I’m on a boat! \n Everybody look at me \n cause I’m sailing on a boat! \n\n Giżycko, styczeń 2017",
                   "A kiedy przyjdzie także po mnie \n Zegarmistrz światła purpurowy \n By mi zabełtać błękit w głowie \n To będę jasny i gotowy \n\n Lwów, maj 2017",
                   "Z jakiegoś okna leci fu-gee-la-la \n widać że płynie ostatni letni balet \n zniknięty wieczór zniknięte słowa \n zniknięty facet \n\n Idę przez osiedle jak przez tren \n Ostatni Dzień Sierpnia roztapia się \n W windzie pachnie mokrym psem \n patrzę w lustro w którym nie odbijam się \n jest mnie za mało na lustra \n\n Czerniaków, Bernardyńska Woda, czerwiec 2017",
-                  "Kiedy przypłynie perłowa łódź \n Jak o tym śpiewa serce \n Ja Cię zawołam na cały głos \n Nie nie opuszczaj mnie już więcej \n\n Służew, 17.09.2017"
+                  "Kiedy przypłynie perłowa łódź \n Jak o tym śpiewa serce \n Ja Cię zawołam na cały głos \n Nie nie opuszczaj mnie już więcej \n\n Służew, 17.09.2017",
                   "Zaopiekuj się mną \n Nawet, gdy powodów brak! \n Zaopiekuj się mną, \n Mocno tak! \n\n I prawie kochasz mnie \n I jesteś obok! \n Już nienawidzę Cię, \n Tak kolorową! \n\n Portugalia, lipiec 2017",
                   "Ja opuszczam Gotham z Kobietą Kotem! \n\n mój pojazd rdzewieje na parkingu \n mój kostium mam w walizce, nie użyję go nigdy \n\n tak bardzo chciałem żeby przetrwało \n a teraz już mi się nie chce \n i niech to miasto sczeźnie \n'n Warszawa, sierpień 2017",
                   
                   "Ohhh, I can't quit you, baby, So I'm gonna put you down for awhile! - 2018",
                   "Omen piekieł kierował \n Twoim statkiem na ten brzeg \n Ojciec mówił mi córko \n Upij w sztok, a poznasz go \n Słowo rzekł się \n Będziesz dzieci mieć \n Czy pamiętasz z kim i gdzie? \n\n La Pared, styczeń 2018",
                   "Tell your heart that I'm the one \n Tell your heart it's me \n I want you \n Rockin' back inside my heart \n I want you \n Rockin' back inside my heart \n Rockin' back inside my heart \n Shadow in my house \n The man he has brown eyes \n She'll never go to Hollywood \n Love moves me \n'n Fuerta, styczeń 2018",
-                  "Wybacz proszę, \n Gdy się tak uśmiecham \ n Wybacz proszę \n Lecz nie na to czekam \n\n Wszystko czego dzis chce, \n Pamietaj o tym \n Polecieć chcę \n Tam i z powrotem \n Z ramion twych wprost \n Do nieba, do nieba \n\n Nowy York, kwiecień 2018"
+                  "Wybacz proszę, \n Gdy się tak uśmiecham \ n Wybacz proszę \n Lecz nie na to czekam \n\n Wszystko czego dzis chce, \n Pamietaj o tym \n Polecieć chcę \n Tam i z powrotem \n Z ramion twych wprost \n Do nieba, do nieba \n\n Nowy York, kwiecień 2018",
                   "\n\n Szpital Św. Zofii, czerwiec 2018",
                   "You told me once I have a rebel heart \n I don't know if that's true \n But I believe you saw something in me that lives inside you too \n Now all I hear is the wind \n There's a storm coming through \n Did I misplace or forsake my love \n Now that I gave it to you? \n\n Stróża, sierpien 2018",
                   "Nic nie mam \n Zdmuchnęła mnie ta jesień całkiem \n Nawet nie wiem \n Jak tam sprawy za lasem \n Rano wstaję, poemat chwalę \n Biorę się za słowo jak za chleb \n\n Rzeczywiście tak jak księżyc \n Ludzie znają mnie tylko z jednej \n Jesiennej strony \n\n Dziekanów Polski, wrzesień 2018",
