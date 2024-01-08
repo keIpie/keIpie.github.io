@@ -8,11 +8,12 @@ permalink: /15_lat/
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();" style="border: 0px; background-color:white;"> 
     <span class="arrowhtml">&#8249;</span> </button> 
   </div>
-  <div id="div-img" style="flex: 0 0 50%;">
+  <div id="div-img" style="flex: 0 0 80%;">
     <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg" alt="ide" style="width: 80vw">
+    <p style="text-align:center" id="year-sub"> 2019 </p>
   </div>
-  <div id="div-txt" style="flex: 0 0 30%; align-items: center;">
-    <p style="text-align:left; margin-left: 100px;" id="subtitle"> 27/12/2023 </p>
+  <div id="div-txt" style="flex: 0 0 0%; align-items: center;">
+    <p style="text-align:left; margin-left: 100px;" id="subtitle"> "" </p>
   </div>
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> 
     <span class="arrowhtml">&#8250;</span> </button>
@@ -23,8 +24,9 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 14;
+var index_no   = 15;
 var image_list = [
+                  "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
                   "{{ site.baseurl }}/images/15_lat/2014/wymyslilam.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/rozpierdolilas.JPG",
@@ -40,7 +42,8 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2023/oddech.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/justken.jpg",
                   ]
-var text_list = [ "\n\n Deskurów, maj 2014",
+var text_list = [ "2014",
+                  "\n\n Deskurów, maj 2014",
                   "Dzisiaj nagle wymyśliłem Ciebie \n Twoje imię zadźwięczało we mnie \n Choć tyle innych jest \n Znam tylko jego dźwięk \n\n Błota Karwieńskie, sierpień 2014",
                   "Rozpierdoliłaś mi wakacje \n Na dworcu stoję sam \n\n Warszawa-Bieszczady, wrzesień 2014",
                   "Za wilczym śladem podążę w zamieć \n I twoje serce wytropię uparte \n Przez gniew i smutek, stwardniałe w kamień \n Rozpalę usta     smagane wiatrem \n\n Bieszczady, wrzesień 2014",
@@ -62,23 +65,28 @@ function formatTextWithLineBreaks(text) {
 
 function prevImage()
 {
-  var divimg = document.getElementById("div-img");
-  var divtxt = document.getElementById("div-txt");
-  var img = document.getElementById("image");
-  var txt = document.getElementById("subtitle");
+  var divimg  = document.getElementById("div-img");
+  var divtxt  = document.getElementById("div-txt");
+  var img     = document.getElementById("image");
+  var txt     = document.getElementById("subtitle");
+  var yeartxt = document.getElementById("year-sub");
+
   if (index != 0) {
-    index = (index - 1) % index_no;
+    index             = (index - 1) % index_no;
     divimg.style.flex = "0 0 50%";
     divtxt.style.flex = "0 0 30%";
-    txt.innerHTML = formatTextWithLineBreaks(text_list[index]);
+    img.src           = image_list[index];
+    txt.innerHTML     = formatTextWithLineBreaks(text_list[index]);
+    yeartxt           = "";
   }
   else {
-    index = index_no - 1;
+    index             = index_no - 1;
     divimg.style.flex = "0 0 70%";
     divtxt.style.flex = "0 0 0%";
-    txt.innerHTML = "";
+    img.src           = image_list[index];
+    txt.innerHTML     = "";
+    yeartxt           = text_list[index];
   }
-  img.src       = image_list[index];
   return false;
 }
 
