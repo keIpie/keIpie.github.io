@@ -25,7 +25,7 @@ permalink: /15_lat/
 
 var index      = 0;
 var index_no   = 57;
-let array      = [0, 8, 16, 25, 32, 41, 44, 52];
+var array      = [0, 8, 16, 25, 32, 41, 44, 52];
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
