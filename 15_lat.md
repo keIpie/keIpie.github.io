@@ -24,7 +24,7 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var array      = [0, 8, 16, 25, 32, 41, 44, 52];
+var array      = [0, 8, 16, 25, 32, 41, 45, 54];
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
@@ -81,9 +81,14 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2019/call.jpg",
                   "{{ site.baseurl }}/images/15_lat/2019/palma.jpg",
 
+                  "{{ site.baseurl }}/images/15_lat/2020/like_a_bird.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2020/fuerta.jpg",
+
                   "{{ site.baseurl }}/images/15_lat/2021/30stka.JPG",
                   "{{ site.baseurl }}/images/15_lat/2021/brzuch.jpg",
                   "{{ site.baseurl }}/images/15_lat/2021/chleb.jpg",
+
+                  "{{ site.baseurl }}/images/15_lat/2022/chmurko.JPG",
 
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
@@ -148,9 +153,14 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "For now I need your hidden love \n I'm cold as a new razor blade \n You left when I told you I was curious \n I never said that I was brave \n\n Oh so long, Marianne, it's time that we began \n to laugh and cry and cry and laugh about it all again \n\n Warszawa / Las Palmas, listopad 2019",
                   "\n\n Legionowo, listopad 2019",
 
+                  "Like a bird on a wire \n Like a drunk in a midnight choir \n I have tried in my way to be free \n\n Sopot, luty 2020,
+                  "\n\n Fuerta, listopad 2020",
+
                   "2021",
                   "\n\n Deski, czerwiec 2021",
                   "Z wielu pieców się jadło chleb \n Bo od lat przyglądam się światu \n Nieraz rano zabolał łeb \n I mówili zmiana klimatu \n Czasem trafił się wielki raut \n Albo feta proletariatu \n Czasem podróż w najlepszym z aut \n Częściej szare drogi powiatu \n\n Cafe Atlantis, październik 2021",
+
+                  "Chmurko, jesteś różowa \n przypominam sobie \n twarze współuczniów \n współwięźniów \n współżołnierzy \n wszystkie były tępe i wyrażały tylko jedno \n moja twarz była w tym wszystkim najstraszniejsza \n bo moja \n Chmurko, niebieskie niebo \n Chmurko, niebieskie niebo \n\n Madera, marzec 2022",
 
                   "2023",
                   "Your faith was strong but you needed proof \n You saw her bathing on the roof \n Her beauty in the moonlight overthrew you \n She tied you to a kitchen chair \n She broke your throne, and she cut your hair \n And from your lips she drew the Hallelujah \n\n Sycylia, wrzesień 2023",
