@@ -132,7 +132,7 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "You told me once I have a rebel heart \n I don't know if that's true \n But I believe you saw something in me that lives inside you too \n Now all I hear is the wind \n There's a storm coming through \n Did I misplace or forsake my love \n Now that I gave it to you? \n\n Stróża, sierpien 2018",
                   "Nic nie mam \n Zdmuchnęła mnie ta jesień całkiem \n Nawet nie wiem \n Jak tam sprawy za lasem \n Rano wstaję, poemat chwalę \n Biorę się za słowo jak za chleb \n\n Rzeczywiście tak jak księżyc \n Ludzie znają mnie tylko z jednej \n Jesiennej strony \n\n Dziekanów Polski, wrzesień 2018",
                   "Oto święty szczyt \n Jestem tutaj z nim \n Patrzę stąd na Babiloon \n Patrzę stąd na Babiloon \n Hej panie zły, jak się pan ma? \nJak tam pana gra? \n Nie nie nie nie nie nie nie nie tak \n\n Gran Canaria, grudzień 2018",
-                  "Ta, nowa rana, ten sam szpital \n Doktor, nic nie pytaj, tylko zszyj tu i zszyj tam \n Ty, chwilka, pęka stów kilka \n Jesteś w moich winklach, to mój squat, park  i drink bar \n Miasto żyje we mnie, we mnie zdycha \n Grzechem stracić jest spryt, nie te brednie, że pycha \n\n Las Palmas, grudzień 2018"
+                  "Ta, nowa rana, ten sam szpital \n Doktor, nic nie pytaj, tylko zszyj tu i zszyj tam \n Ty, chwilka, pęka stów kilka \n Jesteś w moich winklach, to mój squat, park  i drink bar \n Miasto żyje we mnie, we mnie zdycha \n Grzechem stracić jest spryt, nie te brednie, że pycha \n\n Las Palmas, grudzień 2018",
 
                   "Jerusalem! - 2019",
                   "\n\n Jezioro Garda, maj 2019",
