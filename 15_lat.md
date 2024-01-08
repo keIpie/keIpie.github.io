@@ -164,21 +164,21 @@ function prevImage()
   var txt     = document.getElementById("subtitle");
   var yeartxt = document.getElementById("year-sub");
 
-  if (index != 1) {
-    index             = (index - 1) % index_no;
-    divimg.style.flex = "0 0 50%";
-    divtxt.style.flex = "0 0 30%";
-    img.src           = image_list[index];
-    txt.innerHTML     = formatTextWithLineBreaks(text_list[index]);
-    yeartxt.innerHTML = "";
-  }
-  else {
-    index             = (index - 1) % index_no;
+  index = (index - 1) % index_no;
+  
+  if array.includes(index) {
     divimg.style.flex = "0 0 70%";
     divtxt.style.flex = "0 0 0%";
     img.src           = image_list[index];
     txt.innerHTML     = "";
     yeartxt.innerHTML = text_list[index];
+  }
+  else {
+    divimg.style.flex = "0 0 50%";
+    divtxt.style.flex = "0 0 30%";
+    img.src           = image_list[index];
+    txt.innerHTML     = formatTextWithLineBreaks(text_list[index]);
+    yeartxt.innerHTML = "";
   }
   return false;
 }
@@ -190,22 +190,22 @@ function nextImage()
   var img     = document.getElementById("image");
   var txt     = document.getElementById("subtitle");
   var yeartxt = document.getElementById("year-sub");
+  
+  index = (index + 1) % index_no;
 
-  if (index != (index_no-1)) {
-    index             = (index + 1) % index_no;
-    divimg.style.flex = "0 0 50%";
-    divtxt.style.flex = "0 0 30%";
-    img.src           = image_list[index];
-    txt.innerHTML     = formatTextWithLineBreaks(text_list[index]);
-    yeartxt.innerHTML = "";
-  }
-  else {
-    index             = (index + 1) % index_no;
+  if array.includes(index) {
     divimg.style.flex = "0 0 70%";
     divtxt.style.flex = "0 0 0%";
     img.src           = image_list[index];
     txt.innerHTML     = "";
     yeartxt.innerHTML = text_list[index];
+  }
+  else {
+    divimg.style.flex = "0 0 50%";
+    divtxt.style.flex = "0 0 30%";
+    img.src           = image_list[index];
+    txt.innerHTML     = formatTextWithLineBreaks(text_list[index]);
+    yeartxt.innerHTML = "";
   }
   return false;
 }
