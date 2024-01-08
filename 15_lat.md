@@ -24,8 +24,9 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 24;
+var index_no   = 25;
 var image_list = [
+                  "{{ site.baseurl }}/images/15_lat/just_watch.png",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
                   "{{ site.baseurl }}/images/15_lat/2014/wymyslilam.JPG",
@@ -51,7 +52,8 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2023/oddech.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/justken.jpg",
                   ]
-var text_list = [ "2014",
+var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
+                  "2014",
                   "Na szarość naszych nocy \n na naszą bezimienność \n na szarość i nijakość \n jutrzejszych naszych marzeń \n na twarzy przezroczystość \n na twarze bez wyrazu \n na nasze oddalenie \n na naszą nieobecność \n i rozmów obojętność \n listek iskierkę cieni \n jak kotwicę \n wbij w nasze serce \n\n Deskurów, maj 2014",
                   "Dzisiaj nagle wymyśliłem Ciebie \n Twoje imię zadźwięczało we mnie \n Choć tyle innych jest \n Znam tylko jego dźwięk \n\n Błota Karwieńskie, sierpień 2014",
                   "Rozpierdoliłaś mi wakacje \n Na dworcu stoję sam \n\n Warszawa-Bieszczady, wrzesień 2014",
