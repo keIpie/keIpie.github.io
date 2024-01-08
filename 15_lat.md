@@ -27,11 +27,12 @@ var index      = 0;
 var index_no   = 25;
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
-                  "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
                   "{{ site.baseurl }}/images/15_lat/2014/wymyslilam.JPG",
+                  "{{ site.baseurl }}/images/15_lat/2014/blue_jeans.png",
                   "{{ site.baseurl }}/images/15_lat/2014/rozpierdolilas.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/wilczyslad.JPG",
+                  "{{ site.baseurl }}/images/15_lat/2014/misty.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/aleakoncert.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2015/piano.JPG",
@@ -53,10 +54,11 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2023/justken.jpg",
                   ]
 var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
-                  "2014",
                   "Na szarość naszych nocy \n na naszą bezimienność \n na szarość i nijakość \n jutrzejszych naszych marzeń \n na twarzy przezroczystość \n na twarze bez wyrazu \n na nasze oddalenie \n na naszą nieobecność \n i rozmów obojętność \n listek iskierkę cieni \n jak kotwicę \n wbij w nasze serce \n\n Deskurów, maj 2014",
                   "Dzisiaj nagle wymyśliłem Ciebie \n Twoje imię zadźwięczało we mnie \n Choć tyle innych jest \n Znam tylko jego dźwięk \n\n Błota Karwieńskie, sierpień 2014",
+                  "Blue jeans, white shirt \n Walked into the room you know you made my eyes burn \n It was like James Dean, for sure \n You so fresh to death and sick as ca-cancer \n You were sorta punk rock, I grew up on hip hop \n But you fit me better than my favorite sweater, and I know \n That love is mean, and love hurts \n But I still remember that day we met in December, oh baby \n\n Ursynów 2014", 
                   "Rozpierdoliłaś mi wakacje \n Na dworcu stoję sam \n\n Warszawa-Bieszczady, wrzesień 2014",
+                  "Far Over the Misty Mountains Cold \n To Dungeons Deep and Caverns Old \n We must away ere break of day \n To find our long-forgotten gold \n\n The Pines were Roaring on The Heights \n The Winds were Moaning in the Night \n The Fire was Red, it Flaming Spread \n The Trees Like Torches Blazed with Light",
                   "Za wilczym śladem podążę w zamieć \n I twoje serce wytropię uparte \n Przez gniew i smutek, stwardniałe w kamień \n Rozpalę usta     smagane wiatrem \n\n Bieszczady, wrzesień 2014",
                   "A śnieg biały błyska pod czarnymi kołami \n Tu czas odmierzamy pustymi flaszkami \n Dla ludzi umarłych już nie ma zbawienia \n Pod stalowym niebem nic się nie zmienia \n\n 2 koła, listopad 2014",
                   "2015",
