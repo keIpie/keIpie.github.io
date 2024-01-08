@@ -24,7 +24,7 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 30;
+var index_no   = 31;
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
@@ -43,6 +43,7 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2015/mnm-luzna.jpg",
                   "{{ site.baseurl }}/images/15_lat/2015/mimuw.png",
                   "{{ site.baseurl }}/images/15_lat/2016/przepasc.png",
+                  "{{ site.baseurl }}/images/15_lat/2016/bistro.png",
                   "{{ site.baseurl }}/images/15_lat/2016/czarna_hancza.JPG",
                   "{{ site.baseurl }}/images/15_lat/2016/srebrzy.JPG",
                   "{{ site.baseurl }}/images/15_lat/2016/czolg.JPG",
@@ -78,6 +79,7 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "Automaty liczą, liczą, liczą \n Liczą cały czas \n Automaty liczą na człowieka \n Automaty liczą, programują, odgarniają śnieg \n Liczną liczbą liczą obliczenia, \n Automaty, liczą, mylą się, a powinny nie \n Automaty automatyzują \n Automaty szybko niszczą się \n Ale znowu się reprodukują \n (...) \n Wielkie automaty liczą nas, segregują nas, \n Małych ludzi, co je obsługują, \n Wykonują rzędy długich liczb, \n Niewiadomych liczb, \n Oznaczają nas symbolem x \n\n MIMUW, wrzesień 2015",
 
                   "Możesz słuchać plusku wody, możesz zostać z nią do rana - 2016",
+                  "Nie pasuję do tego miejsca \n Tutaj siedzi liga pierwsza \n I choć miłość najważniejsza \n Nie zbliża mnie do zwycięstwa \n\n Sopot, 26.05.2016",
                   "Reggae reggae reggae bieszczadzkie \n Reggae reggae reggae \n Słońcem pachnące ma jagód smak \n Reggae reggae reggae bieszczadzkie \n Reggae reggae reggae \n Jak potok rwące przed siebie gna \n\n Czarna Hańcza, lipiec 2016",
                   "Dziewczyny szare, płaskie jak filc \n Słuchają pustych słów \n Poprzez tysiące mroźnych mil \n Srebrzy im piersi nów \n A jak majowy dzwon na dnie \n Gdy zatopiony w drzwi \n Tak w piersiach serca tłuką się \n Serca koloru krwi \n\n Rodonit, sierpień 2016",
                   "Wszyscy z drogi idę jak czołg \n To miasto będzie dziś zdobyte \n Poddajcie się! Poddajcie się! Dziewczyny też \n Kto nie jest ze mną na przeciwko jest \n Tu będzie bal, tu będzie bal, czy chcesz czy nie\n\n Tirana, sierpień 2016",
