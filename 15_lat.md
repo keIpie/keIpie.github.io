@@ -8,7 +8,7 @@ permalink: /15_lat/
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="prevImage();" style="border: 0px; background-color:white;"> 
     <span class="arrowhtml">&#8249;</span> </button> 
   </div>
-  <div id="div-img" style="flex: 0 0 80%;">
+  <div id="div-img" style="flex: 0 0 70%;">
     <img class="vertical-center" id="image" src="{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg" alt="ide" style="width: 80vw">
     <p style="text-align:center" id="year-sub"> 2019 </p>
   </div>
