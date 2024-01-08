@@ -24,7 +24,7 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 18;
+var index_no   = 22;
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
@@ -35,12 +35,14 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2015/piano.JPG",
                   "{{ site.baseurl }}/images/15_lat/2015/jaskolka.JPG",
-                  {{ site.baseurl }}/images/15_lat/2023/overthrown.jpg","
+                  "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2016/czarna_hancza.JPG",
                   "{{ site.baseurl }}/images/15_lat/2016/srebrzy.JPG",
                   "{{ site.baseurl }}/images/15_lat/2016/czolg.JPG",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2017/portugalia.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2018/szpital.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/czarny_pocisk.jpg",
@@ -62,6 +64,8 @@ var text_list = [ "2014",
                   "Wszyscy z drogi idę jak czołg \n To miasto będzie dziś zdobyte \n Poddajcie się! Poddajcie się! Dziewczyny też \n Kto nie jest ze mną na przeciwko jest \n Tu będzie bal, tu będzie bal, czy chcesz czy nie\n\n Tirana, sierpień 2016",
                   "2017",
                   "Zaopiekuj się mną \n Nawet, gdy powodów brak! \n Zaopiekuj się mną, \n Mocno tak! \n\n I prawie kochasz mnie \n I jesteś obok! \n Już nienawidzę Cię, \n Tak kolorową! \n\n Portugalia, lipiec 2017",
+                  "2018",
+                  "\n\n Szpital Św. Zofii, czerwiec 2018",
                   "2023",
                   "Your faith was strong but you needed proof \n You saw her bathing on the roof \n Her beauty in the moonlight overthrew you \n She tied you to a kitchen chair \n She broke your throne, and she cut your hair \n And from your lips she drew the Hallelujah \n\n Sycylia, wrzesień 2023",
                   "Mówią na niego Czarny Pocisk \n On samochodem mknie \n W czyste białe światło \n Nucąc rzewną pieśń \n Nie wołaj nie zaklinaj \n Nie usłyszy nic \n Tu nie miał nigdy domu i każdy z niego drwi \n\n Sycylia, wrzesień 2023",
@@ -108,7 +112,7 @@ function nextImage()
   var txt     = document.getElementById("subtitle");
   var yeartxt = document.getElementById("year-sub");
 
-  if (index != (index_no-1))) {
+  if (index != (index_no-1)) {
     index             = index + 1;
     divimg.style.flex = "0 0 50%";
     divtxt.style.flex = "0 0 30%";
