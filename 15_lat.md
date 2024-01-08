@@ -24,7 +24,6 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 57;
 var array      = [0, 8, 16, 25, 32, 41, 44, 52];
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
@@ -128,11 +127,11 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "Z jakiegoś okna leci fu-gee-la-la \n widać że płynie ostatni letni balet \n zniknięty wieczór zniknięte słowa \n zniknięty facet \n\n Idę przez osiedle jak przez tren \n Ostatni Dzień Sierpnia roztapia się \n W windzie pachnie mokrym psem \n patrzę w lustro w którym nie odbijam się \n jest mnie za mało na lustra \n\n Czerniaków, Bernardyńska Woda, czerwiec 2017",
                   "Kiedy przypłynie perłowa łódź \n Jak o tym śpiewa serce \n Ja Cię zawołam na cały głos \n Nie nie opuszczaj mnie już więcej \n\n Służew, 17.09.2017",
                   "Zaopiekuj się mną \n Nawet, gdy powodów brak! \n Zaopiekuj się mną, \n Mocno tak! \n\n I prawie kochasz mnie \n I jesteś obok! \n Już nienawidzę Cię, \n Tak kolorową! \n\n Portugalia, lipiec 2017",
-                  "Ja opuszczam Gotham z Kobietą Kotem! \n\n mój pojazd rdzewieje na parkingu \n mój kostium mam w walizce, nie użyję go nigdy \n\n tak bardzo chciałem żeby przetrwało \n a teraz już mi się nie chce \n i niech to miasto sczeźnie \n'n Warszawa, sierpień 2017",
+                  "Ja opuszczam Gotham z Kobietą Kotem! \n\n Mój pojazd rdzewieje na parkingu \n Mój kostium mam w walizce, nie użyję go nigdy \n\n Tak bardzo chciałem żeby przetrwało \n A teraz już mi się nie chce \n I niech to miasto sczeźnie \n\n Warszawa, sierpień 2017",
                   
                   "Ohhh, I can't quit you, baby, So I'm gonna put you down for awhile! - 2018",
-                  "Omen piekieł kierował \n Twoim statkiem na ten brzeg \n Ojciec mówił mi córko \n Upij w sztok, a poznasz go \n Słowo rzekł się \n Będziesz dzieci mieć \n Czy pamiętasz z kim i gdzie? \n\n La Pared, styczeń 2018",
-                  "Tell your heart that I'm the one \n Tell your heart it's me \n I want you \n Rockin' back inside my heart \n I want you \n Rockin' back inside my heart \n Rockin' back inside my heart \n Shadow in my house \n The man he has brown eyes \n She'll never go to Hollywood \n Love moves me \n'n Fuerta, styczeń 2018",
+                  "Omen piekieł kierował \n Twoim statkiem na ten brzeg \n Ojciec mówił mi córko \n Upij w sztok, a poznasz go \n Słowo rzekło się \n Będziesz dzieci mieć \n Czy pamiętasz z kim i gdzie? \n\n La Pared, styczeń 2018",
+                  "Tell your heart that I'm the one \n Tell your heart it's me \n I want you \n Rockin' back inside my heart \n I want you \n Rockin' back inside my heart \n Rockin' back inside my heart \n Shadow in my house \n The man he has brown eyes \n She'll never go to Hollywood \n Love moves me \n\n Fuerta, styczeń 2018",
                   "Wybacz proszę, \n Gdy się tak uśmiecham \n Wybacz proszę \n Lecz nie na to czekam \n\n Wszystko czego dzis chce, \n Pamietaj o tym \n Polecieć chcę \n Tam i z powrotem \n Z ramion twych wprost \n Do nieba, do nieba \n\n Nowy York, kwiecień 2018",
                   "\n\n Szpital Św. Zofii, czerwiec 2018",
                   "You told me once I have a rebel heart \n I don't know if that's true \n But I believe you saw something in me that lives inside you too \n Now all I hear is the wind \n There's a storm coming through \n Did I misplace or forsake my love \n Now that I gave it to you? \n\n Stróża, sierpien 2018",
@@ -146,12 +145,12 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "\n\n Warszawa, czerwiec 2019",
                   "\n\n Warszawa, lipiec 2019",
                   "\n\n Jezioro Genezaret, wrzesień 2019",
-                  "For now I need your hidden love \n I'm cold as a new razor blade \n You left when I told you I was curious \m I never said that I was brave \n Oh so long, Marianne, it's time that we began \n to laugh and cry and cry and laugh about it all again \n\n Warszawa / Las Palmas, listopad 2019",
+                  "For now I need your hidden love \n I'm cold as a new razor blade \n You left when I told you I was curious \n I never said that I was brave \n\n Oh so long, Marianne, it's time that we began \n to laugh and cry and cry and laugh about it all again \n\n Warszawa / Las Palmas, listopad 2019",
                   "\n\n Legionowo, listopad 2019",
 
                   "2021",
                   "\n\n Deski, czerwiec 2021",
-                  "Z wielu pieców się jadło chleb \n Bo od lat przyglądam się światu \n Nieraz rano zabolał łeb \n I mówili zmiana klimatu \n Czasem trafił się wielki raut \n Albo feta proletariatu \n Czasem podróż w najlepszym z aut \n Częściej szare drogi powiatu \n\n Cafe Atlantis, pażdziernik 2021",
+                  "Z wielu pieców się jadło chleb \n Bo od lat przyglądam się światu \n Nieraz rano zabolał łeb \n I mówili zmiana klimatu \n Czasem trafił się wielki raut \n Albo feta proletariatu \n Czasem podróż w najlepszym z aut \n Częściej szare drogi powiatu \n\n Cafe Atlantis, październik 2021",
 
                   "2023",
                   "Your faith was strong but you needed proof \n You saw her bathing on the roof \n Her beauty in the moonlight overthrew you \n She tied you to a kitchen chair \n She broke your throne, and she cut your hair \n And from your lips she drew the Hallelujah \n\n Sycylia, wrzesień 2023",
@@ -159,6 +158,8 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "Jeszcze mi głupio \n Jeszcze wstyd \n Nie jestem gotowa \n Nie przyjdą te słowa \n Znasz mnie \n Chyba gdzieś głębiej muszę zejść \n Cała się trzęsę jest mi źle \n Bałagan mam w głowie \n Nie myślę rozsądnie \n\n Warszawa, lipiec 2023",
                   "I'm just Ken (and I'm enough) \n And I'm great at doing stuff \n So, hey, check me out, yeah, I'm just Ken \n My name's Ken (and so am I) \n Put that manly hand in mine \n So, hey, world, check me out, yeah, I'm just Ken \n\n Mazury, lipiec 2023",
                   ]
+
+var index_no = image_list.length;
 
 function formatTextWithLineBreaks(text) {
     return text.replace(/\n/g, "<br>");
