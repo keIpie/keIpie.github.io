@@ -104,7 +104,7 @@ function nextImage()
   var txt     = document.getElementById("subtitle");
   var yeartxt = document.getElementById("year-sub");
 
-  if (index != 17) {
+  if (index != (index_no-1))) {
     index             = index + 1;
     divimg.style.flex = "0 0 50%";
     divtxt.style.flex = "0 0 30%";
