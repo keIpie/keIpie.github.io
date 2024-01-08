@@ -24,8 +24,8 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 54;
-let array      = [0, 8, 16, 25, 32, 41, 49];
+var index_no   = 57;
+let array      = [0, 8, 16, 25, 32, 41, 44, 52];
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
@@ -82,6 +82,10 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2019/call.jpg",
                   "{{ site.baseurl }}/images/15_lat/2019/palma.jpg",
 
+                  "{{ site.baseurl }}/images/15_lat/2021/30stka.JPG",
+                  "{{ site.baseurl }}/images/15_lat/2021/brzuch.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2021/chleb.jpg",
+
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/czarny_pocisk.jpg",
@@ -129,21 +133,25 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "Ohhh, I can't quit you, baby, So I'm gonna put you down for awhile! - 2018",
                   "Omen piekieł kierował \n Twoim statkiem na ten brzeg \n Ojciec mówił mi córko \n Upij w sztok, a poznasz go \n Słowo rzekł się \n Będziesz dzieci mieć \n Czy pamiętasz z kim i gdzie? \n\n La Pared, styczeń 2018",
                   "Tell your heart that I'm the one \n Tell your heart it's me \n I want you \n Rockin' back inside my heart \n I want you \n Rockin' back inside my heart \n Rockin' back inside my heart \n Shadow in my house \n The man he has brown eyes \n She'll never go to Hollywood \n Love moves me \n'n Fuerta, styczeń 2018",
-                  "Wybacz proszę, \n Gdy się tak uśmiecham \ n Wybacz proszę \n Lecz nie na to czekam \n\n Wszystko czego dzis chce, \n Pamietaj o tym \n Polecieć chcę \n Tam i z powrotem \n Z ramion twych wprost \n Do nieba, do nieba \n\n Nowy York, kwiecień 2018",
+                  "Wybacz proszę, \n Gdy się tak uśmiecham \n Wybacz proszę \n Lecz nie na to czekam \n\n Wszystko czego dzis chce, \n Pamietaj o tym \n Polecieć chcę \n Tam i z powrotem \n Z ramion twych wprost \n Do nieba, do nieba \n\n Nowy York, kwiecień 2018",
                   "\n\n Szpital Św. Zofii, czerwiec 2018",
                   "You told me once I have a rebel heart \n I don't know if that's true \n But I believe you saw something in me that lives inside you too \n Now all I hear is the wind \n There's a storm coming through \n Did I misplace or forsake my love \n Now that I gave it to you? \n\n Stróża, sierpien 2018",
                   "Nic nie mam \n Zdmuchnęła mnie ta jesień całkiem \n Nawet nie wiem \n Jak tam sprawy za lasem \n Rano wstaję, poemat chwalę \n Biorę się za słowo jak za chleb \n\n Rzeczywiście tak jak księżyc \n Ludzie znają mnie tylko z jednej \n Jesiennej strony \n\n Dziekanów Polski, wrzesień 2018",
                   "Oto święty szczyt \n Jestem tutaj z nim \n Patrzę stąd na Babiloon \n Patrzę stąd na Babiloon \n Hej panie zły, jak się pan ma? \nJak tam pana gra? \n Nie nie nie nie nie nie nie nie tak \n\n Gran Canaria, grudzień 2018",
                   "Ta, nowa rana, ten sam szpital \n Doktor, nic nie pytaj, tylko zszyj tu i zszyj tam \n Ty, chwilka, pęka stów kilka \n Jesteś w moich winklach, to mój squat, park  i drink bar \n Miasto żyje we mnie, we mnie zdycha \n Grzechem stracić jest spryt, nie te brednie, że pycha \n\n Las Palmas, grudzień 2018",
 
-                  "Jerusalem! - 2019",
+                  "Oh Jerusalem - 2019",
                   "\n\n Jezioro Garda, maj 2019",
                   "\n\n Włochy, maj 2019",
                   "\n\n Warszawa, czerwiec 2019",
                   "\n\n Warszawa, lipiec 2019",
                   "\n\n Jezioro Genezaret, wrzesień 2019",
-                  "\n\n Warszawa / Las Palmas, listopad 2019",
+                  "For now I need your hidden love \n I'm cold as a new razor blade \n You left when I told you I was curious \m I never said that I was brave \n Oh so long, Marianne, it's time that we began \n to laugh and cry and cry and laugh about it all again \n\n Warszawa / Las Palmas, listopad 2019",
                   "\n\n Legionowo, listopad 2019",
+
+                  "2021",
+                  "\n\n Deski, czerwiec 2021",
+                  "Z wielu pieców się jadło chleb \n Bo od lat przyglądam się światu \n Nieraz rano zabolał łeb \n I mówili zmiana klimatu \n Czasem trafił się wielki raut \n Albo feta proletariatu \n Czasem podróż w najlepszym z aut \n Częściej szare drogi powiatu \n\n Cafe Atlantis, pażdziernik 2021",
 
                   "2023",
                   "Your faith was strong but you needed proof \n You saw her bathing on the roof \n Her beauty in the moonlight overthrew you \n She tied you to a kitchen chair \n She broke your throne, and she cut your hair \n And from your lips she drew the Hallelujah \n\n Sycylia, wrzesień 2023",
