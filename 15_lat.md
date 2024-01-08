@@ -70,14 +70,15 @@ function prevImage()
     index = (index - 1) % index_no;
     divimg.style.flex = "0 0 50%";
     divtxt.style.flex = "0 0 30%";
+    txt.innerHTML = formatTextWithLineBreaks(text_list[index]);
   }
   else {
     index = index_no - 1;
-    divimg.style.flex = "0 0 80%";
+    divimg.style.flex = "0 0 70%";
     divtxt.style.flex = "0 0 0%";
+    txt.innerHTML = "";
   }
   img.src       = image_list[index];
-  txt.innerHTML = formatTextWithLineBreaks(text_list[index]);
   return false;
 }
 
