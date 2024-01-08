@@ -31,9 +31,10 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2014/wymyslilam.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/blue_jeans.png",
                   "{{ site.baseurl }}/images/15_lat/2014/rozpierdolilas.JPG",
-                  "{{ site.baseurl }}/images/15_lat/2014/wilczyslad.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/misty.JPG",
+                  "{{ site.baseurl }}/images/15_lat/2014/wilczyslad.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/aleakoncert.jpg",
+
                   "{{ site.baseurl }}/images/15_lat/2015/znow.jpg",
                   "{{ site.baseurl }}/images/15_lat/2015/piano.jpg",
                   "{{ site.baseurl }}/images/15_lat/2015/onaczarna.png",
@@ -42,6 +43,7 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2015/remont.jpg",
                   "{{ site.baseurl }}/images/15_lat/2015/mnm-luzna.jpg",
                   "{{ site.baseurl }}/images/15_lat/2015/mimuw.png",
+                  
                   "{{ site.baseurl }}/images/15_lat/2016/przepasc.png",
                   "{{ site.baseurl }}/images/15_lat/2016/bistro.png",
                   "{{ site.baseurl }}/images/15_lat/2016/czarna_hancza.JPG",
