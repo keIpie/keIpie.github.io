@@ -24,7 +24,7 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 31;
+var index_no   = 37;
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
@@ -54,8 +54,12 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2016/czolg.JPG",
                   "{{ site.baseurl }}/images/15_lat/2016/jungle.png",
 
-                  "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2017/tancz.png",
+                  "{{ site.baseurl }}/images/15_lat/2017/bojery.png",
+                  "{{ site.baseurl }}/images/15_lat/2017/bernardynska.png",
+                  "{{ site.baseurl }}/images/15_lat/2017/slub.png",
                   "{{ site.baseurl }}/images/15_lat/2017/portugalia.jpg",
+
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2018/szpital.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
@@ -95,8 +99,12 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "Wszyscy z drogi idę jak czołg \n To miasto będzie dziś zdobyte \n Poddajcie się! Poddajcie się! Dziewczyny też \n Kto nie jest ze mną na przeciwko jest \n Tu będzie bal, tu będzie bal, czy chcesz czy nie \n\n Tirana, sierpień 2016",
                   "Welcome to the jungle \n We’ve got fun and games \n We’ve got everything you want \n Hon we know the names! \n\n Czarnogóra, sierpień 2016",
                   
-                  "2017",
+                  "To nie karnawał, ale tańczyć chcę i będę tańczył z nią co dzień - 2017",
+                  "I’m on a boat! \n I’m on a boat! \n Everybody look at me \n cause I’m sailing on a boat! \n\n Giżycko, styczeń 2017",
+                  "Z jakiegoś okna leci fu-gee-la-la \n widać że płynie ostatni letni balet \n zniknięty wieczór zniknięte słowa \n zniknięty facet \n\n Idę przez osiedle jak przez tren \n Ostatni Dzień Sierpnia roztapia się \n W windzie pachnie mokrym psem \n patrzę w lustro w którym nie odbijam się \n jest mnie za mało na lustra \n\n Czerniaków, Bernardyńska Woda, czerwiec 2017",
+                  "Kiedy przypłynie perłowa łódź \n Jak o tym śpiewa serce \n Ja Cię zawołam na cały głos \n Nie nie opuszczaj mnie już więcej \n\n Służew, 17.09.2017"
                   "Zaopiekuj się mną \n Nawet, gdy powodów brak! \n Zaopiekuj się mną, \n Mocno tak! \n\n I prawie kochasz mnie \n I jesteś obok! \n Już nienawidzę Cię, \n Tak kolorową! \n\n Portugalia, lipiec 2017",
+                  
                   "2018",
                   "\n\n Szpital Św. Zofii, czerwiec 2018",
                   "2019",
