@@ -24,7 +24,7 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 25;
+var index_no   = 30;
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
@@ -34,9 +34,14 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2014/wilczyslad.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/misty.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/aleakoncert.jpg",
-                  "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
-                  "{{ site.baseurl }}/images/15_lat/2015/piano.JPG",
+                  "{{ site.baseurl }}/images/15_lat/2015/znow.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2015/piano.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2015/onaczarna.png",
                   "{{ site.baseurl }}/images/15_lat/2015/jaskolka.JPG",
+                  "{{ site.baseurl }}/images/15_lat/2015/calusy.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2015/remont.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2015/mnm-luzna.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2015/mimuw.png",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2016/czarna_hancza.JPG",
                   "{{ site.baseurl }}/images/15_lat/2016/srebrzy.JPG",
@@ -54,6 +59,7 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2023/justken.jpg",
                   ]
 var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
+                  
                   "Na szarość naszych nocy \n na naszą bezimienność \n na szarość i nijakość \n jutrzejszych naszych marzeń \n na twarzy przezroczystość \n na twarze bez wyrazu \n na nasze oddalenie \n na naszą nieobecność \n i rozmów obojętność \n listek iskierkę cieni \n jak kotwicę \n wbij w nasze serce \n\n Deskurów, maj 2014",
                   "Dzisiaj nagle wymyśliłem Ciebie \n Twoje imię zadźwięczało we mnie \n Choć tyle innych jest \n Znam tylko jego dźwięk \n\n Błota Karwieńskie, sierpień 2014",
                   "Blue jeans, white shirt \n Walked into the room you know you made my eyes burn \n It was like James Dean, for sure \n You so fresh to death and sick as ca-cancer \n You were sorta punk rock, I grew up on hip hop \n But you fit me better than my favorite sweater, and I know \n That love is mean, and love hurts \n But I still remember that day we met in December, oh baby \n\n Ursynów 2014", 
@@ -61,9 +67,16 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "Far Over the Misty Mountains Cold \n To Dungeons Deep and Caverns Old \n We must away ere break of day \n To find our long-forgotten gold \n\n The Pines were Roaring on The Heights \n The Winds were Moaning in the Night \n The Fire was Red, it Flaming Spread \n The Trees Like Torches Blazed with Light",
                   "Za wilczym śladem podążę w zamieć \n I twoje serce wytropię uparte \n Przez gniew i smutek, stwardniałe w kamień \n Rozpalę usta     smagane wiatrem \n\n Bieszczady, wrzesień 2014",
                   "A śnieg biały błyska pod czarnymi kołami \n Tu czas odmierzamy pustymi flaszkami \n Dla ludzi umarłych już nie ma zbawienia \n Pod stalowym niebem nic się nie zmienia \n\n 2 koła, listopad 2014",
-                  "2015",
+                  
+                  "Znów wędrujemy ciepłym krajem, malachitową łąką morza - 2015",
                   "And the newspapers were fooling \n And the ash-trays have retired \n Cause the piano has been drinking \n The piano has been drinking \n The piano has been drinking, not me \n Not me, not me, not me, not me \n\n Londyn, luty 2015",
+                  "Nie nasza rzecz nasza rzecz naszą robić rzecz \n\n Verfluchten polnischen, polnischen \n partisanen, banditen, banditen \n\n Halo halo! \n Tutaj Londyn! tutaj Londyn! \n Ona czarna, \n A on blondyn, a on blodyn \n\n Londyn, luty 2015",
                   "Jaskółka czarny sztylet, wydarty z piersi wiatru \n Nagła smutku kotwica, z niewidzialnego jachtu \n Katedra ją złowiła w sklepienia sieć wysoką \n Jak śmierć kamienna bryła \n Jak wyrok naw prostokąt \n Jaskółka błyskawica w kościele obumarłym \n Tnie jak czarne nożyce lęk, który ją ogarnia \n\n Londyn, luty 2015",
+                  "Hey, brother, nice and steady \n Put down your drink, you ready \n It's hard when things get messy \n (They call it lonely digging) \n Your booty shaking, you know \n Your head has no right to say no \n Tonight it's ready, set, go \n Baby can you move it round the rhythm \n So we can get with'em \n To the ground and get us a rock and roll round \n Just a downtown body body coming with a super-hottie \n Let's go, yes, no, hell no \n\n Warszawa-Berlin Express, 26.05.2015",
+                  "Must be the reason why I'm king of my castle \n Must be the reason why I'm freeing my trapped soul \n Must be the reason why I'm king of my castle \n Must be a reason why I'm making examples of you \n\n Neseberska, lipiec 2015",
+                  "Czy to gawron był takim mistrzem w swoim rzemiośle, czy to samochód był tak doskonały, dość że wkrótce otworzywszy oczy zobaczyła pod sobą nie ciemność boru, lecz rozedrgane jezioro świateł Moskwy. \n\n Warszawa, sierpień 2015",
+                  "Automaty liczą, liczą, liczą \n Liczą cały czas \n Automaty liczą na człowieka \n Automaty liczą, programują, odgarniają śnieg \n Liczną liczbą liczą obliczenia, \n Automaty, liczą, mylą się, a powinny nie \n Automaty automatyzują \n Automaty szybko niszczą się \n Ale znowu się reprodukują \n (...) \n Wielkie automaty liczą nas, segregują nas, \n Małych ludzi, co je obsługują, \n Wykonują rzędy długich liczb, \n Niewiadomych liczb, \n Oznaczają nas symbolem x \n\n MIMUW, wrzesień 2015 "
+
                   "2016",
                   "Reggae reggae reggae bieszczadzkie \n Reggae reggae reggae \n Słońcem pachnące ma jagód smak \n Reggae reggae reggae bieszczadzkie \n Reggae reggae reggae \n Jak potok rwące przed siebie gna \n\n Czarna Hańcza, lipiec 2016",
                   "Dziewczyny szare, płaskie jak filc \n Słuchają pustych słów \n Poprzez tysiące mroźnych mil \n Srebrzy im piersi nów \n A jak majowy dzwon na dnie \n Gdy zatopiony w drzwi \n Tak w piersiach serca tłuką się \n Serca koloru krwi \n\n Rodonit, sierpień 2016",
