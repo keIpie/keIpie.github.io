@@ -13,7 +13,7 @@ permalink: /15_lat/
     <p style="text-align:center" id="year-sub"> 2019 </p>
   </div>
   <div id="div-txt" style="flex: 0 0 0%; align-items: center;">
-    <p style="text-align:left; margin-left: 100px;" id="subtitle"> "" </p>
+    <p style="text-align:left; margin-left: 100px;" id="subtitle"> </p>
   </div>
   <div style="flex: 0 0 10%;" class="vertical-center"><button onclick="nextImage();" style="border: 0px; background-color:white;"> 
     <span class="arrowhtml">&#8250;</span> </button>
@@ -77,7 +77,7 @@ function prevImage()
   var txt     = document.getElementById("subtitle");
   var yeartxt = document.getElementById("year-sub");
 
-  if (index != 0) {
+  if (index != 1) {
     index             = (index - 1) % index_no;
     divimg.style.flex = "0 0 50%";
     divtxt.style.flex = "0 0 30%";
@@ -100,8 +100,8 @@ function nextImage()
 {
   var divimg  = document.getElementById("div-img");
   var divtxt  = document.getElementById("div-txt");
-  var img = document.getElementById("image");
-  var txt = document.getElementById("subtitle");
+  var img     = document.getElementById("image");
+  var txt     = document.getElementById("subtitle");
   var yeartxt = document.getElementById("year-sub");
 
   if (index != 17) {
