@@ -98,11 +98,28 @@ function prevImage()
 
 function nextImage()
 {
+  var divimg  = document.getElementById("div-img");
+  var divtxt  = document.getElementById("div-txt");
   var img = document.getElementById("image");
   var txt = document.getElementById("subtitle");
-  index = (index + 1) % index_no;
-  img.src         = image_list[index];
-  txt.innerHTML = formatTextWithLineBreaks(text_list[index]);
+  var yeartxt = document.getElementById("year-sub");
+
+  if (index != 17) {
+    index             = index + 1;
+    divimg.style.flex = "0 0 50%";
+    divtxt.style.flex = "0 0 30%";
+    img.src           = image_list[index];
+    txt.innerHTML     = formatTextWithLineBreaks(text_list[index]);
+    yeartxt           = "";
+  }
+  else {
+    index             = (index + 1) % index_no;
+    divimg.style.flex = "0 0 70%";
+    divtxt.style.flex = "0 0 0%";
+    img.src           = image_list[index];
+    txt.innerHTML     = "";
+    yeartxt           = text_list[index];
+  }
   return false;
 }
 
