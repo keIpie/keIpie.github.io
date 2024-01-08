@@ -153,7 +153,7 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "For now I need your hidden love \n I'm cold as a new razor blade \n You left when I told you I was curious \n I never said that I was brave \n\n Oh so long, Marianne, it's time that we began \n to laugh and cry and cry and laugh about it all again \n\n Warszawa / Las Palmas, listopad 2019",
                   "\n\n Legionowo, listopad 2019",
 
-                  "Like a bird on a wire \n Like a drunk in a midnight choir \n I have tried in my way to be free \n\n Sopot, luty 2020,
+                  "Like a bird on a wire \n Like a drunk in a midnight choir \n I have tried in my way to be free \n\n Sopot, luty 2020",
                   "\n\n Fuerta, listopad 2020",
 
                   "2021",
