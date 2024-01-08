@@ -83,7 +83,7 @@ function prevImage()
     divtxt.style.flex = "0 0 30%";
     img.src           = image_list[index];
     txt.innerHTML     = formatTextWithLineBreaks(text_list[index]);
-    yeartxt           = "";
+    yeartxt.innerHTML = "";
   }
   else {
     index             = index_no - 1;
@@ -91,7 +91,7 @@ function prevImage()
     divtxt.style.flex = "0 0 0%";
     img.src           = image_list[index];
     txt.innerHTML     = "";
-    yeartxt           = text_list[index];
+    yeartxt.innerHTML = text_list[index];
   }
   return false;
 }
@@ -110,7 +110,7 @@ function nextImage()
     divtxt.style.flex = "0 0 30%";
     img.src           = image_list[index];
     txt.innerHTML     = formatTextWithLineBreaks(text_list[index]);
-    yeartxt           = "";
+    yeartxt.innerHTML = "";
   }
   else {
     index             = (index + 1) % index_no;
@@ -118,7 +118,7 @@ function nextImage()
     divtxt.style.flex = "0 0 0%";
     img.src           = image_list[index];
     txt.innerHTML     = "";
-    yeartxt           = text_list[index];
+    yeartxt.innerHTML = text_list[index];
   }
   return false;
 }
