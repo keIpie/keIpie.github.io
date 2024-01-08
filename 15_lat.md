@@ -24,7 +24,7 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 48;
+var index_no   = 54;
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
@@ -72,8 +72,14 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2018/grancanaria.png",
                   "{{ site.baseurl }}/images/15_lat/2018/piorun.png",
 
-                  "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2019/jeruszalaim.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2019/garda.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2019/lusterko.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2019/zmywcia.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2019/siniak.jpg",
                   "{{ site.baseurl }}/images/15_lat/2019/izrael.JPG",
+                  "{{ site.baseurl }}/images/15_lat/2019/call.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2019/palma.jpg",
 
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
@@ -128,8 +134,16 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   "Oto święty szczyt \n Jestem tutaj z nim \n Patrzę stąd na Babiloon \n Patrzę stąd na Babiloon \n Hej panie zły, jak się pan ma? \nJak tam pana gra? \n Nie nie nie nie nie nie nie nie tak \n\n Gran Canaria, grudzień 2018",
                   "Ta, nowa rana, ten sam szpital \n Doktor, nic nie pytaj, tylko zszyj tu i zszyj tam \n Ty, chwilka, pęka stów kilka \n Jesteś w moich winklach, to mój squat, park  i drink bar \n Miasto żyje we mnie, we mnie zdycha \n Grzechem stracić jest spryt, nie te brednie, że pycha \n\n Las Palmas, grudzień 2018"
 
-                  "2019",
+                  "Jerusalem! - 2019",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
                   "\n\n Jezioro Genezaret, wrzesień 2019",
+                  "",
+                  "",
+
                   "2023",
                   "Your faith was strong but you needed proof \n You saw her bathing on the roof \n Her beauty in the moonlight overthrew you \n She tied you to a kitchen chair \n She broke your throne, and she cut your hair \n And from your lips she drew the Hallelujah \n\n Sycylia, wrzesień 2023",
                   "Mówią na niego Czarny Pocisk \n On samochodem mknie \n W czyste białe światło \n Nucąc rzewną pieśń \n Nie wołaj nie zaklinaj \n Nie usłyszy nic \n Tu nie miał nigdy domu i każdy z niego drwi \n\n Sycylia, wrzesień 2023",
