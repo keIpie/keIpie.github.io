@@ -48,11 +48,12 @@ var image_list = [
                   "{{ site.baseurl }}/images/15_lat/2016/bistro.png",
                   "{{ site.baseurl }}/images/15_lat/2016/czarna_hancza.JPG",
                   "{{ site.baseurl }}/images/15_lat/2016/iskra.png",
-                  "{{ site.baseurl }}/images/15_lat/2016/srebrzy.JPG",
+                  "{{ site.baseurl }}/images/15_lat/2016/srebrzy.png",
                   "{{ site.baseurl }}/images/15_lat/2016/falling.png",
                   "{{ site.baseurl }}/images/15_lat/2016/okosmoka.png",
                   "{{ site.baseurl }}/images/15_lat/2016/czolg.JPG",
                   "{{ site.baseurl }}/images/15_lat/2016/jungle.png",
+
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2017/portugalia.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
