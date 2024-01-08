@@ -25,9 +25,9 @@ permalink: /15_lat/
 
 var index      = 0;
 var index_no   = 54;
+let array      = [0, 8, 16, 25, 32, 41, 49];
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
-
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
                   "{{ site.baseurl }}/images/15_lat/2014/wymyslilam.JPG",
                   "{{ site.baseurl }}/images/15_lat/2014/blue_jeans.png",
@@ -57,11 +57,11 @@ var image_list = [
 
                   "{{ site.baseurl }}/images/15_lat/2017/tancz.png",
                   "{{ site.baseurl }}/images/15_lat/2017/bojery.png",
-                  "{{ site.baseurl }}/images/15_lat/2017/zegarmistrz.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2017/zegarmistrz.png",
                   "{{ site.baseurl }}/images/15_lat/2017/bernardynska.png",
                   "{{ site.baseurl }}/images/15_lat/2017/slub.png",
                   "{{ site.baseurl }}/images/15_lat/2017/portugalia.jpg",
-                  "{{ site.baseurl }}/images/15_lat/2017/gotham.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2017/gotham.png",
 
                   "{{ site.baseurl }}/images/15_lat/2018/volvo.png",
                   "{{ site.baseurl }}/images/15_lat/2018/lapared.png",
