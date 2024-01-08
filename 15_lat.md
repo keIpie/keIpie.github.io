@@ -24,7 +24,7 @@ permalink: /15_lat/
 <script>
 
 var index      = 0;
-var index_no   = 37;
+var index_no   = 39;
 var image_list = [
                   "{{ site.baseurl }}/images/15_lat/just_watch.png",
                   "{{ site.baseurl }}/images/15_lat/2014/deskurow.jpg",
@@ -56,14 +56,18 @@ var image_list = [
 
                   "{{ site.baseurl }}/images/15_lat/2017/tancz.png",
                   "{{ site.baseurl }}/images/15_lat/2017/bojery.png",
+                  "{{ site.baseurl }}/images/15_lat/2017/zegarmistrz.jpg",
                   "{{ site.baseurl }}/images/15_lat/2017/bernardynska.png",
                   "{{ site.baseurl }}/images/15_lat/2017/slub.png",
                   "{{ site.baseurl }}/images/15_lat/2017/portugalia.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2017/gotham.jpg",
+
+                  "{{ site.baseurl }}/images/15_lat/2018/volvo.png",
+                  "{{ site.baseurl }}/images/15_lat/2018/szpital.jpg",
 
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
-                  "{{ site.baseurl }}/images/15_lat/2018/szpital.jpg",
-                  "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2019/izrael.JPG",
+
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/czarny_pocisk.jpg",
@@ -101,11 +105,13 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
                   
                   "To nie karnawał, ale tańczyć chcę i będę tańczył z nią co dzień - 2017",
                   "I’m on a boat! \n I’m on a boat! \n Everybody look at me \n cause I’m sailing on a boat! \n\n Giżycko, styczeń 2017",
+                  "A kiedy przyjdzie także po mnie \n Zegarmistrz światła purpurowy \n By mi zabełtać błękit w głowie \n To będę jasny i gotowy \n\n Lwów, maj 2017",
                   "Z jakiegoś okna leci fu-gee-la-la \n widać że płynie ostatni letni balet \n zniknięty wieczór zniknięte słowa \n zniknięty facet \n\n Idę przez osiedle jak przez tren \n Ostatni Dzień Sierpnia roztapia się \n W windzie pachnie mokrym psem \n patrzę w lustro w którym nie odbijam się \n jest mnie za mało na lustra \n\n Czerniaków, Bernardyńska Woda, czerwiec 2017",
                   "Kiedy przypłynie perłowa łódź \n Jak o tym śpiewa serce \n Ja Cię zawołam na cały głos \n Nie nie opuszczaj mnie już więcej \n\n Służew, 17.09.2017"
                   "Zaopiekuj się mną \n Nawet, gdy powodów brak! \n Zaopiekuj się mną, \n Mocno tak! \n\n I prawie kochasz mnie \n I jesteś obok! \n Już nienawidzę Cię, \n Tak kolorową! \n\n Portugalia, lipiec 2017",
+                  "Ja opuszczam Gotham z Kobietą Kotem! \n\n mój pojazd rdzewieje na parkingu \n mój kostium mam w walizce, nie użyję go nigdy \n\n tak bardzo chciałem żeby przetrwało \n a teraz już mi się nie chce \n i niech to miasto sczeźnie \n'n Warszawa, sierpień 2017",
                   
-                  "2018",
+                  "Ohhh, I can't quit you, baby, So I'm gonna put you down for awhile! - 2018",
                   "\n\n Szpital Św. Zofii, czerwiec 2018",
                   "2019",
                   "\n\n Jezioro Genezaret, wrzesień 2019",
