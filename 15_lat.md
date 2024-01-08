@@ -174,7 +174,7 @@ function prevImage()
 
   index = (index - 1) % index_no;
   
-  if array.includes(index) {
+  if (array.includes(index)) {
     divimg.style.flex = "0 0 70%";
     divtxt.style.flex = "0 0 0%";
     img.src           = image_list[index];
@@ -201,7 +201,7 @@ function nextImage()
   
   index = (index + 1) % index_no;
 
-  if array.includes(index) {
+  if (array.includes(index)) {
     divimg.style.flex = "0 0 70%";
     divtxt.style.flex = "0 0 0%";
     img.src           = image_list[index];
