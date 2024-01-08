@@ -90,7 +90,7 @@ var image_list = [
 
                   "{{ site.baseurl }}/images/15_lat/2022/chmurko.JPG",
 
-                  "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
+                  "{{ site.baseurl }}/images/15_lat/2023/dont_hurry.jpeg",
                   "{{ site.baseurl }}/images/15_lat/2023/overthrown.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/czarny_pocisk.jpg",
                   "{{ site.baseurl }}/images/15_lat/2023/oddech.jpg",
@@ -162,7 +162,7 @@ var text_list = [ "27.12.2014/27.12.2023 - Don’t believe it, just watch!",
 
                   "Chmurko, jesteś różowa \n przypominam sobie \n twarze współuczniów \n współwięźniów \n współżołnierzy \n wszystkie były tępe i wyrażały tylko jedno \n moja twarz była w tym wszystkim najstraszniejsza \n bo moja \n Chmurko, niebieskie niebo \n Chmurko, niebieskie niebo \n\n Madera, marzec 2022",
 
-                  "2023",
+                  "I don't hurry, even if you wait - Bolang - 2023",
                   "Your faith was strong but you needed proof \n You saw her bathing on the roof \n Her beauty in the moonlight overthrew you \n She tied you to a kitchen chair \n She broke your throne, and she cut your hair \n And from your lips she drew the Hallelujah \n\n Sycylia, wrzesień 2023",
                   "Mówią na niego Czarny Pocisk \n On samochodem mknie \n W czyste białe światło \n Nucąc rzewną pieśń \n Nie wołaj nie zaklinaj \n Nie usłyszy nic \n Tu nie miał nigdy domu i każdy z niego drwi \n\n Sycylia, wrzesień 2023",
                   "Jeszcze mi głupio \n Jeszcze wstyd \n Nie jestem gotowa \n Nie przyjdą te słowa \n Znasz mnie \n Chyba gdzieś głębiej muszę zejść \n Cała się trzęsę jest mi źle \n Bałagan mam w głowie \n Nie myślę rozsądnie \n\n Warszawa, lipiec 2023",
