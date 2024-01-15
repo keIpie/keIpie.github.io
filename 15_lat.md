@@ -185,7 +185,12 @@ function prevImage()
   var yeartxt = document.getElementById("year-sub");
 
   var index_no = image_list.length;
-  index        = (index - 1) % index_no;
+  if (index == 0) {
+    index = image_list.length - 1;
+  }
+  else{
+   index = (index - 1) % index_no; 
+  }
   
   if (array.includes(index)) {
     divimg.style.flex = "0 0 70%";
